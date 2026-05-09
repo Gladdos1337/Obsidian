@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web Hacking/Cross-site Scripting (XSS)/Intro to Cross-site Scripting.md",
+                "file": "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro to Cross-site Scripting"
+              "title": "1. Intro to Cross-site Scripting"
             }
           }
         ]
@@ -186,8 +186,17 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Stored XSS.md",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
+    "CCNA/CCNA - Pics/Pasted image 20260509204059.png",
+    "CCNA/CCNA - Pics/Pasted image 20260509203611.png",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
+    "CCNA/CCNA - Pics/Pasted image 20260509203258.png",
+    "CCNA/CCNA - Pics/Pasted image 20260509203132.png",
+    "CCNA/CCNA - Pics/Pasted image 20260509203056.png",
     "OSCP/Web Hacking/SSFR/Defeating Common SSRF Defenses.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Intro to Cross-site Scripting.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)",
     "OSCP/Web Hacking/SSFR/SSRF - starting point.md",
     "CCNA/CCNA - Pics/Pasted image 20260509142445.png",
@@ -201,12 +210,7 @@
     "OSCP/Web Hacking/Untitled.md",
     "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
-    "CCNA/CCNA - Pics/Pasted image 20260509002658.png",
-    "CCNA/CCNA - Pics/Pasted image 20260509002642.png",
-    "CCNA/CCNA - Pics/Pasted image 20260509002638.png",
-    "CCNA/CCNA - Pics/Pasted image 20260509002629.png",
     "OSCP/Web Hacking/File Inclusion/File Inclusion.md",
-    "CCNA/CCNA - Pics/Pasted image 20260508164845.png",
     "OSCP/Web Hacking/File Inclusion/Directory or Path Traversal.md",
     "OSCP/Web Hacking/File Inclusion",
     "OSCP/Web Hacking/Content Discovery/Username enumeration.md",
@@ -228,10 +232,6 @@
     "OSCP/Web Hacking/Content Discovery",
     "CCNA/CCNA - Lessons/What i sucked at in megalab (to fix).md",
     "OSCP",
-    "CCNA/CCNA - Lessons/Etherchannel.md",
-    "CCNA/CCNA - Lessons/SSH and Telnet.md",
-    "SSH/telent.md",
-    "CCNA/CCNA - Lessons/Data Serialization (JSON, XML, YAML).md",
     "Untitled.canvas"
   ]
 }
