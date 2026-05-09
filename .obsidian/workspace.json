@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web Hacking/SSFR/Defeating Common SSRF Defenses.md",
+                "file": "OSCP/Web Hacking/Cross-site Scripting (XSS)/Intro to Cross-site Scripting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defeating Common SSRF Defenses"
+              "title": "Intro to Cross-site Scripting"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/Web Hacking/SSFR/SSRF - starting point.md",
     "OSCP/Web Hacking/SSFR/Defeating Common SSRF Defenses.md",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Intro to Cross-site Scripting.md",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)",
+    "OSCP/Web Hacking/SSFR/SSRF - starting point.md",
     "CCNA/CCNA - Pics/Pasted image 20260509142445.png",
     "CCNA/CCNA - Pics/Pasted image 20260509142435.png",
     "CCNA/CCNA - Pics/Pasted image 20260509142426.png",
@@ -230,8 +232,6 @@
     "CCNA/CCNA - Lessons/SSH and Telnet.md",
     "SSH/telent.md",
     "CCNA/CCNA - Lessons/Data Serialization (JSON, XML, YAML).md",
-    "CCNA/CCNA - Lessons/39 - DNS.md",
-    "SSH",
     "Untitled.canvas"
   ]
 }
