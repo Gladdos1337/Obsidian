@@ -6,7 +6,6 @@
       {
         "id": "bc3ac34bb10aab57",
         "type": "tabs",
-        "dimension": 87.30964467005077,
         "children": [
           {
             "id": "e47f27a6dd45b0b1",
@@ -14,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
+                "file": "OSCP/readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LFI (Local File Inclusion)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "59d1c285a6881f91",
-        "type": "tabs",
-        "dimension": 12.690355329949234,
-        "children": [
-          {
-            "id": "3595e3a8e459caf0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "readme"
             }
           }
         ]
@@ -96,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -204,6 +186,7 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "CCNA/CCNA - Pics/Pasted image 20260509002658.png",
     "CCNA/CCNA - Pics/Pasted image 20260509002642.png",
     "CCNA/CCNA - Pics/Pasted image 20260509002638.png",
@@ -211,7 +194,6 @@
     "OSCP/Web Hacking/File Inclusion/File Inclusion.md",
     "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
     "CCNA/CCNA - Pics/Pasted image 20260508164845.png",
-    "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/Directory or Path Traversal.md",
     "CCNA/CCNA - Pics/Pasted image 20260507143551.png",
     "OSCP/Web Hacking/IDOR/Insecure direct object references (IDOR).md",
@@ -248,7 +230,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260212073903.png",
     "SSH",
     "CCNA/CCNA - Pics/Pasted image 20260212065924.png",
-    "CCNA/CCNA - Pics/Pasted image 20260212065908.png",
     "desktop.ini",
     "Untitled.canvas"
   ]
