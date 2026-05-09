@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
+                "file": "OSCP/Web Hacking/Race Condition/Introduction to Race Condition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blind XSS"
+              "title": "Introduction to Race Condition"
             }
           }
         ]
@@ -186,12 +186,14 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
+    "OSCP/Web Hacking/Race Condition/Introduction to Race Condition.md",
+    "OSCP/Web Hacking/Race Condition",
     "CCNA/CCNA - Pics/Pasted image 20260509222517.png",
     "CCNA/CCNA - Pics/Pasted image 20260509222509.png",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Stored XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
     "CCNA/CCNA - Pics/Pasted image 20260509204059.png",
     "CCNA/CCNA - Pics/Pasted image 20260509203611.png",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
@@ -204,7 +206,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260509142445.png",
     "CCNA/CCNA - Pics/Pasted image 20260509142435.png",
     "CCNA/CCNA - Pics/Pasted image 20260509142426.png",
-    "CCNA/CCNA - Pics/Pasted image 20260509142419.png",
     "OSCP/readme.md",
     "OSCP/Web Hacking/IDOR/Insecure direct object references (IDOR).md",
     "OSCP/Web Hacking/SSFR",
@@ -231,7 +232,6 @@
     "OSCP/Web Hacking/Content Discovery/1. Content Discovery.md",
     "OSCP/Theory.md",
     "OSCP/Web Hacking/Content Discovery",
-    "OSCP",
     "Untitled.canvas"
   ]
 }
