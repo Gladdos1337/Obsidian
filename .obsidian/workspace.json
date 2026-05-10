@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web Hacking/Race Condition/Multi-Threading.md",
+                "file": "OSCP/Boxes/(THM) Thompson/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multi-Threading"
+              "title": "1"
             }
           }
         ]
@@ -186,15 +186,17 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "CCNA/CCNA - Pics/Pasted image 20260510171630.png",
     "OSCP/Boxes/1. Example/1. Example.md",
+    "OSCP/Boxes/(THM) Thompson/1.md",
+    "OSCP/Web Hacking/Race Condition/Multi-Threading.md",
+    "OSCP/Boxes/(THM) Thompson",
+    "CCNA/CCNA - Pics/Pasted image 20260510171630.png",
     "OSCP/Boxes/1. Example/HTTP (80).md",
     "OSCP/Boxes/1. Example/SMTP (25).md",
     "OSCP/Boxes/1. Example/SSH (22).md",
     "OSCP/Boxes/1. Example",
     "OSCP/readme.md",
     "OSCP/Boxes",
-    "OSCP/Web Hacking/Race Condition/Multi-Threading.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
     "OSCP/Web Hacking/Race Condition",
     "CCNA/CCNA - Pics/Pasted image 20260509222517.png",
@@ -213,7 +215,6 @@
     "OSCP/Web Hacking/SSFR/SSRF - starting point.md",
     "CCNA/CCNA - Pics/Pasted image 20260509142445.png",
     "CCNA/CCNA - Pics/Pasted image 20260509142435.png",
-    "CCNA/CCNA - Pics/Pasted image 20260509142426.png",
     "OSCP/Web Hacking/IDOR/Insecure direct object references (IDOR).md",
     "OSCP/Web Hacking/SSFR",
     "OSCP/Web Hacking/Untitled.md",
@@ -229,7 +230,6 @@
     "OSCP/Web Hacking/Authentication bypass/Brute force.md",
     "OSCP/Content Discovery/Untitled 1.md",
     "OSCP/Web Hacking/Authentication bypass",
-    "OSCP/Content Discovery/Untitled",
     "OSCP/Content Discovery/Untitled.md",
     "OSCP/Web Hacking/Tools/ffuf.md",
     "Untitled.canvas"
