@@ -43,3 +43,43 @@ A **process** is a **_program_** in execution. In some literature, you might com
 - **Program**: The executable code related to the process
 - **Memory**: Temporary data storage
 - **State**: A process usually hops between different states. After it is in the New state, i.e., just created, it moves to the Ready state, i.e., ready to run once given CPU time. Once the CPU allocates time for it, it goes to the Running state. Furthermore, it can be in the Waiting state pending I/O or event completion. Once it exits, it moves to the Terminated state.
+![[Pasted image 20260510171630.png]]
+
+f you run the Flask code above, a process will be created, and it will listen for incoming connections at port 8080. In other words, it will spend most of its time in the Waiting state. When it receives an HTTP `GET /` request, it will switch to the Ready state, waiting for its turn to run based on the
+
+scheduling. Once in the Running state, it sends the HTML page to the client and returns to the Waiting state.
+
+From the server’s perspective, the app is servicing clients sequentially, i.e., client requests are processed one at a time. (Note that Flask is multi-threaded by default since version 1.0. We used the argument `--without-threads` to force it to run single-threaded.)
+
+     flask run --without-threads --host=0.0.0.0 
+    * Debug mode: off 
+    * WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.  
+    * Running on all addresses (0.0.0.0)  
+    * Running on http://127.0.0.1:5000  
+    * Running on http://192.168.0.104:5000 Press CTRL+C to quit 
+    * 127.0.0.1 - - [16/Apr/2024 23:34:46] "GET / HTTP/1.1" 200 - 
+    * 127.0.0.1 - - [16/Apr/2024 23:34:48] "GET / HTTP/1.1" 200 - 
+    * 127.0.0.1 - - [16/Apr/2024 23:35:11] "GET / HTTP/1.1" 200 -`
+
+A thread is a lightweight unit of execution. It shares various memory parts and instructions with the process.
+
+In many cases, we need to replicate the same process repeatedly. Think of a web server serving thousands of users the same page (or a personalized page). We can adopt one of two main approaches:
+
+- Serial: One process is running; it serves one user after the other sequentially. New users are enqueued.
+- Parallel: One process is running; it creates a thread to serve every new user. New users are only enqueued after the maximum number of running threads is reached.
+
+The previous app can run with four threads using Gunicorn. Gunicorn, also called the “Green Unicorn”, is a **Python WSGI**
+
+**server**. WSGI stands for Web Server Gateway Interface, which bridges web servers and Python web applications. In particular, Gunicorn can spawn multiple worker processes to handle incoming requests simultaneously. By running `gunicorn` with the `--workers=4` option, we are specifying that we want four workers ready to tackle clients’ requests; moreover, `--threads=2` indicates that each worker process can spawn two threads.
+
+```shell-session
+gunicorn --workers=4 --threads=2 -b 0.0.0.0:8080 app:app
+[2024-04-16 23:35:59 +0300] [507149] [INFO] Starting gunicorn 21.2.0
+[2024-04-16 23:35:59 +0300] [507149] [INFO] Listening at: http://0.0.0.0:8080 (507149)
+[2024-04-16 23:35:59 +0300] [507149] [INFO] Using worker: gthread
+[2024-04-16 23:35:59 +0300] [507150] [INFO] Booting worker with pid: 507150
+[2024-04-16 23:35:59 +0300] [507151] [INFO] Booting worker with pid: 507151
+[2024-04-16 23:35:59 +0300] [507152] [INFO] Booting worker with pid: 507152
+[2024-04-16 23:35:59 +0300] [507153] [INFO] Booting worker with pid: 507153
+```
+
