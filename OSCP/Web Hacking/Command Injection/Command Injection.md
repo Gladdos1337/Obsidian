@@ -9,3 +9,8 @@ In this code snippet, the application takes data that a user enters in an input 
 
 
 ![[Pasted image 20260510210258.png]]
+
+**1.** The application stores MP3 files in a directory contained on the operating system.
+**2.** The user inputs the song title they wish to search for. The application stores this input into the `$title` variable.
+**3.** The data within this `$title` variable is passed to the command `grep` to search a text file named _songtitle.__txt_ for the entry of whatever the user wishes to search for.
+**4.** The output of this search of _songtitle.__txt_ will determine whether the application informs the user that the song exists or not.
