@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/readme.md",
+                "file": "OSCP/Boxes/1. Example/1. Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "1. Example"
             }
           }
         ]
@@ -186,6 +186,13 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/Boxes/1. Example/HTTP (80).md",
+    "OSCP/Boxes/1. Example/1. Example.md",
+    "OSCP/Boxes/1. Example/SMTP (25).md",
+    "OSCP/Boxes/1. Example/SSH (22).md",
+    "OSCP/Boxes/1. Example",
+    "OSCP/readme.md",
+    "OSCP/Boxes",
     "OSCP/Web Hacking/Race Condition/Multi-Threading.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
     "OSCP/Web Hacking/Race Condition",
@@ -206,7 +213,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260509142445.png",
     "CCNA/CCNA - Pics/Pasted image 20260509142435.png",
     "CCNA/CCNA - Pics/Pasted image 20260509142426.png",
-    "OSCP/readme.md",
     "OSCP/Web Hacking/IDOR/Insecure direct object references (IDOR).md",
     "OSCP/Web Hacking/SSFR",
     "OSCP/Web Hacking/Untitled.md",
@@ -225,13 +231,7 @@
     "OSCP/Content Discovery/Untitled",
     "OSCP/Content Discovery/Untitled.md",
     "OSCP/Web Hacking/Tools/ffuf.md",
-    "OSCP/Web Hacking/Tools",
     "OSCP/Web Hacking/Content Discovery/1.2 Automated Discovery.md",
-    "OSCP/Web Hacking/Content Discovery/1.3 OSINT.md",
-    "OSCP/Web Hacking/Content Discovery/1.1 Manual Discovery.md",
-    "OSCP/Web Hacking/Content Discovery/1. Content Discovery.md",
-    "OSCP/Theory.md",
-    "OSCP/Web Hacking/Content Discovery",
     "Untitled.canvas"
   ]
 }
