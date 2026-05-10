@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/(THM) Thompson/SSH (22).md",
+                "file": "OSCP/Boxes/(THM) Thompson/http Apache Tomcat (8080).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH (22)"
+              "title": "http Apache Tomcat (8080)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 379.5
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -186,7 +186,9 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/Boxes/(THM) Thompson/1.md",
+    "OSCP/Boxes/(THM) Thompson/ajp13 Apache Tomcat (8009).md",
+    "OSCP/Boxes/(THM) Thompson/10.112.160.209.md",
+    "OSCP/Boxes/(THM) Thompson/http Apache Tomcat (8080).md",
     "OSCP/Boxes/(THM) Thompson/SSH (22).md",
     "OSCP/Boxes/1. Example/1. Example.md",
     "OSCP/Web Hacking/Race Condition/Multi-Threading.md",
@@ -229,9 +231,7 @@
     "OSCP/Web Hacking/IDOR",
     "OSCP/IDOR.md",
     "OSCP/Web Hacking/Authentication bypass/Brute force.md",
-    "OSCP/Content Discovery/Untitled 1.md",
     "OSCP/Web Hacking/Authentication bypass",
-    "OSCP/Content Discovery/Untitled.md",
     "Untitled.canvas"
   ]
 }
