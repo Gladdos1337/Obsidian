@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web Hacking/Command Injection/Remediating Command Injection.md",
+                "file": "OSCP/Web Hacking/Command Injection/Command Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remediating Command Injection"
+              "title": "Command Injection"
             }
           }
         ]
@@ -186,14 +186,14 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/Web Hacking/Command Injection/Determing if it can occur.md",
+    "OSCP/Web Hacking/Command Injection/Remediating Command Injection.md",
     "CCNA/CCNA - Pics/Pasted image 20260510213808.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213605.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213445.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213437.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213431.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213424.png",
-    "OSCP/Web Hacking/Command Injection/Determing if it can occur.md",
-    "OSCP/Web Hacking/Command Injection/Remediating Command Injection.md",
     "CCNA/CCNA - Pics/Pasted image 20260510212705.png",
     "OSCP/Web Hacking/Command Injection/Command Injection.md",
     "CCNA/CCNA - Pics/Pasted image 20260510210258.png",
@@ -215,7 +215,6 @@
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
     "OSCP/Web Hacking/Race Condition",
     "CCNA/CCNA - Pics/Pasted image 20260509222517.png",
-    "CCNA/CCNA - Pics/Pasted image 20260509222509.png",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Stored XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
