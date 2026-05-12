@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 200
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -184,11 +184,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4945a2b31f10ffb",
+  "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "MyProject/Features/Ideas.md",
+    "MyProject/Features/Commissioning.md",
+    "OSCP/Network Security/Reconnaissance/Passive/Whois.md",
+    "MyProject/Features",
     "MyProject",
     "OSCP/Network Security/Reconnaissance/Passive v Active.md",
-    "OSCP/Network Security/Reconnaissance/Passive/Whois.md",
     "OSCP/Web Hacking/IDOR/Insecure direct object references (IDOR).md",
     "OSCP/Network Security/Reconnaissance/Active",
     "OSCP/Network Security/Reconnaissance/Passive",
@@ -222,16 +225,13 @@
     "OSCP/readme.md",
     "OSCP/Boxes",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
-    "OSCP/Web Hacking/Race Condition",
     "CCNA/CCNA - Pics/Pasted image 20260509222517.png",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Stored XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
     "OSCP/Web Hacking/SSFR/Defeating Common SSRF Defenses.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)",
     "OSCP/Web Hacking/SSFR/SSRF - starting point.md",
-    "OSCP/Web Hacking/Untitled.md",
     "Untitled.canvas"
   ]
 }
