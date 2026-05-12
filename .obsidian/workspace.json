@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Privilege Escalation/Shell/Socat.md",
+                "file": "OSCP/Boxes/(THM) Skynet/22 ssh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Socat"
+              "title": "22 ssh"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 253.5
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -186,8 +186,17 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/Privilege Escalation/Shell/rlwrap.md",
+    "OSCP/Boxes/(THM) Skynet/1. nmap.md",
+    "OSCP/Boxes/(THM) Skynet/22 ssh.md",
+    "OSCP/Boxes/(THM) Skynet/445 open netbios ssn.md",
+    "OSCP/Boxes/(THM) Skynet/143 open imap.md",
+    "OSCP/Boxes/(THM) Skynet/139 netbios samba.md",
+    "OSCP/Boxes/(THM) Skynet/110 pop3.md",
+    "OSCP/Boxes/(THM) Skynet/80 http.md",
+    "OSCP/Boxes/1. Example/1. Example.md",
     "OSCP/Privilege Escalation/Shell/Socat.md",
+    "OSCP/Boxes/(THM) Skynet",
+    "OSCP/Privilege Escalation/Shell/rlwrap.md",
     "OSCP/Privilege Escalation/Shell/Python.md",
     "CCNA/CCNA - Pics/Pasted image 20260512165652.png",
     "OSCP/Privilege Escalation/Shell/Types of shells.md",
@@ -214,7 +223,6 @@
     "OSCP/Network Security",
     "OSCP/Web Hacking/Command Injection/Command Injection.md",
     "OSCP/Web Hacking/Command Injection/Determing if it can occur.md",
-    "OSCP/Web Hacking/Command Injection/Remediating Command Injection.md",
     "CCNA/CCNA - Pics/Pasted image 20260510213808.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213605.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213445.png",
@@ -223,15 +231,7 @@
     "CCNA/CCNA - Pics/Pasted image 20260510213424.png",
     "CCNA/CCNA - Pics/Pasted image 20260510212705.png",
     "CCNA/CCNA - Pics/Pasted image 20260510210258.png",
-    "OSCP/Boxes/(THM) Thompson/http Apache Tomcat (8080).md",
-    "OSCP/Web Hacking/Command Injection",
-    "OSCP/Boxes/(THM) Thompson/ajp13 Apache Tomcat (8009).md",
-    "OSCP/Boxes/(THM) Thompson/nmap.md",
-    "OSCP/Boxes/(THM) Thompson/SSH (22).md",
-    "OSCP/Boxes/1. Example/1. Example.md",
-    "OSCP/Web Hacking/Race Condition/Multi-Threading.md",
     "CCNA/CCNA - Pics/Pasted image 20260510171630.png",
-    "OSCP/Boxes/1. Example/HTTP (80).md",
     "Untitled.canvas"
   ]
 }
