@@ -25,3 +25,7 @@ smbclient //10.113.130.138/milesdyson -U milesdyson --option="client min protoco
 )s{A&2Z=F^n_E.B`
 
 smbclient //10.113.130.138/milesdyson -N -c 'get notes/important.txt -' | cat
+
+secret folder : 45kra24zxs28v3yd
+
+)s{A&2Z=F^n_E.B`
