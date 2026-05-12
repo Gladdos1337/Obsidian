@@ -25,3 +25,9 @@ smbclient //10.113.130.138/milesdyson -N -c 'get notes/important.txt -' | cat
 secret folder : 45kra24zxs28v3yd
 
 )s{A&2Z=F^n_E.B`
+
+C:\home\milesdyson\share
+
+\\10.113.130.138\milesdyson
+
+http://10.113.130.138/45kra24zxs28v3yd/administrator/

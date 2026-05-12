@@ -8,6 +8,8 @@
 gobuster dir -u 10.113.130.138 -w /usr/share/wordlists/dirb/common.txt
 
 
+`gobuster dir -u http://10.113.130.138/45kra24zxs28v3yd -w /usr/share/wordlists/dirb/common.txt`
+
 ```
 .hta                 (Status: 403) [Size: 279]
 .htaccess            (Status: 403) [Size: 279]
@@ -20,3 +22,5 @@ js                   (Status: 301) [Size: 313] [--> http://10.113.130.138/js/]
 server-status        (Status: 403) [Size: 279]
 squirrelmail         (Status: 301) [Size: 323] [--> http://10.113.130.138/squirrelmail/]
 ```
+
+http://10.113.130.138/45kra24zxs28v3yd/administrator/
