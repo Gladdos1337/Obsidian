@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/(THM) Skynet/80 http.md",
+                "file": "OSCP/Boxes/(THM) Skynet/22 ssh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "80 http"
+              "title": "22 ssh"
             }
           }
         ]
@@ -186,14 +186,17 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/Boxes/(THM) Skynet/110 pop3.md",
-    "OSCP/Boxes/(THM) Skynet/1. nmap.md",
-    "OSCP/Boxes/(THM) Skynet/445 open netbios ssn.md",
-    "OSCP/Boxes/(THM) Skynet/Page Source Admin login.md",
-    "OSCP/Boxes/(THM) Skynet/143 open imap.md",
-    "OSCP/Boxes/(THM) Skynet/139 netbios samba.md",
     "OSCP/Boxes/(THM) Skynet/80 http.md",
+    "OSCP/Boxes/(THM) Skynet/110 pop3.md",
+    "OSCP/Boxes/(THM) Skynet/139 netbios samba.md",
+    "OSCP/Boxes/(THM) Skynet/Resources.md",
+    "OSCP/Boxes/(THM) Skynet/445 open netbios ssn.md",
+    "OSCP/Boxes/(THM) Skynet/Commands.md",
+    "OSCP/Boxes/(THM) Skynet/143 open imap.md",
     "OSCP/Boxes/(THM) Skynet/22 ssh.md",
+    "OSCP/Boxes/(THM) Skynet/1. nmap.md",
+    "OSCP/Boxes/(THM) Skynet/(THM) Skynet.md",
+    "OSCP/Boxes/(THM) Skynet/Page Source Admin login.md",
     "OSCP/Privilege Escalation/Shell/Python.md",
     "OSCP/Privilege Escalation/Shell/Types of shells.md",
     "OSCP/Privilege Escalation/Shell/Tools.md",
@@ -213,9 +216,6 @@
     "OSCP/Privilege Escalation/Shell.md",
     "OSCP/Privilege Escalation",
     "OSCP/Network Security/Reconnaissance/Passive v Active.md",
-    "OSCP/Network Security/Reconnaissance/Passive/DNSDumpster.md",
-    "OSCP/Network Security/Reconnaissance/Passive/nslookup and dig.md",
-    "OSCP/Network Security/Reconnaissance/Passive/Whois.md",
     "MyProject/Bugs",
     "MyProject/Features",
     "MyProject",
