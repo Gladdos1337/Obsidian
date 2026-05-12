@@ -1,1 +1,6 @@
-139/tcp open  netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
+# Port 139 - NetBIOS / Samba
+
+NetBIOS name: `SKYNET`  
+Workgroup: `WORKGROUP`
+
+See [[445 open netbios ssn]] for full SMB enumeration and exploitation notes.
