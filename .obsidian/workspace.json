@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Privilege Escalation/Shell/Types of shells.md",
+                "file": "OSCP/Privilege Escalation/Shell/Socat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of shells"
+              "title": "Socat"
             }
           }
         ]
@@ -184,10 +184,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4945a2b31f10ffb",
+  "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/Privilege Escalation/Shell/Tools.md",
+    "OSCP/Privilege Escalation/Shell/rlwrap.md",
+    "OSCP/Privilege Escalation/Shell/Socat.md",
+    "OSCP/Privilege Escalation/Shell/Python.md",
+    "CCNA/CCNA - Pics/Pasted image 20260512165652.png",
     "OSCP/Privilege Escalation/Shell/Types of shells.md",
+    "OSCP/Privilege Escalation/Shell/Tools.md",
     "OSCP/Network Security/Reconnaissance/Active/Telnet ping tracerute..nc.md",
     "OSCP/Privilege Escalation/Shell",
     "OSCP/Privilege Escalation/Shell.md",
@@ -228,10 +232,6 @@
     "OSCP/Web Hacking/Race Condition/Multi-Threading.md",
     "CCNA/CCNA - Pics/Pasted image 20260510171630.png",
     "OSCP/Boxes/1. Example/HTTP (80).md",
-    "OSCP/Boxes/1. Example/SMTP (25).md",
-    "OSCP/Boxes/1. Example/SSH (22).md",
-    "OSCP/readme.md",
-    "CCNA/CCNA - Pics/Pasted image 20260509222517.png",
     "Untitled.canvas"
   ]
 }
