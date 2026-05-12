@@ -31,3 +31,6 @@ C:\home\milesdyson\share
 \\10.113.130.138\milesdyson
 
 http://10.113.130.138/45kra24zxs28v3yd/administrator/
+
+
+wget -r -np -nH --cut-dirs=2 -R "index.html*" "http://10.113.130.138/45kra24zxs28v3yd/administrator/"
