@@ -11,3 +11,11 @@ boxes, as they will nearly always have Python installed by default. This is a th
 ![[Pasted image 20260512165652.png]]
 
 Note that if the shell dies, any input in your own terminal will not be visible (as a result of having disabled terminal echo). To fix this, type `reset` and press enter.
+
+
+
+python -c 'import pty;pty.spawn("/bin/bash")'
+CTRL + Z
+export TERM=xterm
+stty raw -echo; fg
+reset
