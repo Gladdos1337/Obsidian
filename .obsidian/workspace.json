@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network Security/Reconnaissance/Passive/Whois.md",
+                "file": "OSCP/Network Security/Reconnaissance/Passive/DNSDumpster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Whois"
+              "title": "DNSDumpster"
             }
           }
         ]
@@ -186,9 +186,13 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/Network Security/Reconnaissance/Passive/nslookup and dig.md",
+    "OSCP/Network Security/Reconnaissance/Passive/DNSDumpster.md",
+    "OSCP/Network Security/Reconnaissance/Passive/Whois.md",
     "MyProject/Features/Ideas.md",
     "MyProject/Features/Commissioning.md",
-    "OSCP/Network Security/Reconnaissance/Passive/Whois.md",
+    "MyProject/Bugs/Current.md",
+    "MyProject/Bugs",
     "MyProject/Features",
     "MyProject",
     "OSCP/Network Security/Reconnaissance/Passive v Active.md",
@@ -223,15 +227,11 @@
     "OSCP/Boxes/1. Example/SSH (22).md",
     "OSCP/Boxes/1. Example",
     "OSCP/readme.md",
-    "OSCP/Boxes",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
     "CCNA/CCNA - Pics/Pasted image 20260509222517.png",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Stored XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
-    "OSCP/Web Hacking/SSFR/Defeating Common SSRF Defenses.md",
-    "OSCP/Web Hacking/SSFR/SSRF - starting point.md",
     "Untitled.canvas"
   ]
 }
