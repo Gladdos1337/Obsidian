@@ -184,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "e47f27a6dd45b0b1",
+  "active": "e4945a2b31f10ffb",
   "lastOpenFiles": [
+    "MyProject",
     "OSCP/Network Security/Reconnaissance/Passive v Active.md",
     "OSCP/Network Security/Reconnaissance/Passive/Whois.md",
     "OSCP/Web Hacking/IDOR/Insecure direct object references (IDOR).md",
@@ -231,7 +232,6 @@
     "OSCP/Web Hacking/Cross-site Scripting (XSS)",
     "OSCP/Web Hacking/SSFR/SSRF - starting point.md",
     "OSCP/Web Hacking/Untitled.md",
-    "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
     "Untitled.canvas"
   ]
 }
