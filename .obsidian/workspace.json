@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/(THM) Skynet/1. nmap.md",
+                "file": "OSCP/Boxes/(THM) Skynet/80 http.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. nmap"
+              "title": "80 http"
             }
           }
         ]
@@ -186,17 +186,17 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/Boxes/(THM) Skynet/445 open netbios ssn.md",
-    "OSCP/Boxes/(THM) Skynet/143 open imap.md",
     "OSCP/Boxes/(THM) Skynet/1. nmap.md",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
+    "OSCP/Boxes/(THM) Skynet/80 http.md",
+    "OSCP/Boxes/(THM) Skynet/22 ssh.md",
+    "OSCP/Boxes/(THM) Skynet/143 open imap.md",
     "OSCP/Boxes/(THM) Skynet/139 netbios samba.md",
     "OSCP/Boxes/(THM) Skynet/110 pop3.md",
-    "OSCP/Boxes/(THM) Skynet/22 ssh.md",
-    "OSCP/Boxes/(THM) Skynet/80 http.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
+    "OSCP/Boxes/(THM) Skynet/445 open netbios ssn.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
     "OSCP/Boxes/(THM) Skynet/Untitled.md",
     "OSCP/Boxes/1. Example/1. Example.md",
     "OSCP/Privilege Escalation/Shell/Socat.md",
