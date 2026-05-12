@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network Security/Reconnaissance/Active/Web Browser.md",
+                "file": "OSCP/Network Security/Reconnaissance/Active/Telnet ping tracerute..nc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Browser"
+              "title": "Telnet ping tracerute..nc"
             }
           }
         ]
@@ -184,10 +184,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4945a2b31f10ffb",
+  "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
     "OSCP/Network Security/Reconnaissance/Passive v Active.md",
-    "OSCP/Network Security/Reconnaissance/Active/Web Browser.md",
+    "OSCP/Network Security/Reconnaissance/Active/Telnet ping tracerute..nc.md",
     "OSCP/Network Security/Reconnaissance/Passive/DNSDumpster.md",
     "OSCP/Network Security/Reconnaissance/Passive/nslookup and dig.md",
     "OSCP/Network Security/Reconnaissance/Passive/Whois.md",
