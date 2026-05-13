@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Privilege Escalation/Shell/Socat.md",
+                "file": "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Socat"
+              "title": "(THM) LazyAdmin"
             }
           }
         ]
@@ -196,14 +196,17 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/Boxes/(THM) LazyAdmin/1. nmap.md",
+    "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
+    "OSCP/Shells Cheatsheet.md",
+    "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md.tmp.14696.1778672577970",
+    "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md.tmp.14696.1778672569793",
+    "OSCP/Privilege Escalation/Shell/Socat.md",
     "OSCP/Enumeration Cheatsheet.md",
     "OSCP/Privilege Escalation/Shell/rlwrap.md",
     "OSCP/Privilege Escalation/Shell/Python.md",
     "OSCP/Privilege Escalation/Shell/Types of shells.md",
-    "OSCP/Shells Cheatsheet.md",
     "OSCP/Boxes/Enumeration Cheatsheet.md",
-    "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
-    "OSCP/Boxes/(THM) LazyAdmin/1. nmap.md",
     "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md",
     "OSCP/Boxes/(THM) Thompson/http Apache Tomcat (8080).md",
     "OSCP/Boxes/(THM) Skynet/(THM) Skynet.md",
@@ -221,8 +224,6 @@
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/File Inclusion.md",
     "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
     "CCNA/CCNA - Pics/Pasted image 20260513114744.png",
     "OSCP/Boxes/(THM) LazyAdmin",
     "OSCP/Boxes/(THM) Skynet",
@@ -233,8 +234,6 @@
     "MyProject/Features",
     "MyProject",
     "OSCP/Network Security/Reconnaissance/Active",
-    "OSCP/Network Security/Reconnaissance/Passive",
-    "OSCP/Network Security/Reconnaissance",
     "CCNA/CCNA - Pics/Pasted image 20260510213808.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213605.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213445.png",
