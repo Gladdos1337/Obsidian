@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of 39 - DNS"
             }
+          },
+          {
+            "id": "fed25b72f001fb7c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,12 +196,24 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md",
     "OSCP/Boxes/(THM) LazyAdmin/1. nmap.md",
     "OSCP/Boxes/Enumeration Cheatsheet.md",
+    "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
+    "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md",
+    "OSCP/Privilege Escalation/Shell/Python.md",
+    "OSCP/Boxes/(THM) Thompson/http Apache Tomcat (8080).md",
+    "OSCP/Shells Cheatsheet.md",
+    "OSCP/Boxes/(THM) Skynet/(THM) Skynet.md",
+    "OSCP/Boxes/(THM) Skynet/1. nmap.md",
+    "OSCP/Boxes/(THM) Skynet/Resources.md",
+    "OSCP/Boxes/(THM) Skynet/Commands.md",
+    "OSCP/Boxes/(THM) Skynet/139 netbios samba.md",
+    "OSCP/Boxes/(THM) Skynet/22 ssh.md",
+    "OSCP/Boxes/(THM) Skynet/110 pop3.md",
+    "OSCP/Boxes/(THM) Skynet/143 open imap.md",
+    "OSCP/Boxes/(THM) Thompson/ajp13 Apache Tomcat (8009).md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
-    "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
     "CCNA/CCNA - Pics/Pasted image 20260513115959.png",
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/File Inclusion.md",
@@ -200,21 +222,9 @@
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
     "CCNA/CCNA - Pics/Pasted image 20260513114744.png",
     "OSCP/Boxes/1. Example/1. Example.md",
-    "OSCP/Boxes/(THM) Skynet/1. nmap.md",
     "OSCP/Boxes/(THM) LazyAdmin",
-    "OSCP/Boxes/(THM) Skynet/(THM) Skynet.md",
-    "OSCP/Boxes/(THM) Skynet/22 ssh.md",
     "OSCP/Boxes/(THM) Skynet/80 http.md",
-    "OSCP/Boxes/(THM) Skynet/110 pop3.md",
-    "OSCP/Boxes/(THM) Skynet/139 netbios samba.md",
-    "OSCP/Boxes/(THM) Skynet/Resources.md",
     "OSCP/Boxes/(THM) Skynet/445 open netbios ssn.md",
-    "OSCP/Boxes/(THM) Skynet/Commands.md",
-    "OSCP/Boxes/(THM) Skynet/143 open imap.md",
-    "OSCP/Boxes/(THM) Skynet/Page Source Admin login.md",
-    "OSCP/Privilege Escalation/Shell/Python.md",
-    "OSCP/Privilege Escalation/Shell/Types of shells.md",
-    "OSCP/Privilege Escalation/Shell/Tools.md",
     "OSCP/Boxes/(THM) Skynet",
     "CCNA/CCNA - Pics/Pasted image 20260512165652.png",
     "OSCP/Privilege Escalation/Shell",
