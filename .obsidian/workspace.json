@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
+                "file": "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LFI (Local File Inclusion)"
+              "title": "(THM) LazyAdmin"
             }
           }
         ]
@@ -186,6 +186,8 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "CCNA/CCNA - Pics/Pasted image 20260513115959.png",
+    "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/File Inclusion.md",
     "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
     "OSCP/Boxes/(THM) LazyAdmin/1. nmap.md",
@@ -212,8 +214,6 @@
     "OSCP/Privilege Escalation/Shell/Tools.md",
     "OSCP/Web Hacking/File Inclusion/Directory or Path Traversal.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
-    "OSCP/Privilege Escalation/Shell/Socat.md",
     "OSCP/Boxes/(THM) Skynet",
     "CCNA/CCNA - Pics/Pasted image 20260512165652.png",
     "OSCP/Privilege Escalation/Shell",
