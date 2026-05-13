@@ -9,6 +9,8 @@ PORT   STATE SERVICE VERSION
 |_http-server-header: Apache/2.4.29 (Ubuntu)
 | http-methods: 
 |_  Supported Methods: GET HEAD POST OPTIONS
+
+
 |_http-title: Annoucement
 Aggressive OS guesses: Linux 3.10 - 3.13 (95%), Linux 5.14 - 6.8 (95%), Linux 4.15 - 5.19 (95%), Linux 4.15 (94%), Linux 3.11 - 3.14 (92%), Linux 3.7 - 4.19 (92%), Ruckus ZoneFlex R710 WAP (Linux 3.4) (92%), Linux 3.10 (92%), Linux 3.2 - 4.14 (92%), Linux 3.8 - 3.16 (92%)
 No exact OS matches for host (test conditions non-ideal).
