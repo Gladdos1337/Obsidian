@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/(THM) Skynet/22 ssh.md",
+                "file": "OSCP/Boxes/Enumeration Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 ssh"
+              "title": "Enumeration Cheatsheet"
             }
           }
         ]
@@ -186,6 +186,14 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/Boxes/(THM) LazyAdmin/1. nmap.md",
+    "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
+    "OSCP/Boxes/Enumeration Cheatsheet.md",
+    "OSCP/Boxes/1. Example/1. Example.md",
+    "OSCP/Boxes/(THM) Skynet/1. nmap.md",
+    "OSCP/Boxes/(THM) LazyAdmin",
+    "OSCP/Boxes/(THM) Skynet/(THM) Skynet.md",
+    "OSCP/Boxes/(THM) Skynet/22 ssh.md",
     "OSCP/Boxes/(THM) Skynet/80 http.md",
     "OSCP/Boxes/(THM) Skynet/110 pop3.md",
     "OSCP/Boxes/(THM) Skynet/139 netbios samba.md",
@@ -193,9 +201,6 @@
     "OSCP/Boxes/(THM) Skynet/445 open netbios ssn.md",
     "OSCP/Boxes/(THM) Skynet/Commands.md",
     "OSCP/Boxes/(THM) Skynet/143 open imap.md",
-    "OSCP/Boxes/(THM) Skynet/22 ssh.md",
-    "OSCP/Boxes/(THM) Skynet/1. nmap.md",
-    "OSCP/Boxes/(THM) Skynet/(THM) Skynet.md",
     "OSCP/Boxes/(THM) Skynet/Page Source Admin login.md",
     "OSCP/Privilege Escalation/Shell/Python.md",
     "OSCP/Privilege Escalation/Shell/Types of shells.md",
@@ -206,23 +211,18 @@
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
-    "OSCP/Boxes/1. Example/1. Example.md",
     "OSCP/Privilege Escalation/Shell/Socat.md",
     "OSCP/Boxes/(THM) Skynet",
     "OSCP/Privilege Escalation/Shell/rlwrap.md",
     "CCNA/CCNA - Pics/Pasted image 20260512165652.png",
-    "OSCP/Network Security/Reconnaissance/Active/Telnet ping tracerute..nc.md",
     "OSCP/Privilege Escalation/Shell",
-    "OSCP/Privilege Escalation/Shell.md",
     "OSCP/Privilege Escalation",
-    "OSCP/Network Security/Reconnaissance/Passive v Active.md",
     "MyProject/Bugs",
     "MyProject/Features",
     "MyProject",
     "OSCP/Network Security/Reconnaissance/Active",
     "OSCP/Network Security/Reconnaissance/Passive",
     "OSCP/Network Security/Reconnaissance",
-    "OSCP/Network Security",
     "CCNA/CCNA - Pics/Pasted image 20260510213808.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213605.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213445.png",
