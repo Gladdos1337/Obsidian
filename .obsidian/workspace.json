@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Shells Cheatsheet.md",
+                "file": "OSCP/Privilege Escalation/Shell/Socat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shells Cheatsheet"
+              "title": "Socat"
             }
           }
         ]
@@ -196,12 +196,15 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/Boxes/Enumeration Cheatsheet.md",
+    "OSCP/Enumeration Cheatsheet.md",
+    "OSCP/Privilege Escalation/Shell/rlwrap.md",
+    "OSCP/Privilege Escalation/Shell/Python.md",
+    "OSCP/Privilege Escalation/Shell/Types of shells.md",
     "OSCP/Shells Cheatsheet.md",
+    "OSCP/Boxes/Enumeration Cheatsheet.md",
     "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
     "OSCP/Boxes/(THM) LazyAdmin/1. nmap.md",
     "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md",
-    "OSCP/Privilege Escalation/Shell/Python.md",
     "OSCP/Boxes/(THM) Thompson/http Apache Tomcat (8080).md",
     "OSCP/Boxes/(THM) Skynet/(THM) Skynet.md",
     "OSCP/Boxes/(THM) Skynet/1. nmap.md",
@@ -221,10 +224,7 @@
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
     "CCNA/CCNA - Pics/Pasted image 20260513114744.png",
-    "OSCP/Boxes/1. Example/1. Example.md",
     "OSCP/Boxes/(THM) LazyAdmin",
-    "OSCP/Boxes/(THM) Skynet/80 http.md",
-    "OSCP/Boxes/(THM) Skynet/445 open netbios ssn.md",
     "OSCP/Boxes/(THM) Skynet",
     "CCNA/CCNA - Pics/Pasted image 20260512165652.png",
     "OSCP/Privilege Escalation/Shell",
