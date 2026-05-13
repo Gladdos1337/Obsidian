@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Search Commands Cheatsheet.md",
+                "file": "OSCP/Boxes/rootme/overall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search Commands Cheatsheet"
+              "title": "overall"
             }
           }
         ]
@@ -196,9 +196,9 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/Search Commands Cheatsheet.md",
     "OSCP/readme.md",
     "OSCP/Shells Cheatsheet.md",
-    "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Boxes/rootme/overall.md",
     "OSCP/Search Commands Cheatsheet.md.tmp.14696.1778674065914",
     "OSCP/Boxes/rootme/1nmap.md",
