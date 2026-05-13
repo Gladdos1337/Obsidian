@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/rootme/overall.md",
+                "file": "OSCP/Boxes/(THM) Agent Sudo/(THM) Agent Sudo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "overall"
+              "title": "(THM) Agent Sudo"
             }
           }
         ]
@@ -196,14 +196,18 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/Boxes/1. Example/1. Example.md",
+    "OSCP/Boxes/(THM) Agent Sudo/(THM) Agent Sudo.md",
+    "OSCP/Boxes/(THM) Agent Sudo",
+    "OSCP/Boxes/Enumeration Cheatsheet.md",
+    "OSCP/Privilege Escalation/Shell/Types of shells.md",
+    "OSCP/Boxes/rootme/overall.md",
     "OSCP/Search Commands Cheatsheet.md",
     "OSCP/readme.md",
     "OSCP/Shells Cheatsheet.md",
-    "OSCP/Boxes/rootme/overall.md",
     "OSCP/Search Commands Cheatsheet.md.tmp.14696.1778674065914",
     "OSCP/Boxes/rootme/1nmap.md",
     "OSCP/Boxes/rootme",
-    "OSCP/Boxes/1. Example/1. Example.md",
     "OSCP/Boxes/(THM) LazyAdmin/1. nmap.md",
     "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
     "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md.tmp.14696.1778672577970",
@@ -212,8 +216,6 @@
     "OSCP/Enumeration Cheatsheet.md",
     "OSCP/Privilege Escalation/Shell/rlwrap.md",
     "OSCP/Privilege Escalation/Shell/Python.md",
-    "OSCP/Privilege Escalation/Shell/Types of shells.md",
-    "OSCP/Boxes/Enumeration Cheatsheet.md",
     "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md",
     "OSCP/Boxes/(THM) Thompson/http Apache Tomcat (8080).md",
     "OSCP/Boxes/(THM) Skynet/(THM) Skynet.md",
@@ -225,7 +227,6 @@
     "OSCP/Boxes/(THM) Skynet/110 pop3.md",
     "OSCP/Boxes/(THM) Skynet/143 open imap.md",
     "OSCP/Boxes/(THM) Thompson/ajp13 Apache Tomcat (8009).md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
     "CCNA/CCNA - Pics/Pasted image 20260513115959.png",
     "CCNA/CCNA - Pics/Pasted image 20260513114744.png",
     "OSCP/Boxes/(THM) LazyAdmin",
@@ -234,7 +235,6 @@
     "OSCP/Privilege Escalation/Shell",
     "OSCP/Privilege Escalation",
     "MyProject/Bugs",
-    "MyProject/Features",
     "CCNA/CCNA - Pics/Pasted image 20260510213808.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213605.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213445.png",
