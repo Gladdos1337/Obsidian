@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
+                "file": "OSCP/Shells Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(THM) LazyAdmin"
+              "title": "Shells Cheatsheet"
             }
           }
         ]
@@ -196,13 +196,13 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/Boxes/(THM) LazyAdmin/1. nmap.md",
     "OSCP/Boxes/Enumeration Cheatsheet.md",
+    "OSCP/Shells Cheatsheet.md",
     "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
+    "OSCP/Boxes/(THM) LazyAdmin/1. nmap.md",
     "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md",
     "OSCP/Privilege Escalation/Shell/Python.md",
     "OSCP/Boxes/(THM) Thompson/http Apache Tomcat (8080).md",
-    "OSCP/Shells Cheatsheet.md",
     "OSCP/Boxes/(THM) Skynet/(THM) Skynet.md",
     "OSCP/Boxes/(THM) Skynet/1. nmap.md",
     "OSCP/Boxes/(THM) Skynet/Resources.md",
