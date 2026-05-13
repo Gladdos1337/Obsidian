@@ -196,8 +196,9 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/Boxes/1. Example/1. Example.md",
+    "OSCP/Enumeration Cheatsheet.md",
     "OSCP/Boxes/(THM) Agent Sudo/(THM) Agent Sudo.md",
+    "OSCP/Boxes/1. Example/1. Example.md",
     "OSCP/Boxes/(THM) Agent Sudo",
     "OSCP/Boxes/Enumeration Cheatsheet.md",
     "OSCP/Privilege Escalation/Shell/Types of shells.md",
@@ -213,7 +214,6 @@
     "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md.tmp.14696.1778672577970",
     "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md.tmp.14696.1778672569793",
     "OSCP/Privilege Escalation/Shell/Socat.md",
-    "OSCP/Enumeration Cheatsheet.md",
     "OSCP/Privilege Escalation/Shell/rlwrap.md",
     "OSCP/Privilege Escalation/Shell/Python.md",
     "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md",

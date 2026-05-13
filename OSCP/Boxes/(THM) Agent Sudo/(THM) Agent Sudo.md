@@ -17,21 +17,3 @@ Network Distance: 3 hops
 TCP Sequence Prediction: Difficulty=258 (Good luck!)
 IP ID Sequence Generation: All zeros
 Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
-
-TRACEROUTE (using port 587/tcp)
-HOP RTT      ADDRESS
-1   37.69 ms 192.168.128.1
-2   ...
-3   36.14 ms 10.112.165.59
-
-NSE: Script Post-scanning.
-Initiating NSE at 08:58
-Completed NSE at 08:58, 0.00s elapsed
-Initiating NSE at 08:58
-Completed NSE at 08:58, 0.00s elapsed
-Initiating NSE at 08:58
-Completed NSE at 08:58, 0.00s elapsed
-Read data files from: /usr/share/nmap
-OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-Nmap done: 1 IP address (1 host up) scanned in 52.75 seconds
-           Raw packets sent: 65855 (2.900MB) | Rcvd: 65580 (2.625MB)
