@@ -186,13 +186,16 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md",
+    "OSCP/Boxes/(THM) LazyAdmin/1. nmap.md",
+    "OSCP/Boxes/Enumeration Cheatsheet.md",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
+    "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
     "CCNA/CCNA - Pics/Pasted image 20260513115959.png",
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/File Inclusion.md",
-    "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
-    "OSCP/Boxes/(THM) LazyAdmin/1. nmap.md",
     "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
-    "OSCP/Boxes/Enumeration Cheatsheet.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
     "CCNA/CCNA - Pics/Pasted image 20260513114744.png",
@@ -212,8 +215,6 @@
     "OSCP/Privilege Escalation/Shell/Python.md",
     "OSCP/Privilege Escalation/Shell/Types of shells.md",
     "OSCP/Privilege Escalation/Shell/Tools.md",
-    "OSCP/Web Hacking/File Inclusion/Directory or Path Traversal.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
     "OSCP/Boxes/(THM) Skynet",
     "CCNA/CCNA - Pics/Pasted image 20260512165652.png",
     "OSCP/Privilege Escalation/Shell",
@@ -231,7 +232,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260510213431.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213424.png",
     "CCNA/CCNA - Pics/Pasted image 20260510212705.png",
-    "CCNA/CCNA - Pics/Pasted image 20260510210258.png",
     "Untitled.canvas"
   ]
 }
