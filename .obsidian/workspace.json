@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/(THM) EasyCTF/21 ftp.md",
+                "file": "OSCP/Metasploit Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 ftp"
+              "title": "Metasploit Cheatsheet"
             }
           }
         ]
@@ -196,6 +196,10 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
+    "OSCP/Search Commands Cheatsheet.md",
+    "OSCP/Boxes/(THM) EasyCTF/(THM) EasyCTF.md",
+    "OSCP/FTP Cheatsheet.md",
+    "OSCP/Metasploit Cheatsheet.md",
     "OSCP/Boxes/(THM) EasyCTF/1enum.md",
     "OSCP/Boxes/(THM) EasyCTF/21 ftp.md",
     "OSCP/Boxes/(THM) EasyCTF/80 http.md",
@@ -206,7 +210,6 @@
     "OSCP/Enumeration Cheatsheet.md",
     "OSCP/Boxes/(THM) EasyCTF",
     "OSCP/Shells Cheatsheet.md",
-    "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Boxes/(THM) Rootme/overall.md",
     "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
     "OSCP/readme.md",
@@ -230,9 +233,6 @@
     "OSCP/Privilege Escalation/Shell/Python.md",
     "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md",
     "OSCP/Boxes/(THM) Thompson/http Apache Tomcat (8080).md",
-    "OSCP/Boxes/(THM) Skynet/(THM) Skynet.md",
-    "OSCP/Boxes/(THM) Skynet/1. nmap.md",
-    "OSCP/Boxes/(THM) Skynet/Resources.md",
     "CCNA/CCNA - Pics/Pasted image 20260513115959.png",
     "CCNA/CCNA - Pics/Pasted image 20260513114744.png",
     "CCNA/CCNA - Pics/Pasted image 20260512165652.png",
