@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/(THM) Ignite/1enum.md",
+                "file": "OSCP/Search Commands Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1enum"
+              "title": "Search Commands Cheatsheet"
             }
           }
         ]
@@ -196,27 +196,27 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/Boxes/Enumeration Cheatsheet.md",
+    "OSCP/Enumeration Cheatsheet.md",
+    "OSCP/Boxes/(THM) Rootme/overall.md",
+    "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
+    "OSCP/Boxes/(THM) Agent Sudo/(THM) Agent Sudo.md",
     "OSCP/Boxes/(THM) Ignite/1enum.md",
+    "OSCP/Search Commands Cheatsheet.md",
+    "OSCP/Shells Cheatsheet.md",
+    "OSCP/readme.md",
+    "OSCP/Boxes/Enumeration Cheatsheet.md",
     "OSCP/Boxes/(THM) Agent Sudo/21 ftp.md",
     "OSCP/Boxes/(THM) Ignite",
     "OSCP/Boxes/(THM) Agent Sudo/Untitled",
     "OSCP/Boxes/(THM) Agent Sudo/Untitled.md",
-    "OSCP/Boxes/(THM) Agent Sudo/(THM) Agent Sudo.md",
     "OSCP/Boxes/(THM) Agent Sudo/FTP",
-    "OSCP/Enumeration Cheatsheet.md",
-    "OSCP/readme.md",
-    "OSCP/Search Commands Cheatsheet.md",
-    "OSCP/Shells Cheatsheet.md",
     "OSCP/Boxes/1. Example/1. Example.md",
     "OSCP/Boxes/(THM) Agent Sudo",
     "OSCP/Privilege Escalation/Shell/Types of shells.md",
-    "OSCP/Boxes/(THM) Rootme/overall.md",
     "OSCP/Search Commands Cheatsheet.md.tmp.14696.1778674065914",
     "OSCP/Boxes/(THM) Rootme/1nmap.md",
     "OSCP/Boxes/(THM) Rootme",
     "OSCP/Boxes/(THM) LazyAdmin/1. nmap.md",
-    "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md",
     "OSCP/Boxes/(THM) LazyAdmin/sitemap.xmlS.md.tmp.14696.1778672577970",
     "OSCP/Boxes/(THM) LazyAdmin/(THM) LazyAdmin.md.tmp.14696.1778672569793",
     "OSCP/Privilege Escalation/Shell/Socat.md",

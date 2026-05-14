@@ -19,6 +19,9 @@ grep -r "THM{" / 2>/dev/null
 ## Finding Files by Permission
 
 ```bash
+this first:
+find / -perm -4000 2>/dev/null | xargs ls -la
+
 # SUID binaries (run as owner, often root)
 find / -perm -4000 2>/dev/null
 
