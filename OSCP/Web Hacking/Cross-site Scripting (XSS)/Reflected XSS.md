@@ -1,3 +1,5 @@
+Related: [[1. Intro to Cross-site Scripting]] | [[Stored XSS]] | [[DOM Based XSS]] | [[Blind XSS]] | [[Command Injection]]
+
 Reflected XSS happens when **user-supplied data** in an HTTP request is included in the webpage source without any validation.
 
 **Example Scenario:**  

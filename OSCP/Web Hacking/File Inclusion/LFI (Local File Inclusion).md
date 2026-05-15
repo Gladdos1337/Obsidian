@@ -1,3 +1,5 @@
+Related: [[File Inclusion]] | [[Directory or Path Traversal]] | [[RFI (Remote File Inclusion)]] | [[Command Injection]]
+
 LFI attacks against web applications are often due to a developers' lack of security awareness. With PHP, using functions such as **include**, **require**, **include_once**, and **require_once** often contribute to vulnerable web applications.
 
 Can happen with PHP, ASP, JSP, Node.js... LFI exploits follow the same concepts as path traversal.

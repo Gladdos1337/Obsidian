@@ -1,3 +1,5 @@
+Related: [[Defeating Common SSRF Defenses]] | [[File Inclusion]] | [[Insecure direct object references (IDOR)]]
+
 SSRF stands for  Server-Side Request Forgery. It's a vulnerability that allows a malicious user to cause the webserver to make an additional or edited HTTP request to the resource of the attacker's choosing.
 
 There are 2 types of SSRF vulns

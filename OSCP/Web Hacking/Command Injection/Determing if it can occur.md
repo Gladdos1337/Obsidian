@@ -1,3 +1,5 @@
+Related: [[Command Injection]] | [[Remediating Command Injection]] | [[Types of shells]]
+
 You can often determine whether or not may occur by the behaviours of an application
 
 

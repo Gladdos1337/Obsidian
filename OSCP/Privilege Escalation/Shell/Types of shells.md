@@ -1,4 +1,6 @@
 
+Related: [[Tools]] | [[Socat]] | [[rlwrap]] | [[Python]] | [[Command Injection]] | [[RFI (Remote File Inclusion)]] | [[Telnet ping tracerute..nc]]
+
 At a high level, we are interested in two kinds of shell when it comes to exploiting a target: Reverse shells, and bind shells.
 
 - **Reverse shells** are when the target is forced to execute code that connects _back_ to your computer. On your own computer you would use one of the tools mentioned in the previous task to set up a _listener_ which would be used to receive the connection. Reverse shells are a good way to bypass firewall rules that may prevent you from connecting to arbitrary ports on the target; however, the drawback is that, when receiving a shell from a machine across the internet, you would need to configure your own network to accept the shell. This, however, will not be a problem on the TryHackMe network due to the method by which we connect into the network.

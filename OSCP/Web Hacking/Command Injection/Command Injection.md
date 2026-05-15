@@ -1,3 +1,5 @@
+Related: [[Determing if it can occur]] | [[Remediating Command Injection]] | [[LFI (Local File Inclusion)]] | [[RFI (Remote File Inclusion)]] | [[Types of shells]]
+
 Command injection is also often known as “Remote Code Execution” (RCE) because of the ability to remotely execute code within an application. These vulnerabilities are often the most lucrative to an attacker because it means that the attacker can directly interact with the vulnerable system. For example, an attacker may read system or user files, data, and things of that nature.
 
 or example, being able to abuse an application to perform the command `whoami` to list what user account the application is running will be an example of command injection.

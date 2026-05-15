@@ -1,3 +1,5 @@
+Related: [[File Inclusion]] | [[LFI (Local File Inclusion)]] | [[Directory or Path Traversal]] | [[Command Injection]] | [[Types of shells]] | [[Python]]
+
 RFI is a technique to include remote files into a vuln app. Like LFI, RFI occurs when improperly sanitizing user input, allowing an attacker to inject an external URL into `include` function. One requirement for RFI is that the **allow_url_fopen** option needs to be on .
 
 The risk is higher than LFI since RFI vulns allow an attacker to gain RCE on the server. Other conseuqesnces of a successful RFI attack include:

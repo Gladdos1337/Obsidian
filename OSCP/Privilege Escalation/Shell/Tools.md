@@ -1,3 +1,5 @@
+Related: [[Types of shells]] | [[Socat]] | [[rlwrap]] | [[Python]] | [[Command Injection]] | [[RFI (Remote File Inclusion)]]
+
 There are a variety of tools that we will be using to receive reverse shells and to send bind shells. In general terms, we need malicious shell code, as well as a way of interfacing with the resulting shell. We will discuss each of these briefly below:
 
 ---

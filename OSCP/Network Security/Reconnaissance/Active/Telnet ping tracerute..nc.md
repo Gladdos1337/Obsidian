@@ -1,4 +1,6 @@
 
+Related: [[Passive v Active]] | [[Types of shells]] | [[Tools]]
+
 | Command          | Example                                      |
 | ---------------- | -------------------------------------------- |
 | ping             | `ping -c 10 10.112.131.53` on Linux or macOS |

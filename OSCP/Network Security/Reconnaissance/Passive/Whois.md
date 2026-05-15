@@ -1,3 +1,5 @@
+Related: [[Passive v Active]] | [[nslookup and dig]] | [[DNSDumpster]]
+
 WHOIS is a request and response protocol that follows the RFC 3912 specification. A WHOIS server listens on TCP port 43 for incoming requests. The domain registrar is responsible for maintaining the WHOIS records for the domain names it is leasing. The WHOIS server replies with various information related to the domain requested. Of particular interest, we can learn:
 
 - Registrar: Via which registrar was the domain name registered?

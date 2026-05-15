@@ -1,3 +1,5 @@
+Related: [[Command Injection]] | [[Determing if it can occur]]
+
 CI an be prevented in a variety of ways. Everything from minimal use of potentially dangerous functions or libraries in a programming language to filtering input without relying on a user’s input. I have detailed these a bit further below. The examples below are of the PHP rogramming language; however, the same principles can be extended to many other languages.
 
 **Vulnerable Functions**

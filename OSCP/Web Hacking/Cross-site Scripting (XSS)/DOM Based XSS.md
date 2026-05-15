@@ -1,4 +1,6 @@
 
+Related: [[1. Intro to Cross-site Scripting]] | [[Reflected XSS]] | [[Stored XSS]] | [[Blind XSS]]
+
 **What is the DOM?**  
 
 DOM stands for **Document Object Model** and is a programming interface for HTML and XML docs. It represents the page so that programs can change the document structure, style and content. A web page is a document, and this document can be either displayed in the browser window or as the HTML source. A diagram of the HTML DOM is displayed below:

@@ -1,3 +1,5 @@
+Related: [[File Inclusion]] | [[LFI (Local File Inclusion)]] | [[RFI (Remote File Inclusion)]]
+
 Is a a web security vulnerability allows an attacker to read operating system resources, such as local files on the server running an application. The attacker exploits this vulnerability by manipulating and abusing the web application's URL to locate and access files or directories stored outside the application's root directory.>
 
 Path traversal vulnerabilities occur when the user's input is passed to a function such as **file_get_contents** in PHP. It's important to note that the function is not the main contributor to the vulnerability. Often poor input validation or filtering is the cause of the vulnerability. In , you can use the **file_get_contents** to read the content of a file. 

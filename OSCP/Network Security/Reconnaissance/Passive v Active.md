@@ -1,3 +1,5 @@
+Related: [[Whois]] | [[nslookup and dig]] | [[DNSDumpster]] | [[Telnet ping tracerute..nc]]
+
 Reconnaissance (recon) can be defined as a preliminary survey to gather information about a target. It is the first step in [The Unified Kill Chain (opens in new tab)](https://www.unifiedkillchain.com/) to gain an initial foothold on a system. We divide reconnaissance into:
 
 1. Passive Reconnaissance

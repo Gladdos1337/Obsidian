@@ -1,4 +1,6 @@
 
+Related: [[Tools]] | [[Types of shells]] | [[Socat]] | [[Python]]
+
 rlwrap is a program which, in simple terms, gives us access to history, tab autocompletion and the arrow keys immediately upon receiving a shell_;_ however, s_ome_ manual stabilisation must still be utilised if you want to be able to use Ctrl + C inside the shell. rlwrap is not installed by default on Kali, so first install it with `sudo apt install rlwrap`.
 
 To use rlwrap, we invoke a slightly different listener:

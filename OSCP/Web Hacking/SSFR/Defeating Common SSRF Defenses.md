@@ -1,4 +1,6 @@
 
+Related: [[SSRF - starting point]]
+
 There are usually two approaches to this, either a deny list or an allow list.
 
 **Deny List**

@@ -1,3 +1,5 @@
+Related: [[1. Intro to Cross-site Scripting]] | [[Reflected XSS]] | [[DOM Based XSS]] | [[Blind XSS]]
+
 As the name infers, the XSS payload is stored on the web application (in a database, for example) and then gets run when other users visit the site or web page.
 
 A blog website that allows users to post comments. Unfortunately, these comments aren't checked for whether they contain JavaScript or filter out any malicious code. If we now post a comment containing JavaScript, this will be stored in the database, and every other user now visiting the article will have the JavaScript run in their browser.

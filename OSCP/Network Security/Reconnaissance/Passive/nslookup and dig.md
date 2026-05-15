@@ -1,3 +1,5 @@
+Related: [[Passive v Active]] | [[Whois]] | [[DNSDumpster]] | [[1.2 Automated Discovery]]
+
 Find the IP address of a domain name using `nslookup`, which stands for Name Server Look Up. You need to issue the command `nslookup DOMAIN_NAME`, for example, `nslookup tryhackme.com`. Or, more generally, you can use `nslookup OPTIONS DOMAIN_NAME SERVER`. These three main parameters are:
 
 - OPTIONS contains the query type as shown in the table below. For instance, you can use `A` for IPv4 addresses and `AAAA` for IPv6 addresses.

@@ -1,3 +1,5 @@
+Related: [[Command Injection]] | [[Types of shells]]
+
 ## Programs
 
 A **program** is a set of instructions to achieve a specific task. You need to execute the program to accomplish what you want. Unless you execute it, it won’t do anything and remains a set of static instructions.

@@ -1,3 +1,5 @@
+Related: [[Username enumeration]] | [[ffuf]] | [[Insecure direct object references (IDOR)]]
+
 Using the valid_usernames.txt file we generated in the previous task, we can now use this to attempt a brute force attack on the login page
 
 http://10.112.176.71/customers/login
