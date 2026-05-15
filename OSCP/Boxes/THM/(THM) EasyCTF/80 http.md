@@ -1,4 +1,4 @@
-Related: [[(THM) EasyCTF]] | [[1enum]] | [[1.1 Manual Discovery]] | [[Command Injection]]
+Related: [[(THM) EasyCTF]] | [[OSCP/Boxes/THM/(THM) EasyCTF/1enum]] | [[1.1 Manual Discovery]] | [[Command Injection]]
 
 # CVE-2019-9053
 

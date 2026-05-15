@@ -131,6 +131,7 @@ mount -t nfs <IP>:/share /mnt/nfs
 hydra -l <user> -P /usr/share/wordlists/rockyou.txt <IP> http-post-form "/login:username=^USER^&password=^PASS^:Invalid"
 
 # Username enumeration (web)
+# Use ffuf or burp intruder with a username wordlist
 ffuf -w /usr/share/seclists/Usernames/Names/names.txt -X POST -d "username=FUZZ&password=x" -u http://<IP>/login -H "Content-Type: application/x-www-form-urlencoded" -mr "Invalid username"
 ```
 
@@ -163,12 +164,12 @@ curl -L https://github.com/peass-ng/PEASS-ng/releases/latest/download/linpeas.sh
 
 ---
 
-## Port Quick Reference
+## Port → Service Quick Reference
 
 | Port | Service | First thing to try |
 |------|---------|-------------------|
 | 21 | FTP | Anonymous login |
-| 22 | SSH | Version, brute force if you have a user |
+| 22 | SSH | Version → CVE, brute force if you have a user |
 | 25 | SMTP | User enumeration (`VRFY`, `EXPN`) |
 | 53 | DNS | Zone transfer |
 | 80/443 | HTTP | Gobuster, Nikto, page source |
@@ -176,7 +177,7 @@ curl -L https://github.com/peass-ng/PEASS-ng/releases/latest/download/linpeas.sh
 | 139/445 | SMB | Null session, enum4linux |
 | 161 | SNMP | Community string brute force |
 | 2049 | NFS | showmount, mount and browse |
-| 3306 | MySQL | Login with found creds, root no password |
+| 3306 | MySQL | Login with found creds, `root` no password |
 | 3389 | RDP | Brute force, check for BlueKeep |
 | 5985 | WinRM | Evil-WinRM with creds |
 | 8080 | HTTP alt | Same as 80 — check for Tomcat, Jenkins |
