@@ -6,7 +6,13 @@
 ---
 prio list:
 80 http ->
-http://10.112.173.51/admin/ -> Password probably encrypted with their program, probably not bruteforcable.
+http://10.112.173.51/admin/ -> Password probably encrypted with their program, probably not bruteforcable. ??
+
+Ninja
+Pars
+Szymex
+Bee
+MuirlandOracle
 
 
 22 ssh ->  
@@ -22,3 +28,7 @@ Program itself -> uses ROT47
 |_  256 3c:a2:10:8f:08:7f:41:15:8d:52:60:a8:70:6c:6a:36 (ED25519)
 80/tcp open  http    Golang net/http server (Go-IPFS json-rpc or InfluxDB API)
 |_http-title: Overpass
+
+
+
+
