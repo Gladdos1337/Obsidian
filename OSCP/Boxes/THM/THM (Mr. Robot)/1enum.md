@@ -8,6 +8,9 @@
 http://10.113.134.44/Image/
 WP 4.3.1
 http://10.113.134.44/?attachment_id=23#comment-2
+https://www.exploit-db.com/exploits/50255
+
+user&#039
 
 443 HTTPS ->
 
