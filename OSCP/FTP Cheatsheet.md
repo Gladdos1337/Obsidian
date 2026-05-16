@@ -81,3 +81,4 @@ curl --ftp-port - ftp://anonymous:@<ip>/file.txt
 
 > `wget` defaults to **passive** mode. Use `--no-passive-ftp` to switch to active.  
 > `curl` defaults to **passive** mode. Use `--ftp-port -` to switch to active.
+
