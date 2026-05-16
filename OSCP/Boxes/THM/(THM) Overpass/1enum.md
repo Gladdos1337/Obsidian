@@ -32,3 +32,5 @@ Program itself -> uses ROT47
 
 
 
+
+ssh -i key.pem James@10.113.137.182

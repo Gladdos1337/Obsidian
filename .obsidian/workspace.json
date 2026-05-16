@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/THM/(THM) Overpass/1enum.md",
+                "file": "OSCP/Bruteforcing Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1enum"
+              "title": "Bruteforcing Cheatsheet"
             }
           }
         ]
@@ -197,20 +197,22 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/Enumeration Cheatsheet.md",
+    "OSCP/Metasploit Cheatsheet.md",
+    "OSCP/S1rens_Linux_priv_esc.md",
     "OSCP/Boxes/THM/(THM) Overpass/1enum.md",
+    "OSCP/Enumeration Cheatsheet.md",
+    "CCNA/CCNA - Pics/Pasted image 20260516154141.png",
+    "CCNA/CCNA - Pics/Pasted image 20260516154136.png",
     "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
     "OSCP/Boxes/THM/(THM) Overpass",
     "OSCP/FTP Cheatsheet.md",
     "OSCP/readme.md",
-    "OSCP/Metasploit Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Basic Pentesting/22 ssh.md",
     "OSCP/Boxes/THM/THM (Mr. Robot)",
     "OSCP/Boxes/THM/Untitled.md",
     "OSCP/Boxes/THM/(THM) Basic Pentesting/1enum.md",
     "OSCP/Boxes/THM/(THM) Basic Pentesting/139 netbios.md",
     "OSCP/Boxes/THM/(THM) Basic Pentesting/80 http.md",
-    "OSCP/S1rens_Linux_priv_esc.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Bounty Hacker/1enum.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md.tmp.1560.f6c1eacc5023",
@@ -229,7 +231,6 @@
     "OSCP/SMB Cheatsheet.md.tmp.13076.e02440791037",
     "OSCP/Boxes/THM/(THM) Basic Pentesting/8080 tcp open  http-proxy.md",
     "OSCP/Boxes/THM/(THM) Skynet/445 open netbios ssn.md",
-    "OSCP/Boxes/THM/(THM) Skynet/1. nmap.md",
     "OSCP/Boxes/THM/(THM) Basic Pentesting",
     "OSCP/Boxes/(THM) EasyCTF/Untitled",
     "CCNA/CCNA - Pics/Pasted image 20260514211927.png",
@@ -241,8 +242,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260510213605.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213445.png",
     "CCNA/CCNA - Pics/Pasted image 20260510213437.png",
-    "CCNA/CCNA - Pics/Pasted image 20260510213431.png",
-    "CCNA/CCNA - Pics/Pasted image 20260510213424.png",
     "Untitled.canvas"
   ]
 }
