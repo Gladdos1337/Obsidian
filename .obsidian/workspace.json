@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
+                "file": "OSCP/Enumeration Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1enum"
+              "title": "Enumeration Cheatsheet"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
-    "OSCP/FTP Cheatsheet.md",
+    "OSCP/Boxes/THM/(THM) Overpass/1enum.md",
     "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
+    "OSCP/Boxes/THM/(THM) Overpass",
+    "OSCP/FTP Cheatsheet.md",
     "OSCP/Enumeration Cheatsheet.md",
     "OSCP/readme.md",
     "OSCP/Metasploit Cheatsheet.md",
@@ -228,12 +230,10 @@
     "OSCP/Boxes/THM/(THM) Basic Pentesting/8080 tcp open  http-proxy.md",
     "OSCP/Boxes/THM/(THM) Skynet/445 open netbios ssn.md",
     "OSCP/Boxes/THM/(THM) Skynet/1. nmap.md",
-    "OSCP/Boxes/THM/(THM) Skynet/(THM) Skynet.md",
     "OSCP/Boxes/THM/(THM) Basic Pentesting",
     "OSCP/Boxes/(THM) EasyCTF/Untitled",
     "CCNA/CCNA - Pics/Pasted image 20260514211927.png",
     "OSCP/Boxes/THM/(THM) EasyCTF",
-    "OSCP/Boxes/THM/(THM) Ignite",
     "CCNA/CCNA - Pics/Pasted image 20260513115959.png",
     "CCNA/CCNA - Pics/Pasted image 20260513114744.png",
     "CCNA/CCNA - Pics/Pasted image 20260512165652.png",
