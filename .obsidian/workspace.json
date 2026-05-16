@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Enumeration Cheatsheet.md",
+                "file": "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration Cheatsheet"
+              "title": "1enum"
             }
           }
         ]
@@ -198,9 +198,10 @@
   "active": "e47f27a6dd45b0b1",
   "lastOpenFiles": [
     "OSCP/FTP Cheatsheet.md",
+    "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
+    "OSCP/Enumeration Cheatsheet.md",
     "OSCP/readme.md",
     "OSCP/Metasploit Cheatsheet.md",
-    "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
     "OSCP/Boxes/THM/(THM) Basic Pentesting/22 ssh.md",
     "OSCP/Boxes/THM/THM (Mr. Robot)",
     "OSCP/Boxes/THM/Untitled.md",
@@ -208,7 +209,6 @@
     "OSCP/Boxes/THM/(THM) Basic Pentesting/139 netbios.md",
     "OSCP/Boxes/THM/(THM) Basic Pentesting/80 http.md",
     "OSCP/S1rens_Linux_priv_esc.md",
-    "OSCP/Enumeration Cheatsheet.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Bounty Hacker/1enum.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md.tmp.1560.f6c1eacc5023",
