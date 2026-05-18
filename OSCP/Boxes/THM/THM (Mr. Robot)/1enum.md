@@ -7,20 +7,24 @@
 
 http://10.113.134.44/Image/
 
-
-> step 2 WP 4.3.1, once i get da creds
-https://www.exploit-db.com/exploits/50255
-http://10.113.134.44/?attachment_id=23#comment-2
+Priority:
 
 User-agent: *
 fsocity.dic
 key-1-of-3.txt
+
+Blog:
+/59521b3.html
 
 user&#039
 username is user
 
 http://10.112.139.250/xmlrpc.php
 XML-RPC server accepts POST requests only.
+
+> step 2 WP 4.3.1, once i get da creds
+https://www.exploit-db.com/exploits/50255
+http://10.113.134.44/?attachment_id=23#comment-2
 
 
 443 HTTPS ->
