@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
+                "file": "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S1rens_Linux_priv_esc"
+              "title": "1enum"
+            }
+          },
+          {
+            "id": "9cf4c49909a98eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Intro to Cross-site Scripting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,21 +210,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "e47f27a6dd45b0b1",
+  "active": "9cf4c49909a98eef",
   "lastOpenFiles": [
-    "OSCP/Search Commands Cheatsheet.md",
-    "OSCP/Bruteforcing Cheatsheet.md",
     "OSCP/Enumeration Cheatsheet.md",
+    "OSCP/Search Commands Cheatsheet.md",
+    "OSCP/Shells Cheatsheet.md",
+    "OSCP/Boxes/THM/(THM) CMesS/1enum.md",
+    "OSCP/Boxes/THM/THM (Mr. Robot)/things to remember.md",
+    "OSCP/Boxes/THM/(THM) CMesS",
+    "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
+    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
+    "OSCP/Bruteforcing Cheatsheet.md",
     "OSCP/FTP Cheatsheet.md",
     "OSCP/Metasploit Cheatsheet.md",
-    "OSCP/Shells Cheatsheet.md",
-    "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
     "OSCP/readme.md",
     "OSCP/SMB Cheatsheet.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
-    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Overpass/1enum.md",
     "CCNA/CCNA - Pics/Pasted image 20260516154141.png",
@@ -226,8 +244,6 @@
     "OSCP/Boxes/THM/(THM) Ignite/1enum.md",
     "OSCP/Boxes/THM/(THM) Basic Pentesting/8009 tcp open  ajp13.md",
     "OSCP/Boxes/THM/(THM) Basic Pentesting/445 tcp  open  microsoft-ds.md",
-    "OSCP/Boxes/THM/(THM) EasyCTF/(THM) EasyCTF.md",
-    "OSCP/Boxes/Breachlab/ghost.md",
     "OSCP/Boxes/THM/(THM) Bounty Hacker",
     "OSCP/Boxes/Breachlab",
     "OSCP/Boxes/THM",
@@ -235,7 +251,6 @@
     "OSCP/Boxes/THM/(THM) Basic Pentesting",
     "OSCP/Boxes/(THM) EasyCTF/Untitled",
     "CCNA/CCNA - Pics/Pasted image 20260514211927.png",
-    "OSCP/Boxes/THM/(THM) EasyCTF",
     "CCNA/CCNA - Pics/Pasted image 20260513115959.png",
     "CCNA/CCNA - Pics/Pasted image 20260513114744.png",
     "CCNA/CCNA - Pics/Pasted image 20260512165652.png",
