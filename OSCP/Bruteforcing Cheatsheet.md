@@ -104,3 +104,6 @@ john --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
 - Always check if there's account lockout before bruteforcing
 - Cookie/session values may be base64 encoded — decode with `echo "value" | base64 -d`
 - Hashed cookies can be looked up at crackstation.net
+
+
+https://github.com/swisskyrepo/PayloadsAllTheThings

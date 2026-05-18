@@ -27,6 +27,9 @@ XML-RPC server accepts POST requests only.
 https://www.exploit-db.com/exploits/50255
 http://10.113.134.44/?attachment_id=23#comment-2
 
+elliot
+ER28-0652
+
 
 443 HTTPS ->
 
