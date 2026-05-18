@@ -6,11 +6,22 @@
 <script>var USER_IP='208.185.115.6';var BASE_URL='index.html';var RETURN_URL='index.html';var REDIRECT=false;window.log=function(){log.history=log.history||[];log.history.push(arguments);if(this.console){console.log(Array.prototype.slice.call(arguments));}};</script>
 
 http://10.113.134.44/Image/
-WP 4.3.1
-http://10.113.134.44/?attachment_id=23#comment-2
+
+
+> step 2 WP 4.3.1, once i get da creds
 https://www.exploit-db.com/exploits/50255
+http://10.113.134.44/?attachment_id=23#comment-2
+
+User-agent: *
+fsocity.dic
+key-1-of-3.txt
 
 user&#039
+username is user
+
+http://10.112.139.250/xmlrpc.php
+XML-RPC server accepts POST requests only.
+
 
 443 HTTPS ->
 
