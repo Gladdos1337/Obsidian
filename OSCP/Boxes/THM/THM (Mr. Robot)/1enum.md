@@ -15,6 +15,7 @@ key-1-of-3.txt
 
 Blog:
 /59521b3.html
+http://10.112.139.250/59521b3.html
 
 user&#039
 username is user
