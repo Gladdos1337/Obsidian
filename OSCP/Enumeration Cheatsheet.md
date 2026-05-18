@@ -14,6 +14,35 @@ nmap -p- -T4 --min-rate 5000 <IP> -oN ports.txt
 nmap -p <ports> -sV -sC -A <IP> -oN detailed.txt
 ```
 
+```bash
+# Your standard go-to scan
+nmap -sC -sV -oN initial.txt <ip>
+
+# Full port scan (don't skip this)
+nmap -p- --min-rate 5000 -oN allports.txt <ip>
+
+# Then focused scan on discovered ports
+nmap -sC -sV -p 80,443,8080 -oN targeted.txt <ip>
+
+# UDP (slow, but some boxes need it)
+nmap -sU --top-ports 20 <ip>
+
+# OS detection (occasionally useful)
+nmap -O <ip>
+```
+
+**Flags worth knowing:**
+
+- `-sC` — default scripts
+- `-sV` — version detection
+- `-p-` — all ports
+- `-oN` / `-oA` — output (oA saves all formats at once)
+- `--min-rate` — speed up scans
+- `-T4` — timing template (some people use this instead of min-rate)
+- `-Pn` — skip host discovery (use when host seems down but isn't)
+- `-sU` — UDP scan
+- `-sS` — SYN scan (default when root, stealthier)
+
 > Always save output with `-oN`. You'll want to grep it later.
 
 ---
