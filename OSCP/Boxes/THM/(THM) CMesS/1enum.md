@@ -46,10 +46,6 @@ Your password has been reset. Here: KPFTN_f2yxe%
 
 22 ssh > nothing for now
 
-https://rastating.github.io/gila-cms-reflected-xss/
-PHPSESSID=9oelnk7e0ru4cf7g46ddaaq6a3
-
-
 andre@cmess.thm
 KPFTN_f2yxe%
 
