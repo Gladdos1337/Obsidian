@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
+                "file": "OSCP/Boxes/THM/(THM) CMesS/1enum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LFI (Local File Inclusion)"
+              "title": "1enum"
             }
           }
         ],
@@ -212,8 +212,8 @@
   },
   "active": "9cf4c49909a98eef",
   "lastOpenFiles": [
-    "OSCP/Web Hacking/File Inclusion/File Inclusion.md",
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
+    "OSCP/Web Hacking/File Inclusion/File Inclusion.md",
     "OSCP/Web Hacking/File Inclusion/Directory or Path Traversal.md",
     "OSCP/Boxes/THM/(THM) CMesS/1enum.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
