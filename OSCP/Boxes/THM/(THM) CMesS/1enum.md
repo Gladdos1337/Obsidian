@@ -20,12 +20,38 @@ PORT   STATE SERVICE VERSION
 10.113.178.251
 http://10.113.178.251/admin
 
+```
+## Development Log
+
+### andre@cmess.thm
+
+Have you guys fixed the bug that was found on live?
+
+### support@cmess.thm
+
+Hey Andre, We have managed to fix the misconfigured .htaccess file, we're hoping to patch it in the upcoming patch!
+
+### support@cmess.thm
+
+Update! We have had to delay the patch due to unforeseen circumstances
+
+### andre@cmess.thm
+
+That's ok, can you guys reset my password if you get a moment, I seem to be unable to get onto the admin panel.
+
+### support@cmess.thm
+
+Your password has been reset. Here: KPFTN_f2yxe%
+```
 
 22 ssh > nothing for now
 
 https://rastating.github.io/gila-cms-reflected-xss/
 PHPSESSID=9oelnk7e0ru4cf7g46ddaaq6a3
 
+
+andre@cmess.thm
+KPFTN_f2yxe%
 
 http://10.113.178.251/admin/fm/?f=src../../../../../../../../../WINDOWS/system32/drivers/etc/hosts
 
