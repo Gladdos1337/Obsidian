@@ -18,7 +18,7 @@ PORT   STATE SERVICE VERSION
 
 80 /src/ /themes/ /lib/
 10.113.178.251
-
+http://10.113.178.251/admin
 
 
 22 ssh > nothing for now
