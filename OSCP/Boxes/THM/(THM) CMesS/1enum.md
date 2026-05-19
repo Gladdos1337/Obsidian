@@ -53,9 +53,10 @@ PHPSESSID=9oelnk7e0ru4cf7g46ddaaq6a3
 andre@cmess.thm
 KPFTN_f2yxe%
 
-http://10.113.178.251/admin/fm/?f=src../../../../../../../../../WINDOWS/system32/drivers/etc/hosts
-
-step2... once logged in https://gist.github.com/victomteng1997/ead0570070f6fda845cea578eddd22a2
+	'host' => 'localhost',
+    'user' => 'root',
+    'pass' => 'r0otus3rpassw0rd',
+    'name' => 'gila',
 
 ---
 

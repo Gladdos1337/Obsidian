@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
+                "file": "OSCP/Boxes/THM/(THM) CMesS/1enum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S1rens_Linux_priv_esc"
+              "title": "1enum"
             }
           }
         ],
@@ -212,12 +212,14 @@
   },
   "active": "9cf4c49909a98eef",
   "lastOpenFiles": [
+    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
+    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/Search Commands Cheatsheet.md",
+    "OSCP/Shells Cheatsheet.md",
+    "OSCP/Boxes/THM/(THM) CMesS/1enum.md",
     "OSCP/FTP Cheatsheet.md",
     "OSCP/Metasploit Cheatsheet.md",
     "OSCP/Enumeration Cheatsheet.md",
-    "OSCP/Boxes/THM/(THM) CMesS/1enum.md",
-    "OSCP/Shells Cheatsheet.md",
     "OSCP/Bruteforcing Cheatsheet.md",
     "OSCP/SMB Cheatsheet.md",
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
@@ -230,9 +232,7 @@
     "OSCP/Boxes/THM/THM (Mr. Robot)/things to remember.md",
     "OSCP/Boxes/THM/(THM) CMesS",
     "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
-    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/readme.md",
-    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Overpass/1enum.md",
     "CCNA/CCNA - Pics/Pasted image 20260516154141.png",
     "CCNA/CCNA - Pics/Pasted image 20260516154136.png",
