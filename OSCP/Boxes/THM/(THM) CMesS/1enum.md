@@ -23,6 +23,8 @@ http://10.113.178.251/admin
 
 22 ssh > nothing for now
 
+https://rastating.github.io/gila-cms-reflected-xss/
+PHPSESSID=9oelnk7e0ru4cf7g46ddaaq6a3
 
 
 step2... once logged in https://gist.github.com/victomteng1997/ead0570070f6fda845cea578eddd22a2
