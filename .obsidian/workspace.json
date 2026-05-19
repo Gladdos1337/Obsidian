@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
+                "file": "1. ShadowApple/connection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S1rens_Linux_priv_esc"
+              "title": "connection"
             }
           }
         ],
@@ -211,6 +211,9 @@
   },
   "active": "9cf4c49909a98eef",
   "lastOpenFiles": [
+    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
+    "1. ShadowApple/connection.md",
+    "1. ShadowApple",
     "OSCP/readme.md",
     "OSCP/Metasploit Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) LazyAdmin/(THM) LazyAdmin.md",
@@ -219,7 +222,6 @@
     "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Shells Cheatsheet.md",
     "OSCP/Enumeration Cheatsheet.md",
-    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) CMesS/1enum.md",
     "OSCP/Bruteforcing Cheatsheet.md",
@@ -241,14 +243,12 @@
     "OSCP/Boxes/THM/(THM) Basic Pentesting/22 ssh.md",
     "OSCP/Boxes/THM/THM (Mr. Robot)",
     "OSCP/Boxes/THM/Untitled.md",
-    "OSCP/Boxes/THM/(THM) Basic Pentesting/1enum.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md.tmp.1560.f6c1eacc5023",
     "OSCP/Boxes/THM/(THM) Bounty Hacker",
     "OSCP/Boxes/Breachlab",
     "OSCP/Boxes/THM",
     "OSCP/SMB Cheatsheet.md.tmp.13076.e02440791037",
     "OSCP/Boxes/THM/(THM) Basic Pentesting",
-    "OSCP/Boxes/(THM) EasyCTF/Untitled",
     "CCNA/CCNA - Pics/Pasted image 20260514211927.png",
     "CCNA/CCNA - Pics/Pasted image 20260513115959.png",
     "CCNA/CCNA - Pics/Pasted image 20260513114744.png",
