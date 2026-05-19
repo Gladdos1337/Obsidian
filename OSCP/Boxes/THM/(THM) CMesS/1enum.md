@@ -25,7 +25,7 @@ http://10.113.178.251/admin
 
 
 
-
+step2... once logged in https://gist.github.com/victomteng1997/ead0570070f6fda845cea578eddd22a2
 
 ---
 
