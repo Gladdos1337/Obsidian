@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/THM/(THM) Kenobi/1enum.md",
+                "file": "OSCP/SMB Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1enum"
+              "title": "SMB Cheatsheet"
             }
           }
         ],
@@ -225,8 +225,9 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Boxes/THM/(THM) Kenobi/smb.md",
+    "OSCP/FTP Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Kenobi/1enum.md",
+    "OSCP/Boxes/THM/(THM) Kenobi/smb.md",
     "OSCP/SMB Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Kenobi",
     "OSCP/CTFs lists/THM.md",
@@ -237,7 +238,6 @@
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Boxes/THM/(THM) CMesS/1enum.md",
     "OSCP/Bruteforcing Cheatsheet.md",
-    "OSCP/FTP Cheatsheet.md",
     "OSCP/Enumeration Cheatsheet.md",
     "1. ShadowApple/connection.md",
     "1. ShadowApple",
