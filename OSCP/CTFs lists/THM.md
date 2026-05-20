@@ -7,26 +7,26 @@
 
 ## 🟢 Beginner — Build the Foundation
 
-| Room | Topic | Link |
-|------|-------|------|
-| Linux Fundamentals 1 | Linux basics | [Room](https://tryhackme.com/room/linuxfundamentalspart1) |
-| Linux Fundamentals 2 | Linux basics | [Room](https://tryhackme.com/room/linuxfundamentalspart2) |
-| Linux Fundamentals 3 | Linux basics | [Room](https://tryhackme.com/room/linuxfundamentalspart3) |
-| Windows Fundamentals 1 | Windows basics | [Room](https://tryhackme.com/room/windowsfundamentals1xbx) |
-| Windows Fundamentals 2 | Windows basics | [Room](https://tryhackme.com/room/windowsfundamentals2x0x) |
-| Windows Fundamentals 3 | Windows basics | [Room](https://tryhackme.com/room/windowsfundamentals3xzx) |
-| Networking Fundamentals | Networking | [Room](https://tryhackme.com/room/networkingfundamentals) |
-| HTTP in Detail | Web basics | [Room](https://tryhackme.com/room/httpindetail) |
-| Burp Suite: Basics | Web proxy | [Room](https://tryhackme.com/room/burpsuitebasics) |
-| Burp Suite: Repeater | Web proxy | [Room](https://tryhackme.com/room/burpsuiterepeater) |
-| Burp Suite: Intruder | Web proxy | [Room](https://tryhackme.com/room/burpsuiteintruder) |
-| Blue | SMB / EternalBlue / Windows | [Room](https://tryhackme.com/room/blue) |
-| Ignite | Web / Fuel CMS exploit | [Room](https://tryhackme.com/room/ignite) |
-| Kenobi | Linux / NFS / ProFTPd | [Room](https://tryhackme.com/room/kenobi) |
-| Agent Sudo | Linux privesc / enumeration | [Room](https://tryhackme.com/room/agentsudoctf) |
-| Vulnversity | Web / file upload exploitation | [Room](https://tryhackme.com/room/vulnversity) |
-| Ice | Windows / RDP / Icecast | [Room](https://tryhackme.com/room/ice) |
-| Brooklyn Nine Nine | Linux / FTP / privesc | [Room](https://tryhackme.com/room/brooklynninenine) |
+| Room                    | Topic                          | Link                                                       |
+| ----------------------- | ------------------------------ | ---------------------------------------------------------- |
+| Linux Fundamentals 1    | Linux basics                   | [Room](https://tryhackme.com/room/linuxfundamentalspart1)  |
+| Linux Fundamentals 2    | Linux basics                   | [Room](https://tryhackme.com/room/linuxfundamentalspart2)  |
+| Linux Fundamentals 3    | Linux basics                   | [Room](https://tryhackme.com/room/linuxfundamentalspart3)  |
+| Windows Fundamentals 1  | Windows basics                 | [Room](https://tryhackme.com/room/windowsfundamentals1xbx) |
+| Windows Fundamentals 2  | Windows basics                 | [Room](https://tryhackme.com/room/windowsfundamentals2x0x) |
+| Windows Fundamentals 3  | Windows basics                 | [Room](https://tryhackme.com/room/windowsfundamentals3xzx) |
+| Networking Fundamentals | Networking                     | [Room](https://tryhackme.com/room/networkingfundamentals)  |
+| HTTP in Detail          | Web basics                     | [Room](https://tryhackme.com/room/httpindetail)            |
+| Burp Suite: Basics      | Web proxy                      | [Room](https://tryhackme.com/room/burpsuitebasics)         |
+| Burp Suite: Repeater    | Web proxy                      | [Room](https://tryhackme.com/room/burpsuiterepeater)       |
+| Burp Suite: Intruder    | Web proxy                      | [Room](https://tryhackme.com/room/burpsuiteintruder)       |
+| Blue                    | SMB / EternalBlue / Windows    | [Room](https://tryhackme.com/room/blue)                    |
+| Ignite                  | Web / Fuel CMS exploit         | [Room](https://tryhackme.com/room/ignite)                  |
+| Kenobi                  | Linux / NFS / ProFTPd          | [Room](https://tryhackme.com/room/kenobi)                  |
+| ~~Agent Sudo~~          | Linux privesc / enumeration    | [Room](https://tryhackme.com/room/agentsudoctf)            |
+| Vulnversity             | Web / file upload exploitation | [Room](https://tryhackme.com/room/vulnversity)             |
+| Ice                     | Windows / RDP / Icecast        | [Room](https://tryhackme.com/room/ice)                     |
+| Brooklyn Nine Nine      | Linux / FTP / privesc          | [Room](https://tryhackme.com/room/brooklynninenine)        |
 
 ---
 
@@ -43,11 +43,11 @@
 
 ### Windows Privilege Escalation
 
-| Room | Topic | Link |
-|------|-------|------|
-| Windows PrivEsc | Tib3rius — OSCP-focused lab | [Room](https://tryhackme.com/room/windows10privesc) |
-| Windows PrivEsc Arena | TCM-style lab | [Room](https://tryhackme.com/room/windowsprivescarena) |
-| Windows Privilege Escalation | Services / DLL hijack / creds | [Room](https://tryhackme.com/room/windowsprivesc20) |
+| Room                         | Topic                         | Link                                                   |
+| ---------------------------- | ----------------------------- | ------------------------------------------------------ |
+| Windows PrivEsc              | Tib3rius — OSCP-focused lab   | [Room](https://tryhackme.com/room/windows10privesc)    |
+| Windows PrivEsc Arena        | TCM-style lab                 | [Room](https://tryhackme.com/room/windowsprivescarena) |
+| Windows Privilege Escalation | Services / DLL hijack / creds | [Room](https://tryhackme.com/room/windowsprivesc20)    |
 
 ### Web Exploitation
 
