@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "PowerShell(Start-Process powershell -ArgumentList \"-ExecutionPolicy Bypass -File `\"C:\\\\Users\\\\Gladdos\\\\Desktop\\\\Clauded\\\\dev.ps1`\"\")"
+      "PowerShell(Start-Process powershell -ArgumentList \"-ExecutionPolicy Bypass -File `\"C:\\\\Users\\\\Gladdos\\\\Desktop\\\\Clauded\\\\dev.ps1`\"\")",
+      "Skill(anthropic-skills:setup-cowork)",
+      "Skill(anthropic-skills:setup-cowork:*)",
+      "Bash(python -c ' *)",
+      "Bash(pip install *)",
+      "PowerShell(pip install \"pysnmp==5.0.4\")"
     ]
   }
 }
