@@ -1,4 +1,4 @@
-Related: [[Passive v Active]] | [[(THM) EasyCTF]] | [[21 ftp]] | [[80 http]]
+Related: [[Passive v Active]] | [[(THM) EasyCTF]] | [[OSCP/Boxes/THM/(THM) EasyCTF/21 ftp]] | [[80 http]]
 
 PORT     STATE SERVICE VERSION
 21/tcp   open  ftp     vsftpd 3.0.3

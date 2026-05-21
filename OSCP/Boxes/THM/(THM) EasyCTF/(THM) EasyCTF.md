@@ -1,4 +1,4 @@
-Related: [[OSCP/Boxes/THM/(THM) EasyCTF/1enum]] | [[21 ftp]] | [[80 http]] | [[Brute force]] | [[Types of shells]]
+Related: [[OSCP/Boxes/THM/(THM) EasyCTF/1enum]] | [[OSCP/Boxes/THM/(THM) EasyCTF/21 ftp]] | [[80 http]] | [[Brute force]] | [[Types of shells]]
 
 # THM - EasyCTF
 

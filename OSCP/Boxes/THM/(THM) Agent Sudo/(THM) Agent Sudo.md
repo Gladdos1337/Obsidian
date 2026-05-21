@@ -1,4 +1,4 @@
-Related: [[21 ftp]] | [[Brute force]] | [[Types of shells]] | [[1.1 Manual Discovery]]
+Related: [[OSCP/Boxes/THM/(THM) Agent Sudo/21 ftp]] | [[Brute force]] | [[Types of shells]] | [[1.1 Manual Discovery]]
 
 # CTF Writeup — Agent Sudo (TryHackMe)
 

@@ -1,4 +1,4 @@
-Related: [[1. nmap]] | [[22 ssh]] | [[80 http]] | [[110 pop3]] | [[139 netbios samba]] | [[143 open imap]] | [[445 open netbios ssn]] | [[Commands]] | [[Resources]]
+Related: [[1. nmap]] | [[OSCP/Boxes/THM/(THM) Skynet/22 ssh]] | [[80 http]] | [[110 pop3]] | [[139 netbios samba]] | [[143 open imap]] | [[445 open netbios ssn]] | [[Commands]] | [[Resources]]
 Theory: [[LFI (Local File Inclusion)]] | [[RFI (Remote File Inclusion)]] | [[File Inclusion]] | [[Types of shells]] | [[Python]]
 
 # THM - Skynet
