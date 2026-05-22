@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/THM/(THM) Brooklyn99 CTF/1enum.md",
+                "file": "OSCP/Boxes/THM/(THM) Easy Peasy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1enum"
+              "title": "(THM) Easy Peasy"
             }
           }
         ],
@@ -226,10 +226,12 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Boxes/THM/LinuxPriEscArena/stupid ssh login.md",
-    "OSCP/Boxes/THM/(THM) Brooklyn99 CTF/1enum.md",
-    "OSCP/Boxes/THM/(THM) Brooklyn99 CTF",
     "OSCP/CTFs lists/THM.md",
+    "OSCP/Boxes/THM/(THM) Easy Peasy.md",
+    "OSCP/Enumeration Cheatsheet.md",
+    "OSCP/Boxes/THM/(THM) Brooklyn99 CTF/1enum.md",
+    "OSCP/Boxes/THM/LinuxPriEscArena/stupid ssh login.md",
+    "OSCP/Boxes/THM/(THM) Brooklyn99 CTF",
     "OSCP/Boxes/THM/LinuxPriEscArena",
     "OSCP/Boxes/THM/(THM) Vulniversity/11 how i did it.md",
     "OSCP/Boxes/THM/(THM) Vulniversity/1enum.md",
@@ -253,10 +255,8 @@
     "OSCP/Boxes/THM/(THM) Kenobi/smb.md",
     "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Bruteforcing Cheatsheet.md",
-    "OSCP/FTP Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Kenobi",
     "OSCP/CTFs lists",
-    "OSCP/Boxes/THM/(THM) CMesS/1enum.md",
     "1. ShadowApple",
     "OSCP/Boxes/THM/(THM) CMesS",
     "CCNA/CCNA - Pics/Pasted image 20260516154141.png",

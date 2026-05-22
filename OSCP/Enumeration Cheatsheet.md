@@ -63,6 +63,8 @@ gobuster vhost -u http://<hostname> -w /usr/share/seclists/Discovery/DNS/subdoma
 nikto -h http://<IP>
 ```
 
+`curl -s http://10.112.155.219/n0th1ng3ls3m4tt3r/ | less`
+
 Always:
 - View page source (`Ctrl+U`)
 - Check `/robots.txt` and `/sitemap.xml` manually
