@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/THM/(THM) Vulniversity/11 how i did it.md",
+                "file": "OSCP/CTFs lists/THM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 how i did it"
+              "title": "THM"
             }
           }
         ],
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,8 +226,8 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Boxes/THM/(THM) Vulniversity/1enum.md",
     "OSCP/Boxes/THM/(THM) Vulniversity/11 how i did it.md",
+    "OSCP/Boxes/THM/(THM) Vulniversity/1enum.md",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Shells Cheatsheet.md",
     "OSCP/Web Hacking/File Inclusion/Directory or Path Traversal.md",

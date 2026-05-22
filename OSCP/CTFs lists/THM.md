@@ -21,10 +21,10 @@
 | Burp Suite: Repeater    | Web proxy                      | [Room](https://tryhackme.com/room/burpsuiterepeater)       |
 | Burp Suite: Intruder    | Web proxy                      | [Room](https://tryhackme.com/room/burpsuiteintruder)       |
 | Blue                    | SMB / EternalBlue / Windows    | [Room](https://tryhackme.com/room/blue)                    |
-| Ignite                  | Web / Fuel CMS exploit         | [Room](https://tryhackme.com/room/ignite)                  |
-| Kenobi                  | Linux / NFS / ProFTPd          | [Room](https://tryhackme.com/room/kenobi)                  |
+| ~~Ignite~~              | Web / Fuel CMS exploit         | [Room](https://tryhackme.com/room/ignite)                  |
+| ~~Kenobi~~              | Linux / NFS / ProFTPd          | [Room](https://tryhackme.com/room/kenobi)                  |
 | ~~Agent Sudo~~          | Linux privesc / enumeration    | [Room](https://tryhackme.com/room/agentsudoctf)            |
-| Vulnversity             | Web / file upload exploitation | [Room](https://tryhackme.com/room/vulnversity)             |
+| ~~Vulnversity~~         | Web / file upload exploitation | [Room](https://tryhackme.com/room/vulnversity)             |
 | Ice                     | Windows / RDP / Icecast        | [Room](https://tryhackme.com/room/ice)                     |
 | Brooklyn Nine Nine      | Linux / FTP / privesc          | [Room](https://tryhackme.com/room/brooklynninenine)        |
 
