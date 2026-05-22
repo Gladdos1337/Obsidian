@@ -1,0 +1,1 @@
+ssh -oHostKeyAlgorithms=+ssh-rsa TCM@
