@@ -6,7 +6,10 @@
       "Skill(anthropic-skills:setup-cowork:*)",
       "Bash(python -c ' *)",
       "Bash(pip install *)",
-      "PowerShell(pip install \"pysnmp==5.0.4\")"
+      "PowerShell(pip install \"pysnmp==5.0.4\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\Gladdos\\\\.claude\\\\projects\\\\C--Users-Gladdos-Documents-Obsidian\\\\memory\")",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\Gladdos\\\\Desktop\" -File | Where-Object { $_.Extension -in '.py', '.js' } | Select-Object -ExpandProperty Name)",
+      "PowerShell(powershell -ExecutionPolicy Bypass -File \"C:\\\\Users\\\\Gladdos\\\\Desktop\\\\Clauded\\\\dev.ps1\")"
     ]
   }
 }
