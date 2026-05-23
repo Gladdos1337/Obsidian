@@ -12,7 +12,7 @@
 
 passwd:
 
-music_archive:$apr1$BpZ.Q.1m$F0qqPwHSOG50URuOVQTTn.
+music_archive:$apr1$BpZ.Q.1m$F0qqPwHSOG50URuOVQTTn.`
 
 squid.conf:
 
