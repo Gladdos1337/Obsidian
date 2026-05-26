@@ -38,4 +38,4 @@ first i need to access lennie, via ssh possibly.. gotta find password
 
 
 
-stty raw -echo; fg
+jebeno nadji cronjob, vidi sta edituje, tj koji file edituje, u taj file stavcis shell i to je to .!!!!i
