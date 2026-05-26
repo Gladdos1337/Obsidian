@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/THM/(THM) Cyborg/1enum.md",
+                "file": "OSCP/Boxes/THM/Startup/1enum.md",
                 "mode": "source",
                 "source": false
               },
@@ -226,8 +226,11 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Boxes/THM/(THM) Easy Peasy.md",
     "OSCP/Boxes/THM/(THM) Cyborg/1enum.md",
+    "OSCP/Boxes/THM/Startup/1enum.md",
+    "OSCP/Boxes/THM/Startup",
+    "OSCP/Boxes/THM/Untitled.md",
+    "OSCP/Boxes/THM/(THM) Easy Peasy.md",
     "OSCP/Boxes/THM/(THM) Cyborg",
     "OSCP/Shells Cheatsheet.md",
     "OSCP/SMB Cheatsheet.md",
@@ -253,8 +256,6 @@
     "OSCP/Boxes/THM/(THM) Vulniversity/139 smb.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
     "OSCP/Boxes/THM/(THM) Vulniversity/3333 Apache httpd 2.4.41.md",
-    "OSCP/Boxes/THM/(THM) Vulniversity/445 smb.md",
-    "OSCP/Boxes/THM/(THM) Vulniversity/21 ftp.md",
     "OSCP/Boxes/THM/(THM) Vulniversity",
     "OSCP/Boxes/THM/(THM) Kenobi",
     "OSCP/CTFs lists",
@@ -263,7 +264,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260516154141.png",
     "CCNA/CCNA - Pics/Pasted image 20260516154136.png",
     "OSCP/Boxes/THM/(THM) Overpass",
-    "OSCP/Boxes/THM/THM (Mr. Robot)",
     "CCNA/CCNA - Pics/Pasted image 20260514211927.png",
     "CCNA/CCNA - Pics/Pasted image 20260513115959.png",
     "CCNA/CCNA - Pics/Pasted image 20260513114744.png",
