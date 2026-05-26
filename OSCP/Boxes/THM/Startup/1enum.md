@@ -27,3 +27,8 @@ PORT   STATE SERVICE VERSION
 |_http-title: Maintenance
 
 
+
+2026/05/26 15:51:01 CMD: UID=0     PID=2029   | /bin/bash /home/lennie/scripts/planner.sh 
+2026/05/26 15:51:01 CMD: UID=0     PID=2028   | /bin/sh -c /home/lennie/scripts/planner.sh 
+2026/05/26 15:51:01 CMD: UID=0     PID=2027   | /usr/sbin/CRON -f 
+
