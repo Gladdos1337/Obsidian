@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/THM/Startup/1enum.md",
+                "file": "OSCP/Boxes/THM/(THM) Pickel Rick/1enum.md",
                 "mode": "source",
                 "source": false
               },
@@ -226,10 +226,20 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "CCNA/CCNA - Pics/Pasted image 20260526221617.png",
+    "CCNA/CCNA - Pics/Pasted image 20260526221614.png",
+    "CCNA/CCNA - Pics/Pasted image 20260526221611.png",
+    "CCNA/CCNA - Pics/Pasted image 20260526221606.png",
+    "CCNA/CCNA - Pics/Pasted image 20260526221602.png",
+    "CCNA/CCNA - Pics/Pasted image 20260526221437.png",
+    "CCNA/CCNA - Pics/Pasted image 20260526221434.png",
+    "CCNA/CCNA - Pics/Pasted image 20260526221430.png",
+    "OSCP/Boxes/THM/Startup/1enum.md",
+    "OSCP/Boxes/THM/(THM) Pickel Rick/1enum.md",
+    "OSCP/Boxes/THM/(THM) Pickel Rick",
     "OSCP/Boxes/THM/THM (Mr. Robot)/things to remember.md",
     "OSCP/Shells Cheatsheet.md",
     "OSCP/SMB Cheatsheet.md",
-    "OSCP/Boxes/THM/Startup/1enum.md",
     "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
@@ -254,8 +264,6 @@
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
     "OSCP/Boxes/THM/(THM) Vulniversity/139 smb.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
-    "OSCP/Boxes/THM/(THM) Vulniversity/3333 Apache httpd 2.4.41.md",
     "OSCP/Boxes/THM/(THM) Vulniversity",
     "OSCP/Boxes/THM/(THM) Kenobi",
     "OSCP/CTFs lists",
@@ -263,15 +271,7 @@
     "OSCP/Boxes/THM/(THM) CMesS",
     "CCNA/CCNA - Pics/Pasted image 20260516154141.png",
     "CCNA/CCNA - Pics/Pasted image 20260516154136.png",
-    "OSCP/Boxes/THM/(THM) Overpass",
     "CCNA/CCNA - Pics/Pasted image 20260514211927.png",
-    "CCNA/CCNA - Pics/Pasted image 20260513115959.png",
-    "CCNA/CCNA - Pics/Pasted image 20260513114744.png",
-    "CCNA/CCNA - Pics/Pasted image 20260512165652.png",
-    "CCNA/CCNA - Pics/Pasted image 20260510213808.png",
-    "CCNA/CCNA - Pics/Pasted image 20260510213605.png",
-    "CCNA/CCNA - Pics/Pasted image 20260510213445.png",
-    "CCNA/CCNA - Pics/Pasted image 20260510213437.png",
     "Untitled.canvas"
   ]
 }
