@@ -36,3 +36,6 @@ first i need to access lennie, via ssh possibly.. gotta find password
 2026/05/26 15:51:01 CMD: UID=0     PID=2028   | /bin/sh -c /home/lennie/scripts/planner.sh 
 2026/05/26 15:51:01 CMD: UID=0     PID=2027   | /usr/sbin/CRON -f 
 
+
+
+stty raw -echo; fg
