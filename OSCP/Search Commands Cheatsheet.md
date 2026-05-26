@@ -12,6 +12,11 @@ find / -name "root.txt" 2>/dev/null
 
 # Search by content if you don't know the filename
 grep -r "THM{" / 2>/dev/null
+# Search for any directory in root that isn't standard
+find / -maxdepth 1 -not -path "/" -not -path "/proc" -not -path "/sys" -not -path "/dev" 2>/dev/null
+# Search for recently modified by admins (shit):
+find / -type f -user root -mtime -30 2>/dev/null
+
 ```
 
 ---

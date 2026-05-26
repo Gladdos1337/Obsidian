@@ -70,19 +70,16 @@ A dumb shell has no tab complete, no arrow keys, Ctrl+C kills it. Always upgrade
 
 ### Method 1 — Python3 (most common)
 
+find / -name "user.txt" 2>/dev/null
+
 ```bash
 # On the target
 python3 -c 'import pty;pty.spawn("/bin/bash")'
-
-# Then background it
-Ctrl+Z
-
-# On your machine
-stty raw -echo; fg
-
-# Back on target — fix terminal size
 export TERM=xterm
 stty rows 38 columns 116
+Ctrl+Z
+stty raw -echo; fg
+
 ```
 
 ### Method 2 — Python2 (if python3 not available)
