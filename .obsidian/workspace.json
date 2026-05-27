@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Enumeration Cheatsheet.md",
+                "file": "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration Cheatsheet"
+              "title": "S1rens_Linux_priv_esc"
             }
           }
         ],
@@ -226,21 +226,23 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
+    "OSCP/Boxes/THM/(THM) tomghost/1enum.md",
     "OSCP/Search Commands Cheatsheet.md",
-    "OSCP/Boxes/THM/(THM) Pickel Rick/1enum.md",
     "OSCP/SMB Cheatsheet.md",
     "OSCP/Shells Cheatsheet.md",
+    "OSCP/Bruteforcing/Hydra cheatsheet.md",
+    "OSCP/Enumeration Cheatsheet.md",
+    "OSCP/Boxes/THM/(THM) tomghost",
+    "OSCP/Boxes/THM/(THM) Pickel Rick/1enum.md",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
     "OSCP/Boxes/THM/Startup/1enum.md",
     "OSCP/Privilege Escalation/Shell/Python.md",
-    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/Metasploit Cheatsheet.md",
     "OSCP/readme.md",
     "OSCP/FTP Cheatsheet.md",
-    "OSCP/Enumeration Cheatsheet.md",
-    "OSCP/Bruteforcing/Hydra cheatsheet.md",
     "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
     "OSCP/Bruteforcing",
     "CCNA/CCNA - Pics/Pasted image 20260526221617.png",
@@ -265,11 +267,9 @@
     "OSCP/Boxes/THM/LinuxPriEscArena/stupid ssh login.md",
     "OSCP/Boxes/THM/(THM) Brooklyn99 CTF",
     "OSCP/Boxes/THM/LinuxPriEscArena",
-    "OSCP/Boxes/THM/(THM) Vulniversity/11 how i did it.md",
     "OSCP/Boxes/THM/(THM) Vulniversity",
     "OSCP/Boxes/THM/(THM) Kenobi",
     "OSCP/CTFs lists",
-    "1. ShadowApple",
     "CCNA/CCNA - Pics/Pasted image 20260516154141.png",
     "CCNA/CCNA - Pics/Pasted image 20260516154136.png",
     "Untitled.canvas"
