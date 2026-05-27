@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Search Commands Cheatsheet.md",
+                "file": "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search Commands Cheatsheet"
+              "title": "1. Intro to Cross-site Scripting"
             }
           }
         ],
@@ -226,9 +226,18 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Shells Cheatsheet.md",
+    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
+    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
+    "OSCP/Metasploit Cheatsheet.md",
+    "OSCP/readme.md",
+    "OSCP/FTP Cheatsheet.md",
+    "OSCP/Enumeration Cheatsheet.md",
+    "OSCP/Bruteforcing/Hydra cheatsheet.md",
+    "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
+    "OSCP/Bruteforcing",
     "OSCP/Boxes/THM/(THM) Pickel Rick/1enum.md",
     "OSCP/Search Commands Cheatsheet.md",
+    "OSCP/Shells Cheatsheet.md",
     "OSCP/Boxes/THM/Startup/1enum.md",
     "CCNA/CCNA - Pics/Pasted image 20260526221617.png",
     "CCNA/CCNA - Pics/Pasted image 20260526221614.png",
@@ -242,17 +251,13 @@
     "OSCP/Boxes/THM/THM (Mr. Robot)/things to remember.md",
     "OSCP/SMB Cheatsheet.md",
     "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
-    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
-    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Boxes/THM/(THM) Cyborg/1enum.md",
     "OSCP/Boxes/THM/Startup",
     "OSCP/Boxes/THM/Untitled.md",
     "OSCP/Boxes/THM/(THM) Easy Peasy.md",
     "OSCP/Boxes/THM/(THM) Cyborg",
     "OSCP/Boxes/THM/(THM) Skynet/(THM) Skynet.md",
-    "OSCP/Metasploit Cheatsheet.md",
     "OSCP/CTFs lists/THM.md",
-    "OSCP/Enumeration Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Brooklyn99 CTF/1enum.md",
     "OSCP/Boxes/THM/LinuxPriEscArena/stupid ssh login.md",
     "OSCP/Boxes/THM/(THM) Brooklyn99 CTF",
@@ -261,14 +266,10 @@
     "OSCP/Boxes/THM/(THM) Vulniversity/1enum.md",
     "OSCP/Web Hacking/File Inclusion/Directory or Path Traversal.md",
     "OSCP/Web Hacking/File Inclusion/File Inclusion.md",
-    "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
-    "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
-    "OSCP/Boxes/THM/(THM) Vulniversity/139 smb.md",
     "OSCP/Boxes/THM/(THM) Vulniversity",
     "OSCP/Boxes/THM/(THM) Kenobi",
     "OSCP/CTFs lists",
     "1. ShadowApple",
-    "OSCP/Boxes/THM/(THM) CMesS",
     "CCNA/CCNA - Pics/Pasted image 20260516154141.png",
     "CCNA/CCNA - Pics/Pasted image 20260516154136.png",
     "Untitled.canvas"
