@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/THM/(THM) Archer/1enum.md",
+                "file": "OSCP/Enumeration Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1enum"
+              "title": "Enumeration Cheatsheet"
             }
           }
         ],
@@ -226,8 +226,8 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Boxes/THM/(THM) Madness/1enum.md",
     "OSCP/Boxes/THM/(THM) Archer/1enum.md",
+    "OSCP/Boxes/THM/(THM) Madness/1enum.md",
     "OSCP/Boxes/THM/(THM) Archer",
     "OSCP/Boxes/THM/(THM) Madness/Untitled.md",
     "OSCP/Metasploit Cheatsheet.md",

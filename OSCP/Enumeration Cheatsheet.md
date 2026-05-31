@@ -54,7 +54,8 @@ nmap -O <ip>
 gobuster dir -u http://<IP> -w /usr/share/wordlists/dirb/common.txt -x php,html,txt
 
 # Bigger wordlist if common.txt finds nothing
-gobuster dir -u http://<IP> -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x php,html,txt
+# can add jpg,png
+gobuster dir -u http://<IP> -w /usr/share/wordlists/SecLists/Discovery/Web-Content/DirBuster-2007_directory-list-2.3-medium.txt -x php,html,txt
 
 # Check for subdomains if you have a hostname
 gobuster vhost -u http://<hostname> -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt
