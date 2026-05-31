@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/THM/(THM) Madness/1enum.md",
+                "file": "OSCP/Boxes/THM/(THM) Archer/1enum.md",
                 "mode": "source",
                 "source": false
               },
@@ -226,12 +226,15 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/Boxes/THM/(THM) Madness/1enum.md",
+    "OSCP/Boxes/THM/(THM) Archer/1enum.md",
+    "OSCP/Boxes/THM/(THM) Archer",
+    "OSCP/Boxes/THM/(THM) Madness/Untitled.md",
     "OSCP/Metasploit Cheatsheet.md",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Shells Cheatsheet.md",
     "OSCP/Search Commands Cheatsheet.md",
     "OSCP/SMB Cheatsheet.md",
-    "OSCP/Boxes/THM/(THM) Madness/1enum.md",
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
@@ -253,7 +256,6 @@
     "OSCP/Boxes/THM/(THM) Pickel Rick/1enum.md",
     "OSCP/Boxes/THM/Startup/1enum.md",
     "OSCP/Privilege Escalation/Shell/Python.md",
-    "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
     "OSCP/Bruteforcing",
     "CCNA/CCNA - Pics/Pasted image 20260526221617.png",
     "CCNA/CCNA - Pics/Pasted image 20260526221614.png",
@@ -264,12 +266,10 @@
     "CCNA/CCNA - Pics/Pasted image 20260526221434.png",
     "CCNA/CCNA - Pics/Pasted image 20260526221430.png",
     "OSCP/Boxes/THM/(THM) Pickel Rick",
-    "OSCP/Boxes/THM/THM (Mr. Robot)/things to remember.md",
     "OSCP/Boxes/THM/Startup",
     "OSCP/Boxes/THM/(THM) Cyborg",
     "OSCP/Boxes/THM/(THM) Brooklyn99 CTF",
     "OSCP/Boxes/THM/LinuxPriEscArena",
-    "OSCP/Boxes/THM/(THM) Vulniversity",
     "CCNA/CCNA - Pics/Pasted image 20260516154141.png",
     "CCNA/CCNA - Pics/Pasted image 20260516154136.png",
     "Untitled.canvas"
