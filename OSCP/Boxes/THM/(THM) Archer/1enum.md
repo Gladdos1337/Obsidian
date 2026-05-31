@@ -59,3 +59,11 @@ POP3 111
 rpcbind ?
 
 53771/tcp open  status  1 (RPC #100024)
+
+
+
+getting 2 root
+---
+slade : slade cdrom floppy audio dip video plugdev netdev bluetooth
+
+/usr/bin/procmail

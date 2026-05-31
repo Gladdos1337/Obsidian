@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Enumeration Cheatsheet.md",
+                "file": "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration Cheatsheet"
+              "title": "S1rens_Linux_priv_esc"
             }
           }
         ],
@@ -226,22 +226,23 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/FTP Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Archer/1enum.md",
     "OSCP/Boxes/THM/(THM) Madness/1enum.md",
+    "OSCP/Search Commands Cheatsheet.md",
+    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
+    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
+    "OSCP/Enumeration Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Archer",
     "OSCP/Boxes/THM/(THM) Madness/Untitled.md",
     "OSCP/Metasploit Cheatsheet.md",
-    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Shells Cheatsheet.md",
-    "OSCP/Search Commands Cheatsheet.md",
     "OSCP/SMB Cheatsheet.md",
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
-    "OSCP/Enumeration Cheatsheet.md",
-    "OSCP/FTP Cheatsheet.md",
     "OSCP/readme.md",
     "OSCP/Boxes/THM/(THM) Madness",
     "OSCP/Boxes/THM/(THM) Wgel CTF/1enum.md",
@@ -250,7 +251,6 @@
     "OSCP/Boxes/THM/(THM) tomghost/1enum.md",
     "OSCP/Boxes/THM/(THM) Wgel CTF",
     "OSCP/Boxes/THM/Untitled.md",
-    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/Bruteforcing/Hydra cheatsheet.md",
     "OSCP/Boxes/THM/(THM) tomghost",
     "OSCP/Boxes/THM/(THM) Pickel Rick/1enum.md",
