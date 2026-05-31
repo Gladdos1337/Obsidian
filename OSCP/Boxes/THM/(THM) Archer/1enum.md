@@ -67,3 +67,8 @@ getting 2 root
 slade : slade cdrom floppy audio dip video plugdev netdev bluetooth
 
 /usr/bin/procmail
+
+ssh slade
+M3tahuman
+
+try to find Secret_Mission
