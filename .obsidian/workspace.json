@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/THM/(THM) Rabbit/1enum.md",
+                "file": "OSCP/Boxes/THM/(THM ) Plotted-TMS/1enum.md",
                 "mode": "source",
                 "source": false
               },
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -227,8 +226,10 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Boxes/THM/(THM) Rabbit/1enum.md",
+    "OSCP/Boxes/THM/(THM ) Plotted-TMS/1enum.md",
+    "OSCP/Boxes/THM/(THM ) Plotted-TMS",
+    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Boxes/THM/(THM) Rabbit",
     "OSCP/Boxes/THM/Untitled.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
@@ -256,7 +257,6 @@
     "OSCP/readme.md",
     "OSCP/Boxes/THM/(THM) Madness",
     "OSCP/Boxes/THM/(THM) Wgel CTF/1enum.md",
-    "OSCP/Boxes/THM/(THM) tomghost/1enum.md",
     "OSCP/Boxes/THM/(THM) Wgel CTF",
     "OSCP/Boxes/THM/(THM) tomghost",
     "OSCP/Bruteforcing",
@@ -270,7 +270,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260526221430.png",
     "OSCP/Boxes/THM/(THM) Pickel Rick",
     "OSCP/Boxes/THM/Startup",
-    "OSCP/Boxes/THM/(THM) Cyborg",
     "CCNA/CCNA - Pics/Pasted image 20260516154141.png",
     "CCNA/CCNA - Pics/Pasted image 20260516154136.png",
     "Untitled.canvas"
