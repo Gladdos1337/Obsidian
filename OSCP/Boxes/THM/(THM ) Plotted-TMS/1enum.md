@@ -49,3 +49,19 @@ http://10.114.186.150:445/management/admin/
 
 `{"status":"incorrect","last_qry":"SELECT * from users where username = 'a' and password = md5('a') "}`
 looks like SQLi and i suck at that shit
+
+
+DB dump
+
+INSERT INTO `drivers_list` (`id`, `license_id_no`, `name`, `status`, `date_created`, `date_updated`) VALUES
+(1, 'CDM-062314', 'Smith, Johnny D', 1, '2021-08-19 10:45:48', '2021-08-19 10:53:02'),
+(4, 'GBN-10140715', 'Blake, Claire C', 1, '2021-08-19 14:56:09', NULL);
+
+
+
+INSERT INTO `users` (`id`, `firstname`, `lastname`, `username`, `password`, `avatar`, `last_login`, `type`, `date_added`, `date_updated`) VALUES
+(1, 'Adminstrator', 'Admin', 'admin', '0192023a7bbd73250516f069df18b500', 'uploads/1624240500_avatar.png', NULL, 1, '2021-01-20 14:02:37', '2021-06-21 09:55:07'),
+(9, 'John', 'Smith', 'jsmith', '1254737c076cf867dc53d60a0364f38e', 'uploads/1629336240_avatar.jpg', NULL, 2, '2021-08-19 09:24:25', NULL);
+
+admin:admin123
+jsmith:jsmith123
