@@ -44,3 +44,8 @@ baits
 
 potential usernames: 
 charity
+
+http://10.114.186.150:445/management/admin/
+
+`{"status":"incorrect","last_qry":"SELECT * from users where username = 'a' and password = md5('a') "}`
+looks like SQLi and i suck at that shit

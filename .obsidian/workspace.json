@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ls -la",
+                "query": "hydra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 409.5
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -226,8 +226,15 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Boxes/THM/(THM) Rabbit/1enum.md",
+    "OSCP/Enumeration Cheatsheet.md",
+    "OSCP/FTP Cheatsheet.md",
+    "OSCP/Shells Cheatsheet.md",
+    "OSCP/Search Commands Cheatsheet.md",
+    "OSCP/readme.md",
+    "OSCP/Metasploit Cheatsheet.md",
+    "OSCP/SMB Cheatsheet.md",
     "OSCP/Boxes/THM/(THM ) Plotted-TMS/1enum.md",
+    "OSCP/Boxes/THM/(THM) Rabbit/1enum.md",
     "OSCP/Boxes/THM/(THM ) Plotted-TMS",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Boxes/THM/(THM) Rabbit",
@@ -239,22 +246,15 @@
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/Directory or Path Traversal.md",
-    "OSCP/Shells Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Archer/1enum.md",
     "C++/1Reasoning.md",
     "C++.md",
     "C++",
-    "OSCP/FTP Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Madness/1enum.md",
-    "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
-    "OSCP/Enumeration Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Archer",
     "OSCP/Boxes/THM/(THM) Madness/Untitled.md",
-    "OSCP/Metasploit Cheatsheet.md",
-    "OSCP/SMB Cheatsheet.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Reflected XSS.md",
-    "OSCP/readme.md",
     "OSCP/Boxes/THM/(THM) Madness",
     "OSCP/Boxes/THM/(THM) Wgel CTF/1enum.md",
     "OSCP/Boxes/THM/(THM) Wgel CTF",
