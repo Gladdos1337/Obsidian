@@ -53,6 +53,9 @@ nmap -O <ip>
 # Directory brute force
 gobuster dir -u http://<IP> -w /usr/share/wordlists/dirb/common.txt -x php,html,txt
 
+## way bigger but still small ? idk
+gobuster dir -u http://10.112.156.97 -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
+
 # Bigger wordlist if common.txt finds nothing
 # can add jpg,png
 gobuster dir -u http://<IP> -w /usr/share/wordlists/SecLists/Discovery/Web-Content/DirBuster-2007_directory-list-2.3-medium.txt -x php,html,txt
