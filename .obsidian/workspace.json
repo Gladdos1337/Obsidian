@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/1CPTS/Footprinting/7. SMB.md",
+                "file": "OSCP/Boxes/THM/(THM) Cat Pictures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. SMB"
+              "title": "(THM) Cat Pictures"
             }
           }
         ],
@@ -228,6 +228,7 @@
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
     "OSCP/1CPTS/Footprinting/7. SMB.md",
+    "OSCP/Boxes/THM/(THM) Cat Pictures.md",
     "OSCP/Boxes/THM/(THM) Skynet/(THM) Skynet.md",
     "Untitled.canvas",
     "OSCP/Boxes/THM/(THM) Rootme/1nmap.md",
@@ -253,7 +254,6 @@
     "OSCP/Boxes/THM/(THM ) Plotted-TMS",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Boxes/THM/(THM) Rabbit",
-    "OSCP/Boxes/THM/Untitled.md",
     "OSCP/Web Hacking/File Inclusion/File Inclusion.md",
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
