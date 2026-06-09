@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/SMB Cheatsheet.md",
+                "file": "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB Cheatsheet"
+              "title": "S1rens_Linux_priv_esc"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 375.5
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -226,35 +226,35 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
+    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
+    "OSCP/Boxes/THM/(THM) Agent Sudo/(THM) Agent Sudo.md",
+    "OSCP/Boxes/THM/(THM) Easy Peasy.md",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
+    "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
+    "OSCP/Web Hacking/Command Injection/Remediating Command Injection.md",
+    "OSCP/Web Hacking/Command Injection/Determing if it can occur.md",
+    "OSCP/Web Hacking/Authentication bypass/Brute force.md",
+    "OSCP/Web Hacking/Command Injection/Command Injection.md",
+    "OSCP/Web Hacking/File Inclusion/Directory or Path Traversal.md",
+    "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
+    "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
+    "OSCP/Search Commands Cheatsheet.md",
+    "OSCP/Shells Cheatsheet.md",
+    "OSCP/SMB Cheatsheet.md",
+    "OSCP/readme.md",
+    "OSCP/Metasploit Cheatsheet.md",
+    "OSCP/FTP Cheatsheet.md",
+    "OSCP/Enumeration Cheatsheet.md",
+    "Untitled.canvas",
     "OSCP/Web Hacking/Content Discovery/1.1 Manual Discovery.md",
     "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Basic Pentesting/22 ssh.md",
     "OSCP/Boxes/THM/(THM) EasyCTF/(THM) EasyCTF.md",
-    "OSCP/Boxes/THM/(THM) Agent Sudo/(THM) Agent Sudo.md",
-    "OSCP/Web Hacking/Authentication bypass/Brute force.md",
     "OSCP/Boxes/THM/(THM) Cat Pictures.md",
-    "OSCP/1CPTS/Footprinting/7. SMB.md",
-    "OSCP/Boxes/THM/(THM) Skynet/(THM) Skynet.md",
-    "Untitled.canvas",
-    "OSCP/Boxes/THM/(THM) Rootme/1nmap.md",
-    "OSCP/1CPTS/Footprinting/6. FTP.md",
-    "OSCP/1CPTS/Footprinting/5. Staff.md",
-    "OSCP/1CPTS/Footprinting/4. Cloud Resources.md",
-    "OSCP/Enumeration Cheatsheet.md",
-    "OSCP/1CPTS/Untitled.md",
     "OSCP/1CPTS/Footprinting",
     "OSCP/1CPTS",
-    "OSCP/Search Commands Cheatsheet.md",
-    "OSCP/Shells Cheatsheet.md",
-    "OSCP/Boxes/THM/(THM ) Plotted-TMS/1enum.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
-    "OSCP/Web Hacking/Content Discovery/Username enumeration.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
-    "OSCP/FTP Cheatsheet.md",
-    "OSCP/readme.md",
-    "OSCP/Metasploit Cheatsheet.md",
-    "OSCP/SMB Cheatsheet.md",
     "OSCP/Boxes/THM/(THM ) Plotted-TMS",
     "OSCP/Boxes/THM/(THM) Rabbit",
     "C++",

@@ -29,27 +29,27 @@ find / -perm -4000 -type f 2>/dev/null
 
 ### Red flags in SUID output (check these on GTFOBins)
 
-| Binary | Why it's dangerous |
-|---|---|
-| `/bin/bash` | Direct root shell |
-| `/bin/sh` | Direct root shell |
-| `/bin/tar` | Execute commands via checkpoint |
-| `/usr/bin/vim` / `vi` | Shell escape |
-| `/usr/bin/python` / `python3` | `os.system()` shell |
-| `/usr/bin/perl` | Shell via `-e` |
-| `/usr/bin/ruby` | Shell via `-e` |
-| `/usr/bin/find` | `-exec` shell |
-| `/usr/bin/nmap` | Interactive mode shell (older versions) |
-| `/usr/bin/awk` | Shell via `system()` |
-| `/usr/bin/less` / `more` | Shell escape via `!sh` |
-| `/usr/bin/man` | Shell escape via `!sh` |
-| `/usr/bin/cp` | Overwrite `/etc/passwd` |
-| `/usr/bin/mv` | Overwrite sensitive files |
-| `/usr/bin/wget` | Overwrite files via download |
-| `/usr/bin/curl` | Read files / overwrite |
-| `/usr/bin/pkexec` | CVE-2021-4034 (PwnKit) |
-| `/usr/bin/sudo` | Check sudo version for CVEs |
-| `/usr/bin/env` | Execute arbitrary commands |
+| Binary                        | Why it's dangerous                      |
+| ----------------------------- | --------------------------------------- |
+| `/bin/bash`                   | Direct root shell                       |
+| `/bin/sh`                     | Direct root shell                       |
+| `/bin/tar`                    | Execute commands via checkpoint         |
+| `/usr/bin/vim` / `vi`         | Shell escape                            |
+| `/usr/bin/python` / `python3` | `os.system()` shell                     |
+| `/usr/bin/perl`               | Shell via `-e`                          |
+| `/usr/bin/ruby`               | Shell via `-e`                          |
+| `/usr/bin/find`               | `-exec` shell                           |
+| `/usr/bin/nmap`               | Interactive mode shell (older versions) |
+| `/usr/bin/awk`                | Shell via `system()`                    |
+| `/usr/bin/less` / `more`      | Shell escape via `!sh`                  |
+| `/usr/bin/man`                | Shell escape via `!sh`                  |
+| `/usr/bin/cp`                 | Overwrite `/etc/passwd`                 |
+| `/usr/bin/mv`                 | Overwrite sensitive files               |
+| `/usr/bin/wget`               | Overwrite files via download            |
+| `/usr/bin/curl`               | Read files / overwrite                  |
+| `/usr/bin/pkexec`             | CVE-2021-4034 (PwnKit)                  |
+| `/usr/bin/sudo`               | Check sudo version for CVEs             |
+| `/usr/bin/env`                | Execute arbitrary commands              |
 
 **Normal/expected SUID binaries (usually safe to ignore):**
 `mount`, `umount`, `su`, `ping`, `passwd`, `chfn`, `chsh`, `gpasswd`, `newgrp`, `ssh-keysign`
