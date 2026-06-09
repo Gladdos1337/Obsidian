@@ -4,6 +4,9 @@ g0tmilk's Guide to Linux Privilege Escalation as well:
 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 ```
 
+
+https://ippsec.rocks
+
 > Classic reference guide — read it once fully. Covers manual enumeration techniques that automated tools like LinPEAS can miss.
 
 ---
