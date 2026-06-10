@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Metasploit Cheatsheet.md",
+                "file": "OSCP/1CPTS/Footprinting/10. SMPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metasploit Cheatsheet"
+              "title": "10. SMPT"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -226,6 +227,10 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/1CPTS/Footprinting/5. Staff.md",
+    "OSCP/1CPTS/Footprinting/10. SMPT.md",
+    "OSCP/1CPTS/Footprinting/Untitled",
+    "OSCP/Metasploit Cheatsheet.md",
     "OSCP/readme.md",
     "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Shells Cheatsheet.md",
@@ -233,7 +238,6 @@
     "OSCP/1CPTS/Footprinting/4. Cloud Resources.md",
     "OSCP/1CPTS/Footprinting/7. SMB.md",
     "OSCP/1CPTS/Footprinting/6. FTP.md",
-    "OSCP/1CPTS/Footprinting/5. Staff.md",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/Web Hacking/Content Discovery/1.3 OSINT.md",
@@ -249,9 +253,6 @@
     "OSCP/Web Hacking/File Inclusion/Directory or Path Traversal.md",
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
-    "OSCP/Metasploit Cheatsheet.md",
-    "OSCP/FTP Cheatsheet.md",
-    "OSCP/Enumeration Cheatsheet.md",
     "Untitled.canvas",
     "OSCP/1CPTS/Footprinting",
     "OSCP/1CPTS",
@@ -262,7 +263,6 @@
     "OSCP/Boxes/THM/(THM) Madness",
     "OSCP/Boxes/THM/(THM) Wgel CTF",
     "OSCP/Boxes/THM/(THM) tomghost",
-    "OSCP/Bruteforcing",
     "CCNA/CCNA - Pics/Pasted image 20260526221617.png",
     "CCNA/CCNA - Pics/Pasted image 20260526221614.png",
     "CCNA/CCNA - Pics/Pasted image 20260526221611.png",
