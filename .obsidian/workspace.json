@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
+                "file": "OSCP/Metasploit Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S1rens_Linux_priv_esc"
+              "title": "Metasploit Cheatsheet"
             }
           }
         ],
@@ -226,12 +226,19 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/readme.md",
+    "OSCP/Search Commands Cheatsheet.md",
+    "OSCP/Shells Cheatsheet.md",
+    "OSCP/SMB Cheatsheet.md",
+    "OSCP/1CPTS/Footprinting/4. Cloud Resources.md",
+    "OSCP/1CPTS/Footprinting/7. SMB.md",
+    "OSCP/1CPTS/Footprinting/6. FTP.md",
+    "OSCP/1CPTS/Footprinting/5. Staff.md",
+    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/Web Hacking/Content Discovery/1.3 OSINT.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/1. Intro to Cross-site Scripting.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/Blind XSS.md",
-    "OSCP/Shells Cheatsheet.md",
-    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Boxes/THM/(THM) Agent Sudo/(THM) Agent Sudo.md",
     "OSCP/Boxes/THM/(THM) Easy Peasy.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
@@ -242,17 +249,10 @@
     "OSCP/Web Hacking/File Inclusion/Directory or Path Traversal.md",
     "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
     "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
-    "OSCP/Search Commands Cheatsheet.md",
-    "OSCP/SMB Cheatsheet.md",
-    "OSCP/readme.md",
     "OSCP/Metasploit Cheatsheet.md",
     "OSCP/FTP Cheatsheet.md",
     "OSCP/Enumeration Cheatsheet.md",
     "Untitled.canvas",
-    "OSCP/Web Hacking/Content Discovery/1.1 Manual Discovery.md",
-    "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
-    "OSCP/Boxes/THM/(THM) Basic Pentesting/22 ssh.md",
-    "OSCP/Boxes/THM/(THM) EasyCTF/(THM) EasyCTF.md",
     "OSCP/1CPTS/Footprinting",
     "OSCP/1CPTS",
     "OSCP/Boxes/THM/(THM ) Plotted-TMS",
