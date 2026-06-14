@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Enumeration Cheatsheet.md",
+                "file": "OSCP/Bruteforcing/Creating passwords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration Cheatsheet"
+              "title": "Creating passwords"
             }
           }
         ],
@@ -226,6 +226,13 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
+    "OSCP/Bruteforcing/Creating passwords.md",
+    "OSCP/Bruteforcing/Hydra cheatsheet.md",
+    "OSCP/Bruteforcing/Brute force.md",
+    "OSCP/Bruteforcing.md",
+    "bruteforce",
+    "OSCP/Enumeration Cheatsheet.md",
     "OSCP/Shells Cheatsheet.md",
     "OSCP/Search Commands Cheatsheet.md",
     "OSCP/SMB Cheatsheet.md",
@@ -252,11 +259,6 @@
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
     "OSCP/Web Hacking/Command Injection/Remediating Command Injection.md",
     "OSCP/Web Hacking/Command Injection/Determing if it can occur.md",
-    "OSCP/Web Hacking/Authentication bypass/Brute force.md",
-    "OSCP/Web Hacking/Command Injection/Command Injection.md",
-    "OSCP/Web Hacking/File Inclusion/Directory or Path Traversal.md",
-    "OSCP/Web Hacking/File Inclusion/LFI (Local File Inclusion).md",
-    "OSCP/Web Hacking/File Inclusion/RFI (Remote File Inclusion).md",
     "OSCP/1CPTS/Footprinting",
     "OSCP/1CPTS",
     "OSCP/Boxes/THM/(THM ) Plotted-TMS",
@@ -265,7 +267,6 @@
     "OSCP/Boxes/THM/(THM) Archer",
     "OSCP/Boxes/THM/(THM) Madness",
     "OSCP/Boxes/THM/(THM) Wgel CTF",
-    "OSCP/Boxes/THM/(THM) tomghost",
     "CCNA/CCNA - Pics/Pasted image 20260526221617.png",
     "CCNA/CCNA - Pics/Pasted image 20260526221614.png",
     "CCNA/CCNA - Pics/Pasted image 20260526221611.png",
