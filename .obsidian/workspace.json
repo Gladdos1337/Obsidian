@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/04 - Password Attacks/4.1 Online Attacks/Online Password Attacks.md",
+                "file": "OSCP/03 - Web Application Hacking/3.10 CMS Specific/CMS Hacking Complete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Online Password Attacks"
+              "title": "CMS Hacking Complete"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,19 +226,23 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/04 - Password Attacks/Bruteforce Tools Reference.md",
+    "OSCP/01 - Information Gathering/1.2 Active Recon/Active Reconnaissance.md",
+    "OSCP/03 - Web Application Hacking/3.2 SQL Injection/SQL Injection Complete.md",
+    "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md",
+    "OSCP/01 - Information Gathering/1.3 DNS Enumeration/DNS Enumeration.md",
+    "OSCP/01 - Information Gathering/1.1 Passive Recon/Passive Reconnaissance.md",
+    "OSCP/04 - Password Attacks/4.1 Online Attacks/Online Password Attacks.md",
     "OSCP/11 - Post Exploitation/11.1 Linux/Linux Post Exploitation.md",
     "OSCP/12 - Pivoting and Port Forwarding/Pivoting Techniques.md",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md",
     "OSCP/14 - Common Ports and Services/Port Reference.md",
-    "OSCP/01 - Information Gathering/1.1 Passive Recon/Passive Reconnaissance.md",
     "OSCP/00 - Methodology and Workflow/Quick Reference Card.md",
     "OSCP/00 - Methodology and Workflow/CPTS Methodology.md",
     "OSCP/00 - Methodology and Workflow/CPTS Exam Checklist.md",
     "OSCP/03 - Web Application Hacking/3.10 CMS Specific/CMS Hacking Complete.md",
-    "OSCP/03 - Web Application Hacking/3.2 SQL Injection/SQL Injection Complete.md",
     "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md.tmp.21768.dda3c343eb3d",
-    "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md.tmp.21768.5c69d797d78f",
     "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md",
     "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md.tmp.21768.28de6ef57cb9",
@@ -252,15 +257,11 @@
     "OSCP/07 - Metasploit Framework/Metasploit Complete.md",
     "OSCP/07 - Metasploit Framework/Metasploit Complete.md.tmp.21768.c960b1365149",
     "OSCP/14 - Common Ports and Services/Port Reference.md.tmp.21768.955502695fb3",
-    "OSCP/04 - Password Attacks/4.1 Online Attacks/Online Password Attacks.md",
     "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
     "OSCP/00 - Methodology and Workflow/Quick Reference Card.md.tmp.21768.861fc646f779",
-    "OSCP/04 - Password Attacks/Bruteforce Tools Reference.md",
     "OSCP/09 - Windows Privilege Escalation/Windows PE Complete.md",
     "OSCP/00 - Methodology and Workflow/CPTS Exam Checklist.md.tmp.21768.72635b6c99c7",
     "OSCP/10 - Active Directory/10.5 Domain Dominance/AD Domain Dominance.md",
-    "OSCP/06 - Shells and Payloads/6.5 File Transfers/File Transfer Techniques.md",
-    "OSCP/10 - Active Directory/10.4 Privilege Escalation/AD ACL Abuse.md",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
     "CCNA/CCNA - Pics/Pasted image 20260610220814.png",
