@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
+                "file": "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authentication Bypass Complete"
+              "title": "S1rens_Linux_priv_esc"
             }
           }
         ],
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,6 +226,10 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
+    "OSCP/11 - Post Exploitation/11.1 Linux/Linux Post Exploitation.md",
+    "OSCP/Shells Cheatsheet.md",
+    "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
     "OSCP/03 - Web Application Hacking/3.3 XSS/XSS Complete.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
     "OSCP/_cpts/Footprinting/15. Oracle TNS.md",
@@ -239,7 +242,6 @@
     "OSCP/01 - Information Gathering/1.3 DNS Enumeration/DNS Enumeration.md",
     "OSCP/01 - Information Gathering/1.1 Passive Recon/Passive Reconnaissance.md",
     "OSCP/04 - Password Attacks/4.1 Online Attacks/Online Password Attacks.md",
-    "OSCP/11 - Post Exploitation/11.1 Linux/Linux Post Exploitation.md",
     "OSCP/12 - Pivoting and Port Forwarding/Pivoting Techniques.md",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md",
     "OSCP/14 - Common Ports and Services/Port Reference.md",
@@ -256,9 +258,6 @@
     "OSCP/04 - Password Attacks/4.4 Kerberos Attacks/Kerberos Attacks.md",
     "OSCP/04 - Password Attacks/4.4 Kerberos Attacks/Kerberos Attacks.md.tmp.21768.17906cd58bf2",
     "OSCP/04 - Password Attacks/4.3 Hash Cracking/Hash Cracking Reference.md",
-    "OSCP/03 - Web Application Hacking/3.9 API Testing/API Testing Complete.md",
-    "OSCP/04 - Password Attacks/4.2 Offline Attacks/Offline Password Attacks.md",
-    "OSCP/11 - Post Exploitation/11.2 Windows/Windows Post Exploitation.md",
     "OSCP/07 - Metasploit Framework/Metasploit Complete.md.tmp.21768.c960b1365149",
     "OSCP/14 - Common Ports and Services/Port Reference.md.tmp.21768.955502695fb3",
     "OSCP/00 - Methodology and Workflow/Quick Reference Card.md.tmp.21768.861fc646f779",
