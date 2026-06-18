@@ -43,3 +43,10 @@ During internal penetration tests, we often find BMCs where the administrators h
 |HP iLO|Administrator|randomized 8-character string consisting of numbers and uppercase letters|
 |Supermicro IPMI|ADMIN|ADMIN|
 It is also essential to try out known default passwords for ANY services that we discover, as these are often left unchanged and can lead to quick wins. When dealing with BMCs, these default passwords may gain us access to the web console or even command line access via SSH or Telnet.
+
+
+To retrieve IPMI hashes, we can use the Metasploit [IPMI 2.0 RAKP Remote SHA1 Password Hash Retrieval](https://www.rapid7.com/db/modules/auxiliary/scanner/ipmi/ipmi_dumphashes/) module.
+
+#### Metasploit Dumping Hashes
+
+`msf6 > use auxiliary/scanner/ipmi/ipmi_dumphashes  msf6 auxiliary(scanner/ipmi/ipmi_dumphashes) > set rhosts 10.129.42.195 msf6 auxiliary(scanner/ipmi/ipmi_dumphashes) > show options`
