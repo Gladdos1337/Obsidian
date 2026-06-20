@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/_cpts/Footprinting/18. windows remote man prot.md",
+                "file": "OSCP/Web Hacking/Content Discovery/1.2 Automated Discovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. windows remote man prot"
+              "title": "1.2 Automated Discovery"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resync",
+                "query": "dns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,8 +227,8 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/_cpts/Footprinting/17. Linux Remote managment protocol.md",
     "OSCP/_cpts/Footprinting/18. windows remote man prot.md",
+    "OSCP/_cpts/Footprinting/17. Linux Remote managment protocol.md",
     "OSCP/_cpts/Footprinting/16. IPMI.md",
     "OSCP/04 - Password Attacks/Bruteforce Tools Reference.md",
     "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
