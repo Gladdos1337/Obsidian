@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hashcat",
+                "query": "resync",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,11 +103,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "c9a119cf70dd8da2",
