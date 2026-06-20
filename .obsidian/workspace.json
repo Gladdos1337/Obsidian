@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/_cpts/Footprinting/IPMI.md",
+                "file": "OSCP/_cpts/Footprinting/17. Linux Remote managment protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPMI"
+              "title": "17. Linux Remote managment protocol"
             }
           }
         ],
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -227,8 +226,9 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/_cpts/Footprinting/16. IPMI.md",
+    "OSCP/_cpts/Footprinting/17. Linux Remote managment protocol.md",
     "OSCP/04 - Password Attacks/Bruteforce Tools Reference.md",
-    "OSCP/_cpts/Footprinting/IPMI.md",
     "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
     "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
@@ -254,7 +254,6 @@
     "OSCP/00 - Methodology and Workflow/CPTS Exam Checklist.md",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md.tmp.21768.dda3c343eb3d",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md.tmp.21768.5c69d797d78f",
-    "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md",
     "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md.tmp.21768.28de6ef57cb9",
     "OSCP/12 - Pivoting and Port Forwarding/Pivoting Techniques.md.tmp.21768.30a0f86a2ee8",
     "OSCP/03 - Web Application Hacking/3.10 CMS Specific/CMS Hacking Complete.md.tmp.21768.ff4e763dfc05",
