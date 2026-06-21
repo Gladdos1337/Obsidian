@@ -54,3 +54,10 @@ DB_HOST=127.0.0.1
 DB_DATABASE=htb_prod
 DB_USERNAME=admin
 DB_PASSWORD=SuperDuperPass123
+
+
+| 11 | TRX  | trx@hackthebox.eu  | 
+$2y$10$TG6oZ3ow5UZhLlw7MDME5um7j/7Cw1o6BhY8RhHMnrr2ObU3loEMq |        1 |
+| 12 | TheCyberGeek | thecybergeek@hackthebox.eu | 
+$2y$10$wATidKUukcOeJRaBpYtOyekSpwkKghaNYr5pjsomZUKAd0wbzw4QK |        1 |
+| 13 | test         | test@test.com              | $2y$10$27ehExxiqlpibVz5.vu.JuFGkjfNhzx4eQa0yuki3BLLqMp/mL4eW |        1 |
