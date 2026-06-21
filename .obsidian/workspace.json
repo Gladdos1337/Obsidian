@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e47f27a6dd45b0b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/Boxes/THM/THM (Mr. Robot)/1enum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1enum"
-            }
-          },
-          {
-            "id": "9cf4c49909a98eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/Boxes/THM/(THM) Kenobi/1enum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1enum"
-            }
-          },
-          {
             "id": "5d6e80448169f007",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web Hacking/Content Discovery/1.2 Automated Discovery.md",
+                "file": "p.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Automated Discovery"
+              "title": "p"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dns",
+                "query": "gobuster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,11 +197,15 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/_cpts/Footprinting/18. windows remote man prot.md",
+    "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
+    "p.md",
+    "OSCP/Search Commands Cheatsheet.md",
     "OSCP/_cpts/Footprinting/17. Linux Remote managment protocol.md",
+    "OSCP/Boxes/THM/(THM) Agent Sudo/(THM) Agent Sudo.md",
+    "OSCP/Web Hacking/Content Discovery/1.2 Automated Discovery.md",
+    "OSCP/_cpts/Footprinting/18. windows remote man prot.md",
     "OSCP/_cpts/Footprinting/16. IPMI.md",
     "OSCP/04 - Password Attacks/Bruteforce Tools Reference.md",
-    "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
     "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
@@ -249,10 +223,6 @@
     "OSCP/01 - Information Gathering/1.1 Passive Recon/Passive Reconnaissance.md",
     "OSCP/04 - Password Attacks/4.1 Online Attacks/Online Password Attacks.md",
     "OSCP/12 - Pivoting and Port Forwarding/Pivoting Techniques.md",
-    "OSCP/13 - Report Writing/Penetration Test Report Template.md",
-    "OSCP/14 - Common Ports and Services/Port Reference.md",
-    "OSCP/00 - Methodology and Workflow/Quick Reference Card.md",
-    "OSCP/00 - Methodology and Workflow/CPTS Methodology.md",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md.tmp.21768.dda3c343eb3d",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md.tmp.21768.5c69d797d78f",
     "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md.tmp.21768.28de6ef57cb9",
