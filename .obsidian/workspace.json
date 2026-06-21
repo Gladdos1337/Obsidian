@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/(HTB) Two Million.md",
+                "file": "OSCP/03 - Web Application Hacking/3.1 Recon and Discovery/Forexbuster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(HTB) Two Million"
+              "title": "Forexbuster"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Feroxbuster",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,10 +194,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae85ff2f5eb21a2b",
+  "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
+    "OSCP/01 - Information Gathering/1.2 Active Recon/Active Reconnaissance.md",
+    "OSCP/03 - Web Application Hacking/3.1 Recon and Discovery/Forexbuster.md",
     "OSCP/Boxes/(HTB) Two Million.md",
+    "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
     "OSCP/Boxes/THM/(THM) Agent Sudo/(THM) Agent Sudo.md",
     "p.md",
     "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
@@ -217,13 +217,11 @@
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
     "OSCP/_cpts/Footprinting/15. Oracle TNS.md",
     "OSCP/_cpts/Footprinting/10. SMPT.md",
-    "OSCP/01 - Information Gathering/1.2 Active Recon/Active Reconnaissance.md",
     "OSCP/03 - Web Application Hacking/3.10 CMS Specific/CMS Hacking Complete.md",
     "OSCP/03 - Web Application Hacking/3.2 SQL Injection/SQL Injection Complete.md",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md",
     "OSCP/01 - Information Gathering/1.3 DNS Enumeration/DNS Enumeration.md",
     "OSCP/01 - Information Gathering/1.1 Passive Recon/Passive Reconnaissance.md",
-    "OSCP/04 - Password Attacks/4.1 Online Attacks/Online Password Attacks.md",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md.tmp.21768.dda3c343eb3d",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md.tmp.21768.5c69d797d78f",
     "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md.tmp.21768.28de6ef57cb9",

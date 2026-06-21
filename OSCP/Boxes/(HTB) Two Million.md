@@ -7,3 +7,6 @@
 test@test.com
 
 lv4jargndd7io28fpcnk4pkq6g
+
+
+feroxbuster -u http://2million.htb/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/raft-medium-directories.txt 
