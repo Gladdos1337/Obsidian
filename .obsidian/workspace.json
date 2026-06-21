@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -198,10 +197,10 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/Shells Cheatsheet.md",
     "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Boxes/(HTB) Two Million.md",
+    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/03 - Web Application Hacking/3.1 Recon and Discovery/Forexbuster.md",
     "OSCP/01 - Information Gathering/1.2 Active Recon/Active Reconnaissance.md",
     "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",

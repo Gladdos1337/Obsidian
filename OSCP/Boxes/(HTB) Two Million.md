@@ -83,3 +83,7 @@ https://www.exploit-db.com/exploits/50808
 ══╣ Potential local forwarders/relays (T1049)
 admin      37393  0.0  0.0   6692  1112 pts/1    S+   18:35   0:00 sed -E s,socat|ssh|-L|-R|-D|ncat|nc,?[1;31;103m&?[0m,g
 
+
+5.15.70-051570-generic
+CVE-2023-0386
+
