@@ -61,3 +61,25 @@ $2y$10$TG6oZ3ow5UZhLlw7MDME5um7j/7Cw1o6BhY8RhHMnrr2ObU3loEMq |        1 |
 | 12 | TheCyberGeek | thecybergeek@hackthebox.eu | 
 $2y$10$wATidKUukcOeJRaBpYtOyekSpwkKghaNYr5pjsomZUKAd0wbzw4QK |        1 |
 | 13 | test         | test@test.com              | $2y$10$27ehExxiqlpibVz5.vu.JuFGkjfNhzx4eQa0yuki3BLLqMp/mL4eW |        1 |
+
+
+
+
+privEsc:
+
+1.
+
+/run/dbus/system_bus_socket                                                                                         
+  └─(Read Write (Weak Permissions: 666) )
+  └─(Owned by root)
+  └─High risk: root-owned and writable Unix socket
+
+2.
+
+https://www.exploit-db.com/exploits/50808
+
+3.
+
+══╣ Potential local forwarders/relays (T1049)
+admin      37393  0.0  0.0   6692  1112 pts/1    S+   18:35   0:00 sed -E s,socat|ssh|-L|-R|-D|ncat|nc,?[1;31;103m&?[0m,g
+
