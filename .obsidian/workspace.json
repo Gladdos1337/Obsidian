@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Search Commands Cheatsheet.md",
+                "file": "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search Commands Cheatsheet"
+              "title": "S1rens_Linux_priv_esc"
             }
           }
         ]
@@ -197,11 +197,11 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/_cpts/Footprinting/99.. hard lab footprinting.md",
+    "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Boxes/(HTB) Two Million.md",
     "OSCP/Shells Cheatsheet.md",
-    "OSCP/Search Commands Cheatsheet.md",
-    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/03 - Web Application Hacking/3.1 Recon and Discovery/Forexbuster.md",
     "OSCP/01 - Information Gathering/1.2 Active Recon/Active Reconnaissance.md",
     "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
