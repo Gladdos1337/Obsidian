@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/_cpts/Footprinting/99.. hard lab footprinting.md",
+                "file": "OSCP/Search Commands Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "99.. hard lab footprinting"
+              "title": "Search Commands Cheatsheet"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -198,8 +197,8 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Boxes/(HTB) Two Million.md",
     "OSCP/_cpts/Footprinting/99.. hard lab footprinting.md",
+    "OSCP/Boxes/(HTB) Two Million.md",
     "OSCP/Shells Cheatsheet.md",
     "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
