@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
+                "file": "OSCP/Search Commands Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S1rens_Linux_priv_esc"
+              "title": "Search Commands Cheatsheet"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "backup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,11 +197,13 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/Shells Cheatsheet.md",
+    "OSCP/SMB Cheatsheet.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/_cpts/Footprinting/99.. hard lab footprinting.md",
+    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Boxes/(HTB) Two Million.md",
-    "OSCP/Shells Cheatsheet.md",
     "OSCP/03 - Web Application Hacking/3.1 Recon and Discovery/Forexbuster.md",
     "OSCP/01 - Information Gathering/1.2 Active Recon/Active Reconnaissance.md",
     "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
@@ -213,7 +215,6 @@
     "OSCP/_cpts/Footprinting/18. windows remote man prot.md",
     "OSCP/_cpts/Footprinting/16. IPMI.md",
     "OSCP/04 - Password Attacks/Bruteforce Tools Reference.md",
-    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/11 - Post Exploitation/11.1 Linux/Linux Post Exploitation.md",
     "OSCP/03 - Web Application Hacking/3.3 XSS/XSS Complete.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
@@ -222,7 +223,6 @@
     "OSCP/03 - Web Application Hacking/3.10 CMS Specific/CMS Hacking Complete.md",
     "OSCP/03 - Web Application Hacking/3.2 SQL Injection/SQL Injection Complete.md",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md",
-    "OSCP/01 - Information Gathering/1.3 DNS Enumeration/DNS Enumeration.md",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md.tmp.21768.dda3c343eb3d",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md.tmp.21768.5c69d797d78f",
     "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md.tmp.21768.28de6ef57cb9",
