@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/(HTB) Two Million.md",
+                "file": "OSCP/_cpts/Footprinting/99.. hard lab footprinting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(HTB) Two Million"
+              "title": "99.. hard lab footprinting"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -197,9 +198,10 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/Boxes/(HTB) Two Million.md",
+    "OSCP/_cpts/Footprinting/99.. hard lab footprinting.md",
     "OSCP/Shells Cheatsheet.md",
     "OSCP/Search Commands Cheatsheet.md",
-    "OSCP/Boxes/(HTB) Two Million.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/03 - Web Application Hacking/3.1 Recon and Discovery/Forexbuster.md",
     "OSCP/01 - Information Gathering/1.2 Active Recon/Active Reconnaissance.md",
@@ -222,7 +224,6 @@
     "OSCP/03 - Web Application Hacking/3.2 SQL Injection/SQL Injection Complete.md",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md",
     "OSCP/01 - Information Gathering/1.3 DNS Enumeration/DNS Enumeration.md",
-    "OSCP/01 - Information Gathering/1.1 Passive Recon/Passive Reconnaissance.md",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md.tmp.21768.dda3c343eb3d",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md.tmp.21768.5c69d797d78f",
     "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md.tmp.21768.28de6ef57cb9",
