@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/(HTB) Two Million.md",
+                "file": "OSCP/_cpts/Information gathering - web edition/info gathering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(HTB) Two Million"
+              "title": "info gathering"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -197,6 +198,9 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/Boxes/(HTB) Two Million.md",
+    "OSCP/_cpts/Information gathering - web edition/info gathering.md",
+    "OSCP/_cpts/Information gathering - web edition",
     "OSCP/_cpts/Footprinting/99.. hard lab footprinting.md",
     "OSCP/00 - Methodology and Workflow/CPTS Methodology.md",
     "OSCP/03 - Web Application Hacking/3.10 CMS Specific/CMS Hacking Complete.md",
@@ -206,7 +210,6 @@
     "OSCP/SMB Cheatsheet.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
-    "OSCP/Boxes/(HTB) Two Million.md",
     "OSCP/03 - Web Application Hacking/3.1 Recon and Discovery/Forexbuster.md",
     "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
     "OSCP/Boxes/THM/(THM) Agent Sudo/(THM) Agent Sudo.md",
@@ -221,8 +224,6 @@
     "OSCP/03 - Web Application Hacking/3.3 XSS/XSS Complete.md",
     "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
     "OSCP/_cpts/Footprinting/15. Oracle TNS.md",
-    "OSCP/_cpts/Footprinting/10. SMPT.md",
-    "OSCP/03 - Web Application Hacking/3.2 SQL Injection/SQL Injection Complete.md",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md.tmp.21768.dda3c343eb3d",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md.tmp.21768.5c69d797d78f",
     "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md.tmp.21768.28de6ef57cb9",
@@ -232,7 +233,6 @@
     "OSCP/07 - Metasploit Framework/Metasploit Complete.md.tmp.21768.c960b1365149",
     "OSCP/14 - Common Ports and Services/Port Reference.md.tmp.21768.955502695fb3",
     "OSCP/00 - Methodology and Workflow/Quick Reference Card.md.tmp.21768.861fc646f779",
-    "OSCP/00 - Methodology and Workflow/CPTS Exam Checklist.md.tmp.21768.72635b6c99c7",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
     "CCNA/CCNA - Pics/Pasted image 20260610220814.png",
