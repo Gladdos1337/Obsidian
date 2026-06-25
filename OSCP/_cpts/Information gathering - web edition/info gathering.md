@@ -46,7 +46,7 @@ Active:
 
 Commands:
 
-nsenum --enum inlanefreight.com -f /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-20000.txt  -r
+dnsenum --enum inlanefreight.com -f /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-20000.txt  -r
 
 dnsenum --enum inlanefreight.com -f  /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-20000.txt 
 
@@ -189,13 +189,13 @@ waybackmachine
 
 [FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
 
-```
-oib3u@htb[/htb]$ git clone https://github.com/thewhiteh4t/FinalRecon.git
-oib3u@htb[/htb]$ cd FinalRecon
-oib3u@htb[/htb]$ pip3 install -r requirements.txt
-oib3u@htb[/htb]$ chmod +x ./finalrecon.py
-oib3u@htb[/htb]$ ./finalrecon.py --help
-```
+
+git clone https://github.com/thewhiteh4t/FinalRecon.git
+cd FinalRecon
+pip3 install -r requirements.txt
+chmod +x ./finalrecon.py
+./finalrecon.py --help
+
 
 ```
 oib3u@htb[/htb]$ ./finalrecon.py --headers --whois --url http://inlanefreight.com
