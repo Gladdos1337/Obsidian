@@ -3,7 +3,7 @@
 ## Quick Win Checklist
 
 - [ ] `sudo -l` — check sudo permissions ([[GTFOBins]])
-- [ ] `find / -perm -4000 -type f 2>/dev/null` — SUID binaries ([[GTFOBins]])
+- [x] `find / -perm -4000 -type f 2>/dev/null` — SUID binaries ([[GTFOBins]])
 - [ ] `getcap -r / 2>/dev/null` — capabilities
 - [ ] `cat /etc/crontab` — cron jobs
 - [ ] `find / -writable -type d 2>/dev/null` — writable dirs

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/_cpts/Footprinting/7. SMB.md",
+                "file": "OSCP/08 - Linux Privilege Escalation/Linux PE Complete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. SMB"
+              "title": "Linux PE Complete"
             }
           }
         ]
@@ -197,8 +197,16 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Boxes/(HTB) Legacy (Panda).md",
+    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
+    "OSCP/Shells Cheatsheet.md",
+    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
+    "OSCP/08 - Linux Privilege Escalation/Linux PE Complete.md",
+    "OSCP/12 - Pivoting and Port Forwarding/Pivoting Techniques.md",
+    "p.md",
+    "OSCP/SMB Cheatsheet.md",
     "OSCP/_cpts/Information gathering - web edition/info gathering.md",
+    "OSCP/Boxes/(HTB) Legacy (Panda).md",
+    "OSCP/_cpts/Footprinting/7. SMB.md",
     "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Boxes/(HTB) Two Million.md",
     "OSCP/_cpts/Information gathering - web edition",
@@ -206,14 +214,9 @@
     "OSCP/00 - Methodology and Workflow/CPTS Methodology.md",
     "OSCP/03 - Web Application Hacking/3.10 CMS Specific/CMS Hacking Complete.md",
     "OSCP/01 - Information Gathering/1.2 Active Recon/Active Reconnaissance.md",
-    "OSCP/Shells Cheatsheet.md",
-    "OSCP/SMB Cheatsheet.md",
-    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
-    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/03 - Web Application Hacking/3.1 Recon and Discovery/Forexbuster.md",
     "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
     "OSCP/Boxes/THM/(THM) Agent Sudo/(THM) Agent Sudo.md",
-    "p.md",
     "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
     "OSCP/_cpts/Footprinting/17. Linux Remote managment protocol.md",
     "OSCP/Web Hacking/Content Discovery/1.2 Automated Discovery.md",
@@ -221,9 +224,6 @@
     "OSCP/_cpts/Footprinting/16. IPMI.md",
     "OSCP/04 - Password Attacks/Bruteforce Tools Reference.md",
     "OSCP/11 - Post Exploitation/11.1 Linux/Linux Post Exploitation.md",
-    "OSCP/03 - Web Application Hacking/3.3 XSS/XSS Complete.md",
-    "OSCP/Web Hacking/Cross-site Scripting (XSS)/DOM Based XSS.md",
-    "OSCP/_cpts/Footprinting/15. Oracle TNS.md",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md.tmp.21768.dda3c343eb3d",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md.tmp.21768.5c69d797d78f",
     "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md.tmp.21768.28de6ef57cb9",
