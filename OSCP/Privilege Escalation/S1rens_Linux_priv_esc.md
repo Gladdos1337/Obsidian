@@ -128,7 +128,11 @@ ls -lsaht
 
 ```
 SUID Binaries?
-find / -perm -u=s -type f 2>/dev/null
+```
+```
+find / -perm -u=s -type f 2>/dev/null`
+```
+```
 
 GUID Binaries?
 find / -perm -g=s -type f 2>/dev/null
