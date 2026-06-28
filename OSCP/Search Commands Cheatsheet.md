@@ -21,26 +21,11 @@ find / -type f -user root -mtime -30 2>/dev/null
 
 ---
 
-## Finding Files by Permission
+## Finding Specific thing
 
 ```bash
-this first:
-find / -perm -4000 2>/dev/null | xargs ls -la
-
-# SUID binaries (run as owner, often root)
-find / -perm -4000 2>/dev/null
-
-# SGID binaries
-find / -perm -2000 2>/dev/null
-
-# Both SUID and SGID
-find / -perm -6000 2>/dev/null
-
-# World-writable files
-find / -perm -o+w -type f 2>/dev/null
-
-# World-writable directories
-find / -writable -type d 2>/dev/null
+# Find file in a specific folder | display line that have "api" in it 
+find /opt/SecLists/ | grep -i api
 ```
 
 ---
