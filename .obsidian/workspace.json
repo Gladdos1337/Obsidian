@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Search Commands Cheatsheet.md",
+                "file": "OSCP/Boxes/HTB/(HTB) Devvortex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search Commands Cheatsheet"
+              "title": "(HTB) Devvortex"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mysql",
+                "query": "cronjob",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,18 +197,21 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/Boxes/THM/(THM) Easy Peasy.md",
+    "OSCP/Boxes/HTB/(HTB) Devvortex.md",
+    "OSCP/Boxes/HTB",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
-    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
+    "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Shells Cheatsheet.md",
+    "OSCP/SMB Cheatsheet.md",
+    "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/08 - Linux Privilege Escalation/Linux PE Complete.md",
     "OSCP/12 - Pivoting and Port Forwarding/Pivoting Techniques.md",
     "p.md",
-    "OSCP/SMB Cheatsheet.md",
     "OSCP/_cpts/Information gathering - web edition/info gathering.md",
-    "OSCP/Boxes/(HTB) Legacy (Panda).md",
+    "OSCP/Boxes/HTB/(HTB) Legacy (Panda).md",
     "OSCP/_cpts/Footprinting/7. SMB.md",
-    "OSCP/Search Commands Cheatsheet.md",
-    "OSCP/Boxes/(HTB) Two Million.md",
+    "OSCP/Boxes/HTB/(HTB) Two Million.md",
     "OSCP/_cpts/Information gathering - web edition",
     "OSCP/_cpts/Footprinting/99.. hard lab footprinting.md",
     "OSCP/00 - Methodology and Workflow/CPTS Methodology.md",
@@ -222,8 +225,6 @@
     "OSCP/Web Hacking/Content Discovery/1.2 Automated Discovery.md",
     "OSCP/_cpts/Footprinting/18. windows remote man prot.md",
     "OSCP/_cpts/Footprinting/16. IPMI.md",
-    "OSCP/04 - Password Attacks/Bruteforce Tools Reference.md",
-    "OSCP/11 - Post Exploitation/11.1 Linux/Linux Post Exploitation.md",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md.tmp.21768.dda3c343eb3d",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md.tmp.21768.5c69d797d78f",
     "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md.tmp.21768.28de6ef57cb9",
@@ -232,7 +233,6 @@
     "OSCP/04 - Password Attacks/4.4 Kerberos Attacks/Kerberos Attacks.md.tmp.21768.17906cd58bf2",
     "OSCP/07 - Metasploit Framework/Metasploit Complete.md.tmp.21768.c960b1365149",
     "OSCP/14 - Common Ports and Services/Port Reference.md.tmp.21768.955502695fb3",
-    "OSCP/00 - Methodology and Workflow/Quick Reference Card.md.tmp.21768.861fc646f779",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
     "CCNA/CCNA - Pics/Pasted image 20260610220814.png",
