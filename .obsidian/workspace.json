@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
+                "file": "OSCP/_cpts/File Transfers/2 .  Windows File Transfer Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authentication Bypass Complete"
+              "title": "2 .  Windows File Transfer Methods"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,6 +197,9 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
+    "OSCP/_cpts/File Transfers/2 .  Windows File Transfer Methods.md",
+    "OSCP/_cpts/File Transfers",
     "OSCP/Boxes/HTB/(HTB) Devvortex.md",
     "OSCP/Boxes/THM/(THM) Easy Peasy.md",
     "OSCP/Boxes/HTB",
@@ -219,13 +221,11 @@
     "OSCP/03 - Web Application Hacking/3.10 CMS Specific/CMS Hacking Complete.md",
     "OSCP/01 - Information Gathering/1.2 Active Recon/Active Reconnaissance.md",
     "OSCP/03 - Web Application Hacking/3.1 Recon and Discovery/Forexbuster.md",
-    "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
     "OSCP/Boxes/THM/(THM) Agent Sudo/(THM) Agent Sudo.md",
     "OSCP/Bruteforcing/Bruteforcing Cheatsheet.md",
     "OSCP/_cpts/Footprinting/17. Linux Remote managment protocol.md",
     "OSCP/Web Hacking/Content Discovery/1.2 Automated Discovery.md",
     "OSCP/_cpts/Footprinting/18. windows remote man prot.md",
-    "OSCP/_cpts/Footprinting/16. IPMI.md",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md.tmp.21768.dda3c343eb3d",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md.tmp.21768.5c69d797d78f",
     "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md.tmp.21768.28de6ef57cb9",
@@ -233,7 +233,6 @@
     "OSCP/03 - Web Application Hacking/3.10 CMS Specific/CMS Hacking Complete.md.tmp.21768.ff4e763dfc05",
     "OSCP/04 - Password Attacks/4.4 Kerberos Attacks/Kerberos Attacks.md.tmp.21768.17906cd58bf2",
     "OSCP/07 - Metasploit Framework/Metasploit Complete.md.tmp.21768.c960b1365149",
-    "OSCP/14 - Common Ports and Services/Port Reference.md.tmp.21768.955502695fb3",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
     "CCNA/CCNA - Pics/Pasted image 20260610220814.png",
