@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/_cpts/File Transfers/3. linux transfer methods.md",
+                "file": "OSCP/Search Commands Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. linux transfer methods"
+              "title": "Search Commands Cheatsheet"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/_cpts/File Transfers/2 .  Windows File Transfer Methods.md",
+    "OSCP/Shells Cheatsheet.md",
     "OSCP/_cpts/File Transfers/3. linux transfer methods.md",
+    "OSCP/_cpts/File Transfers/2 .  Windows File Transfer Methods.md",
     "OSCP/03 - Web Application Hacking/3.8 Authentication Bypass/Authentication Bypass Complete.md",
     "OSCP/_cpts/File Transfers",
     "OSCP/Boxes/HTB/(HTB) Devvortex.md",
@@ -206,7 +207,6 @@
     "OSCP/Boxes/HTB",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Search Commands Cheatsheet.md",
-    "OSCP/Shells Cheatsheet.md",
     "OSCP/SMB Cheatsheet.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "OSCP/08 - Linux Privilege Escalation/Linux PE Complete.md",

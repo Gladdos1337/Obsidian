@@ -26,6 +26,12 @@ find / -type f -user root -mtime -30 2>/dev/null
 ```bash
 # Find file in a specific folder | display line that have "api" in it 
 find /opt/SecLists/ | grep -i api
+
+#Find how much characters there is in the string:
+echo -n ASDASFKAPGFKEPOKEPO3412fQWFKQOW | wc -c
+
+
+
 ```
 
 ---
