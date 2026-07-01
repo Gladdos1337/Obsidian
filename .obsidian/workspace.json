@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/_cpts/File Transfers/5. Catching Files over HTTP, HTTPS.md",
+                "file": "OSCP/_cpts/File Transfers/6. Living off land.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Catching Files over HTTP, HTTPS"
+              "title": "6. Living off land"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -198,8 +197,9 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/_cpts/File Transfers/4. Protected file transfer.md",
     "OSCP/_cpts/File Transfers/5. Catching Files over HTTP, HTTPS.md",
+    "OSCP/_cpts/File Transfers/6. Living off land.md",
+    "OSCP/_cpts/File Transfers/4. Protected file transfer.md",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Privilege Escalation/Linux PrivEsc Cheatsheet.md",
     "p.md",
@@ -225,7 +225,6 @@
     "OSCP/_cpts/Information gathering - web edition/info gathering.md",
     "OSCP/Boxes/HTB/(HTB) Legacy (Panda).md",
     "OSCP/_cpts/Footprinting/7. SMB.md",
-    "OSCP/Boxes/HTB/(HTB) Two Million.md",
     "OSCP/_cpts/Information gathering - web edition",
     "OSCP/13 - Report Writing/Penetration Test Report Template.md.tmp.21768.dda3c343eb3d",
     "OSCP/05 - Network Attacks/5.2 Firewall Evasion/Firewall IDS Evasion.md.tmp.21768.5c69d797d78f",
