@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/_cpts/AD/AD Fundamentals/Introduction.md",
+                "file": "OSCP/_cpts/AD/AD Fundamentals/1. Terminology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "1. Terminology"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Boxes/HTB/(HTB) Bank.md",
     "OSCP/_cpts/AD/AD Fundamentals/Introduction.md",
+    "OSCP/_cpts/AD/AD Fundamentals/1. Terminology.md",
+    "OSCP/Boxes/HTB/(HTB) Bank.md",
     "OSCP/_cpts/AD/AD Fundamentals",
     "OSCP/_cpts/AD",
     "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
@@ -224,7 +225,6 @@
     "OSCP/Metasploit Cheatsheet.md",
     "OSCP/11 - Post Exploitation/11.1 Linux/Linux Post Exploitation.md",
     "OSCP/_cpts/File Transfers/2 .  Windows File Transfer Methods.md",
-    "OSCP/_cpts/File Transfers/3. linux transfer methods.md",
     "OSCP/_cpts/File Transfers",
     "OSCP/Boxes/HTB",
     "OSCP/_cpts/Information gathering - web edition",
