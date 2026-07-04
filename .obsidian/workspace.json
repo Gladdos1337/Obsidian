@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Boxes/HTB/(HTB) Bank.md",
+                "file": "OSCP/_cpts/AD/AD Fundamentals/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(HTB) Bank"
+              "title": "Introduction"
             }
           }
         ]
@@ -197,8 +197,11 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Boxes/HTB/(HTB) Bank.md",
+    "OSCP/_cpts/AD/AD Fundamentals/Introduction.md",
+    "OSCP/_cpts/AD/AD Fundamentals",
+    "OSCP/_cpts/AD",
+    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "OSCP/Search Commands Cheatsheet.md",
     "OSCP/Shells Cheatsheet.md",
     "OSCP/Boxes/THM/(THM ) Plotted-TMS/1enum.md",
@@ -222,7 +225,6 @@
     "OSCP/11 - Post Exploitation/11.1 Linux/Linux Post Exploitation.md",
     "OSCP/_cpts/File Transfers/2 .  Windows File Transfer Methods.md",
     "OSCP/_cpts/File Transfers/3. linux transfer methods.md",
-    "OSCP/Web Hacking/Content Discovery/1.2 Automated Discovery.md",
     "OSCP/_cpts/File Transfers",
     "OSCP/Boxes/HTB",
     "OSCP/_cpts/Information gathering - web edition",
@@ -231,8 +233,6 @@
     "OSCP/05 - Network Attacks/5.1 Sniffing and Spoofing/Network Attacks.md.tmp.21768.28de6ef57cb9",
     "OSCP/12 - Pivoting and Port Forwarding/Pivoting Techniques.md.tmp.21768.30a0f86a2ee8",
     "OSCP/03 - Web Application Hacking/3.10 CMS Specific/CMS Hacking Complete.md.tmp.21768.ff4e763dfc05",
-    "OSCP/04 - Password Attacks/4.4 Kerberos Attacks/Kerberos Attacks.md.tmp.21768.17906cd58bf2",
-    "OSCP/07 - Metasploit Framework/Metasploit Complete.md.tmp.21768.c960b1365149",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
     "CCNA/CCNA - Pics/Pasted image 20260610220814.png",
