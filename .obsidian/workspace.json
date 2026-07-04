@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/_cpts/AD/AD Fundamentals/1. Terminology.md",
+                "file": "OSCP/_cpts/AD/AD Fundamentals/AD Objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Terminology"
+              "title": "AD Objects"
             }
           }
         ]
@@ -197,9 +197,10 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "OSCP/_cpts/AD/AD Fundamentals/1. Terminology.md",
+    "OSCP/_cpts/AD/AD Fundamentals/AD Objects.md",
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "OSCP/_cpts/AD/AD Fundamentals/Introduction.md",
-    "OSCP/_cpts/AD/AD Fundamentals/1. Terminology.md",
     "OSCP/Boxes/HTB/(HTB) Bank.md",
     "OSCP/_cpts/AD/AD Fundamentals",
     "OSCP/_cpts/AD",
@@ -242,7 +243,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260526221614.png",
     "CCNA/CCNA - Pics/Pasted image 20260526221611.png",
     "CCNA/CCNA - Pics/Pasted image 20260526221606.png",
-    "CCNA/CCNA - Pics/Pasted image 20260526221602.png",
-    "CCNA/CCNA - Pics/Pasted image 20260526221437.png"
+    "CCNA/CCNA - Pics/Pasted image 20260526221602.png"
   ]
 }
