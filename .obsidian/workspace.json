@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/_cpts/AD/AD Fundamentals/AD Objects.md",
+                "file": "OSCP/_cpts/Footprinting/6. FTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD Objects"
+              "title": "6. FTP"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
-    "OSCP/_cpts/AD/AD Fundamentals/1. Terminology.md",
     "OSCP/_cpts/AD/AD Fundamentals/AD Objects.md",
+    "OSCP/_cpts/AD/AD Fundamentals/1. Terminology.md",
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "OSCP/_cpts/AD/AD Fundamentals/Introduction.md",
     "OSCP/Boxes/HTB/(HTB) Bank.md",
