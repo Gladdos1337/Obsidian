@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/25,465,587 SMTP/Cheatsheet.md",
+                "file": "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Service-Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheatsheet"
+              "title": "Service-Commands"
             }
           }
         ]
@@ -197,9 +197,13 @@
   },
   "active": "5d6e80448169f007",
   "lastOpenFiles": [
+    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Possible Attacks.md",
+    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Dangerous Settings.md",
+    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
+    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Service-Commands.md",
+    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/25,465,587 SMTP/Cheatsheet.md",
     "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/25,465,587 SMTP/Dangerous Settings.md",
     "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/25,465,587 SMTP/Service-Commands.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/25,465,587 SMTP/Cheatsheet.md",
     "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Cheatsheet.md",
     "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/1. Host Discovery.md",
     "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/WMIexec.md",
@@ -229,11 +233,7 @@
     "CPTS_THEORY/Footprinting/6. FTP.md",
     "p.md",
     "CPTS_THEORY/AD/AD Fundamentals/AD Objects.md",
-    "CPTS_THEORY/AD/AD Fundamentals/1. Terminology.md",
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
-    "CPTS_THEORY/AD/AD Fundamentals/Introduction.md",
-    "OSCP/Boxes/HTB/(HTB) Bank.md",
-    "OSCP/Privilege Escalation/S1rens_Linux_priv_esc.md",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
     "CCNA/CCNA - Pics/Pasted image 20260610220814.png",
