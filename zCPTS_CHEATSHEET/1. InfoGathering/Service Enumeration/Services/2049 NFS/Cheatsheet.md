@@ -5,12 +5,21 @@ sudo nmap 10.129.14.128 -p111,2049 -sV -sC
 #NSEScript (shows eg. contents and it's stats)
 sudo nmap --script nfs* 10.129.14.128 -sV -p111,2049
 
+#rpcinfo
+rpcinfo -p 10.129.228.109
+
 # Show available NFS shares
 showmount -e <IP>
 
 # Mount the specific NFS share.umount ./target-NFS
 mount -t nfs <FQDN/IP>:/<share> ./target-NFS/ -o nolock
+
+# Another example
+/home/ross    *
+sudo mount -t nfs 10.129.228.109:/home/ross /mnt/ross
 ```
+
+**rpc(port111)**
 
 NFS is based on the [Open Network Computing Remote Procedure Call](https://en.wikipedia.org/wiki/Sun_RPC) (`ONC-RPC`/`SUN-RPC`) protocol exposed on `TCP` and `UDP` ports `111`, which uses [External Data Representation](https://en.wikipedia.org/wiki/External_Data_Representation) (`XDR`) for the system-independent exchange of data. The NFS protocol has `no` mechanism for `authentication` or `authorization`. Instead, authentication is completely shifted to the RPC protocol's options. The authorization is derived from the available file system information. In this process, the server is responsible for translating the client's user information into the file system's format and converting the corresponding authorization details into the required UNIX syntax as accurately as possible.
 
