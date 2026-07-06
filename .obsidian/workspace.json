@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Service-Commands.md",
+                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/110,995 POP3/Service Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Service-Commands"
+              "title": "Service Commands"
+            }
+          },
+          {
+            "id": "9099e44409d3976b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/110,995 POP3/Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheatsheet"
+            }
+          },
+          {
+            "id": "cb8ea0a2253623c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/110,995 POP3/Dangerous Settings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dangerous Settings"
+            }
+          },
+          {
+            "id": "fdab74005ccd41d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/6. Firewall and IDS IPS Evasion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Firewall and IDS IPS Evasion"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 289.5
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -195,44 +238,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "5d6e80448169f007",
+  "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Possible Attacks.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Dangerous Settings.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Service-Commands.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/25,465,587 SMTP/Cheatsheet.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/25,465,587 SMTP/Dangerous Settings.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/25,465,587 SMTP/Service-Commands.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Cheatsheet.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/1. Host Discovery.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/WMIexec.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/tcpdump.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/6. Options.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/5. Firewall and IDS IPS Evasion.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/4. Scripts.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/3. Saving Output.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/2. Port Scanning.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Dangerous Settings.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/7. Options.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/6. Firewall and IDS IPS Evasion.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/5. Scripts.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/1. Host Discovery.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/2. Port Scanning.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/3. Nmap OS and service detection.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/4. Saving Output.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/135 WMI/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/135 WMI",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/5985,5986 WinRM/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP/Service Commands.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/512,513,514 R-Services/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/512,513,514 R-Services/Service Commands.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/873 Rsync/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/22 SSH/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/22 SSH/Dangerous Settings.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/25,465,587 SMTP/Dangerous Settings.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/623 IPMI/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/623 IPMI/Service Commands.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/623 IPMI/Dangerous Settings.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1521 Oracle TNS/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1521 Oracle TNS/Service Settings.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1521 Oracle TNS/Dangerous Settings.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Dangerous Settings.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Service-Settings.md",
     "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/Host Discovery",
     "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/WMIexec",
     "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/tcpdump",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/5985,5986 WinRM",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3306 MySQL",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/2049 NFS",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1521 Oracle TNS",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Service-Commands.md",
-    "1. ShadowApple/connection.md",
-    "CPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Untitled.md",
-    "CPTS_CHEATSHEET/Untitled.md",
-    "OSCP/Boxes/HTB/(HTB) NodeBlog.md",
-    "OSCP/readme.md",
-    "CPTS_THEORY/Footprinting/6. FTP.md",
-    "p.md",
-    "CPTS_THEORY/AD/AD Fundamentals/AD Objects.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/5985,5986 WinRM",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3306 MySQL",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/2049 NFS",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1521 Oracle TNS",
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",

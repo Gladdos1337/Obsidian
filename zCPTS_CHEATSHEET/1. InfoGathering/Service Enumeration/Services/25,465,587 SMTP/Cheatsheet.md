@@ -8,15 +8,6 @@ sudo nmap 10.129.14.128 -p25 --script smtp-open-relay -v
 
 #Enumerate users
 for user in $(cat users.txt); do echo VRFY $user | nc -nv -w 6 $ip 25 ; done
-
-# Querying OIDs using snmpwalk
-snmpwalk -v2c -c <community string> <FQDN/IP>
-
-# Bruteforcing community strings of the SNMP service.
-onesixtyone -c community-strings.list <FQDN/IP>
-
-# Bruteforcing SNMP service OIDs.
-braa <community string>@<FQDN/IP>:.1.*
 ```
 
 | Client (`MUA`) | `➞` | Submission Agent (`MSA`) | `➞` | Open Relay (`MTA`) | `➞` | Mail Delivery Agent (`MDA`) | `➞` | Mailbox (`POP3`/`IMAP`) |
