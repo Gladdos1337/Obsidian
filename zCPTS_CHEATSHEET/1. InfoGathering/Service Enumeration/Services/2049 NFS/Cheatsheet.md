@@ -16,6 +16,7 @@ mount -t nfs <FQDN/IP>:/<share> ./target-NFS/ -o nolock
 
 # Another example
 /home/ross    *
+sudo mkdir -p /mnt/ross
 sudo mount -t nfs 10.129.228.109:/home/ross /mnt/ross
 ```
 
