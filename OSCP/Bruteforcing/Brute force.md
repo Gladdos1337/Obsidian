@@ -1,4 +1,4 @@
-Related: [[Username enumeration]] | [[ffuf]] | [[Insecure direct object references (IDOR)]]
+Related: [[Username enumeration]] | [[OSCP/Web Hacking/Tools/ffuf]] | [[Insecure direct object references (IDOR)]]
 
 
 

@@ -1,4 +1,4 @@
-Related: [[1.2 Automated Discovery]] | [[ffuf]] | [[Brute force]]
+Related: [[1.2 Automated Discovery]] | [[OSCP/Web Hacking/Tools/ffuf]] | [[Brute force]]
 
 Website error messages are great resources for collating this information to build our list of valid usernames.
 If you try entering the username **admin** and fill in the other form fields with fake information, you'll see we get the error **An account with this username already exists**. We can use the existence of this error message to produce a list of valid usernames already signed up on the system by using the ffuf tool below. The ffuf tool uses a list of commonly used usernames to check against for any matches.
