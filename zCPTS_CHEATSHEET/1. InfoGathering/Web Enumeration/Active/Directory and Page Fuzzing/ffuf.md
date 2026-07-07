@@ -20,9 +20,7 @@ ffuf -w wordlist.txt -u http://TARGET/FUZZ -recursion -recursion-depth 1 -e .php
 Note: we can still use `.php` as our page extension, as these extensions are usually site-wide.
 ```
 
-Note: we can still use `.php` as our page extension, as these extensions are usually site-wide.
 
-```
 
 ```
 #Wordlists
