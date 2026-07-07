@@ -15,7 +15,13 @@ ffuf -w wordlist.txt -u http://TARGET/FUZZ -e .php,.txt,.bak,.html,.aspx
 ffuf -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://SERVER_IP:PORT/blog/FUZZ.php
 
 #Recursive (auto-fuzz discovered directories):
-ffuf -w wordlist.txt -u http://TARGET/FUZZ -recursion -recursion-depth 2
+ffuf -w wordlist.txt -u http://TARGET/FUZZ -recursion -recursion-depth 1 -e .php -v
+
+Note: we can still use `.php` as our page extension, as these extensions are usually site-wide.
+```
+
+Note: we can still use `.php` as our page extension, as these extensions are usually site-wide.
+
 ```
 
 ```
