@@ -5,11 +5,14 @@ ffuf -w /usr/share/wordlists/seclists/Discovery/Web-Content/raft-medium-director
 #Extension Fuzzing
 ffuf -w /usr/share/wordlists/seclists/Discovery/Web-Content/web-extensions.txt:FUZZ -u http://SERVER_IP:PORT/blog/indexFUZZ
 
+> use if else fails -> web-extensions-big.txt
+!the wordlist has dot (.) after "index".
 
-#With extensions
+#Manual Extension Check
 ffuf -w wordlist.txt -u http://TARGET/FUZZ -e .php,.txt,.bak,.html,.aspx
 
-!Check if the wordlist you provide has dot (.) after "index" so you might not need to add it manually.
+#Page Fuzzing with extension (if we know site ends with eg .php)
+ffuf -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -u http://SERVER_IP:PORT/blog/FUZZ.php
 
 #Recursive (auto-fuzz discovered directories):
 ffuf -w wordlist.txt -u http://TARGET/FUZZ -recursion -recursion-depth 2
