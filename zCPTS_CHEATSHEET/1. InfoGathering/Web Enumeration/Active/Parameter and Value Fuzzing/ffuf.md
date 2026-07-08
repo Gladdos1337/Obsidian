@@ -17,6 +17,13 @@ ffuf -w wordlist.txt -X POST -d "username=admin&password=FUZZ" \ -H "Content-Typ
 #cURL POST 
 curl http://admin.academy.htb:PORT/admin/admin.php -X POST -d 'id=key' -H 'Content-Type: application/x-www-form-urlencoded'
 
+#Value Fuzzing
+
+>#script to make list of numbers 1-1000
+for i in $(seq 1 1000); do echo $i >> ids.txt; done
+
+ffuf -w ids.txt:FUZZ -u http://admin.academy.htb:PORT/admin/admin.php -X POST -d 'id=FUZZ' -H 'Content-Type: application/x-www-form-urlencoded' -fs xxx
+
 #Header Fuzzing
 ffuf -w wordlist.txt -u http://TARGET/ -H "X-FUZZ: test"
 
