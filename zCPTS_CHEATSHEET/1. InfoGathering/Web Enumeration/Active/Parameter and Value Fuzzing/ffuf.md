@@ -1,6 +1,8 @@
 
+Fuzzing parameters may expose unpublished parameters that are publicly accessible. Such parameters tend to be less tested and less secured, so it is important to test such parameters for the web vulnerabilities we discuss in other modules.
+
 ```
-#Subdirectory / Parameter Fuzzing (GET)
+#GET Subdirectory / Parameter Fuzzing
 ffuf -w params.txt -u "http://TARGET/page.php?FUZZ=test"
 
 #Value Fuzzing (known param, unknown value)
