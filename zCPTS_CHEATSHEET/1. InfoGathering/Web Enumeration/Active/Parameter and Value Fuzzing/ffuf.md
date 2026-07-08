@@ -12,6 +12,11 @@ ffuf -w values.txt -u "http://TARGET/page.php?id=FUZZ"
 ffuf -w wordlist.txt -X POST -d "username=admin&password=FUZZ" \ -H "Content-Type: application/x-www-form-urlencoded" \ 
 -u http://TARGET/login
 
+> In PHP, "POST" data "content-type" can only accept "application/x-www-form-urlencoded". So, we can set that in "ffuf" with "-H 'Content-Type: application/x-www-form-urlencoded'".
+
+#cURL POST 
+curl http://admin.academy.htb:PORT/admin/admin.php -X POST -d 'id=key' -H 'Content-Type: application/x-www-form-urlencoded'
+
 #Header Fuzzing
 ffuf -w wordlist.txt -u http://TARGET/ -H "X-FUZZ: test"
 
