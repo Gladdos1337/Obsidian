@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/Parameter and Value Fuzzing/ffuf.md",
+                "file": "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Bind Shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ffuf"
+              "title": "Bind Shell"
             }
           }
         ],
@@ -240,9 +240,10 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/Parameter and Value Fuzzing/ffuf.md",
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Bind Shell.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/Directory and Page Fuzzing/ffuf.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/Subdomain and Virtual Host Fuzzing/ffuf.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/Parameter and Value Fuzzing/ffuf.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/1. Web Server Enumeration/ffuf.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Cheathseet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/Untitled 1/Untitled",
@@ -275,7 +276,6 @@
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP/Service Commands.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/512,513,514 R-Services/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/512,513,514 R-Services/Service Commands.md",
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
