@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Antak.md",
+                "file": "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/PHP Web Shells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Antak"
+              "title": "PHP Web Shells"
             }
           }
         ],
@@ -240,8 +240,12 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Webshells.md",
+    "CCNA/CCNA - Pics/Pasted image 20260711112014.png",
+    "CCNA/CCNA - Pics/Pasted image 20260711111959.png",
+    "CCNA/CCNA - Pics/Pasted image 20260711111838.png",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Antak.md",
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/PHP Web Shells.md",
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Webshells.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Cheathseet.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum/Laudanum.md",
     "CCNA/CCNA - Pics/Pasted image 20260711100724.png",
@@ -276,16 +280,12 @@
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/2049 NFS/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/2049 NFS/Service Commands.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/2049 NFS/Dangerous Settings.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/5985,5986 WinRM/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/873 Rsync/Cheatsheet.md",
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
     "CCNA/CCNA - Pics/Pasted image 20260610220814.png",
     "CCNA/CCNA - Pics/Pasted image 20260610220812.png",
     "CCNA/CCNA - Pics/Pasted image 20260610220804.png",
-    "CCNA/CCNA - Pics/Pasted image 20260526221617.png",
-    "CCNA/CCNA - Pics/Pasted image 20260526221614.png",
-    "CCNA/CCNA - Pics/Pasted image 20260526221611.png"
+    "CCNA/CCNA - Pics/Pasted image 20260526221617.png"
   ]
 }
