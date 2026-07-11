@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum/Laudanum.md",
+                "file": "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Antak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laudanum"
+              "title": "Antak"
             }
           }
         ],
@@ -240,13 +240,14 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Webshells.md",
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Antak.md",
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Cheathseet.md",
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum/Laudanum.md",
     "CCNA/CCNA - Pics/Pasted image 20260711100724.png",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum/Laudanum.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum",
     "CCNA/CCNA - Pics/Pasted image 20260711100452.png",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Webshells.md",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Cheathseet.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Bind Shell.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Reverse Shell.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Shell upgrade/Cheatsheet.md",
@@ -285,7 +286,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260610220804.png",
     "CCNA/CCNA - Pics/Pasted image 20260526221617.png",
     "CCNA/CCNA - Pics/Pasted image 20260526221614.png",
-    "CCNA/CCNA - Pics/Pasted image 20260526221611.png",
-    "CCNA/CCNA - Pics/Pasted image 20260526221606.png"
+    "CCNA/CCNA - Pics/Pasted image 20260526221611.png"
   ]
 }
