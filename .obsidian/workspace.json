@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Considerations when dealing with Webshells.md",
+                "file": "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Webshells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Considerations when dealing with Webshells"
+              "title": "Webshells"
             }
           }
         ],
@@ -240,12 +240,12 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/PHP Web Shells.md",
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Antak.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Considerations when dealing with Webshells.md",
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/PHP Web Shells.md",
     "CCNA/CCNA - Pics/Pasted image 20260711112014.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111959.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111838.png",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Antak.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Webshells.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Cheathseet.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum/Laudanum.md",
