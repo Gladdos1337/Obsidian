@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/2. Pre-Exploitation/MSFConsole/Adding additional exploit.md",
+                "file": "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Shell upgrade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adding additional exploit"
+              "title": "Shell upgrade"
             }
           }
         ],
@@ -240,9 +240,10 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/MSFConsole/Adding additional exploit.md",
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Shell upgrade.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/MSFConsole/Finding&Using module.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Linux.md",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/MSFConsole/Adding additional exploit.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Windows.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Cheatsheet.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Untitled",
@@ -275,7 +276,6 @@
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/135 WMI/Cheatsheet.md",
     "OSCP/Boxes/THM/(THM) Kenobi/1enum.md",
     "OSCP/Boxes/HTB/(HTB) Legacy (Panda).md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/6. Firewall and IDS IPS Evasion.md",
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
