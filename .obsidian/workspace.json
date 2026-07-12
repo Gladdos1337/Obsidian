@@ -238,8 +238,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "fdab74005ccd41d7",
+  "active": "e4945a2b31f10ffb",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Incremental mode.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Identifying hash formats.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Cracking files.md",
@@ -279,7 +280,6 @@
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Linux.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Untitled",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Service Commands.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/MSFVenom",
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "Untitled.canvas",
