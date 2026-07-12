@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Detection and Prevention.md",
+                "file": "zCPTS_CHEATSHEET/Troubleshooting/OpenVPN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Detection and Prevention"
+              "title": "OpenVPN"
             }
           }
         ],
@@ -240,8 +240,10 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Windows.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Detection and Prevention.md",
+    "zCPTS_CHEATSHEET/Troubleshooting/OpenVPN.md",
+    "zCPTS_CHEATSHEET/Troubleshooting",
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Windows.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Antak.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/MSFConsole/Adding additional exploit.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Application Enumeration/Tomcat/Uploading Shell.md",
@@ -278,9 +280,7 @@
     "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/Parameter and Value Fuzzing/ffuf.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/Directory and Page Fuzzing/ffuf.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/Subdomain and Virtual Host Fuzzing/ffuf.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/1. Web Server Enumeration/ffuf.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/Untitled 1/Untitled",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/Parameter and Value Fuzzing",
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
