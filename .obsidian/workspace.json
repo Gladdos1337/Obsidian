@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlist - hashcat.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Wordlist mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custom Wordlist - hashcat"
+              "title": "Wordlist mode"
             }
           }
         ],
@@ -240,18 +240,22 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlists - ceWL.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Incremental mode.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Single crack mode.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Cracking files.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Cracking/Cracking encrypted files.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Cracking/Searching files to crack.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Cracking",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlist - cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlist - hashcat.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlists - ceWL.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat/Dictionary attack.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Rules.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat/Mask attack.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat/Dictionary attack.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat/1.cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/1. Identifying hash formats.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Wordlist mode.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Incremental mode.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Cracking files.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Single crack mode.md",
     "zCPTS_CHEATSHEET/Troubleshooting/OpenVPN.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks",
@@ -272,15 +276,11 @@
     "CCNA/CCNA - Pics/Pasted image 20260711111959.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111838.png",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Cheathseet.md",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum/Laudanum.md",
     "CCNA/CCNA - Pics/Pasted image 20260711100724.png",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum/Cheatsheet.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum",
     "CCNA/CCNA - Pics/Pasted image 20260711100452.png",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Bind Shell.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Shell upgrade",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Untitled",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's",
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
