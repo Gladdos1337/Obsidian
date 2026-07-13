@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Wordlist mode.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat/Dictionary attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wordlist mode"
+              "title": "Dictionary attack"
             }
           }
         ],
@@ -238,13 +238,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4945a2b31f10ffb",
+  "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat/1.cheatsheet.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat/Dictionary attack.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/1. Identifying hash formats.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Wordlist mode.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Incremental mode.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Identifying hash formats.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Cracking files.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Wordlist mode.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Single crack mode.md",
     "zCPTS_CHEATSHEET/Troubleshooting/OpenVPN.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper",
@@ -277,10 +279,8 @@
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Shell upgrade/Shell upgrade.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Shell upgrade",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/MSFConsole/Finding&Using module.md",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Linux.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Untitled",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/MSFVenom",
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
