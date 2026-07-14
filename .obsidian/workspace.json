@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Network Services/WinRM.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Network Services/SMB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WinRM"
+              "title": "SMB"
             }
           }
         ],
@@ -240,9 +240,13 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/3. Exploitation/Network Services/Remote Desktop Protocol (RDP).md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Network Services/SMB.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Network Services/ssh.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Network Services/WinRM.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Network Services/netexec.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Network Services",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/5985,5986 WinRM/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Network Services/WinRM.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Cracking protected archives.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Cracking files.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Incremental mode.md",
@@ -268,11 +272,8 @@
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Windows.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Antak.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/MSFConsole/Adding additional exploit.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Application Enumeration/Tomcat/Uploading Shell.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Application Enumeration/Tomcat",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Application Enumeration",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/135 WMI/Cheatsheet.md",
     "CCNA/CCNA - Pics/Pasted image 20260711112014.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111959.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111838.png",
@@ -280,7 +281,6 @@
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum",
     "CCNA/CCNA - Pics/Pasted image 20260711100452.png",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Shell upgrade",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Untitled",
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
