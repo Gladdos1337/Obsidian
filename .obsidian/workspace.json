@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/WinRM.md",
+                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3306 MySQL/Service Settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WinRM"
+              "title": "Service Settings"
             }
           }
         ],
@@ -240,11 +240,15 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/3. Exploitation/Default credentials.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential stuffing.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Password Spraying.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/WinRM.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/ssh.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/SMB.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/Remote Desktop Protocol (RDP).md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/netexec.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/WinRM.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/5985,5986 WinRM/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Cracking protected archives.md",
@@ -267,11 +271,7 @@
     "zCPTS_CHEATSHEET/Troubleshooting/OpenVPN.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Detection and Prevention.md",
     "zCPTS_CHEATSHEET/Troubleshooting",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Windows.md",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Antak.md",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/MSFConsole/Adding additional exploit.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Application Enumeration/Tomcat",
     "zCPTS_CHEATSHEET/1. InfoGathering/Application Enumeration",
     "CCNA/CCNA - Pics/Pasted image 20260711112014.png",
