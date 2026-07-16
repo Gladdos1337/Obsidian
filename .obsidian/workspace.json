@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Cheatsheet.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Windows Credential Dumping and Transfer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheatsheet"
+              "title": "Windows Credential Dumping and Transfer"
             }
           }
         ],
@@ -240,11 +240,11 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Attacking SAM, SYSTEM, and SECURITY.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking LSASS.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Credential Storage.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Remote Dump.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Attacking SAM, SYSTEM, and SECURITY.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Windows Credential Dumping and Transfer.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/netexec.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage",
