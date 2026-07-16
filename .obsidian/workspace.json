@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Attacking SAM, SYSTEM, and SECURITY.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attacking SAM, SYSTEM, and SECURITY"
+              "title": "Cheatsheet"
             }
           }
         ],
@@ -240,12 +240,13 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking LSASS.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Credential Storage.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Remote Dump.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Attacking SAM, SYSTEM, and SECURITY.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY/Remote Dump.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/netexec.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Credential Storage.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3306 MySQL/Service Settings.md",
     "OSCP/01 - Information Gathering/1.2 Active Recon/Active Reconnaissance.md",
@@ -269,7 +270,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Single crack mode.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Cracking",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlist - cheatsheet.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlist - hashcat.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks",
