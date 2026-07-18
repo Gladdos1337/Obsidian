@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows Credential Dumping and Transfer.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking Active Directory and NTDS.dit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Credential Dumping and Transfer"
+              "title": "Attacking Active Directory and NTDS.dit"
             }
           }
         ],
@@ -240,10 +240,10 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows Credential Dumping and Transfer.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM, and SECURITY.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking Active Directory and NTDS.dit.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Transferring and Executing Mimikatz on Windows.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows Credential Dumping and Transfer.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking Windows Credential Manager.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking LSASS.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
