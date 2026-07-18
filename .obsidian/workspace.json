@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking Active Directory and NTDS.dit.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Credential Hunting in Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attacking Active Directory and NTDS.dit"
+              "title": "Credential Hunting in Windows"
             }
           }
         ],
@@ -240,19 +240,20 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows Credential Dumping and Transfer.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Credential Storage.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM, and SECURITY.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking Active Directory and NTDS.dit.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Transferring and Executing Mimikatz on Windows.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows Credential Dumping and Transfer.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/TOOLS.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Credential Hunting in Windows.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking Active Directory and NTDS.dit.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking Windows Credential Manager.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking LSASS.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Possible Attacks.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Service-Commands.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Dangerous Settings.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Untitled.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Credential Storage.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/netexec.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage",
@@ -267,7 +268,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Password Spraying.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/WinRM.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/ssh.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks",
     "zCPTS_CHEATSHEET/3. Exploitation/Cracking",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat",

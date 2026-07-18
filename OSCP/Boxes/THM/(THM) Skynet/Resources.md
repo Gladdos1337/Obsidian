@@ -1,4 +1,4 @@
-Related: [[(THM) Skynet]] | [[LFI (Local File Inclusion)]] | [[RFI (Remote File Inclusion)]] | [[Types of shells]] | [[Tools]]
+Related: [[(THM) Skynet]] | [[LFI (Local File Inclusion)]] | [[RFI (Remote File Inclusion)]] | [[Types of shells]] | [[OSCP/Privilege Escalation/Shell/Tools]]
 
 # Skynet - Resources & Further Reading
 

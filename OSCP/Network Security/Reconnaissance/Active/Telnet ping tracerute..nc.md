@@ -1,5 +1,5 @@
 
-Related: [[Passive v Active]] | [[Types of shells]] | [[Tools]]
+Related: [[Passive v Active]] | [[Types of shells]] | [[OSCP/Privilege Escalation/Shell/Tools]]
 
 | Command          | Example                                      |
 | ---------------- | -------------------------------------------- |

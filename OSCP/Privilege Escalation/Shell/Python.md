@@ -1,4 +1,4 @@
-Related: [[Tools]] | [[Types of shells]] | [[Socat]] | [[rlwrap]] | [[RFI (Remote File Inclusion)]]
+Related: [[OSCP/Privilege Escalation/Shell/Tools]] | [[Types of shells]] | [[Socat]] | [[rlwrap]] | [[RFI (Remote File Inclusion)]]
 
 The first technique we'll be discussing is applicable only to **LINUX** boxes, as they will nearly always have Python installed by default. This is a three stage process:
 

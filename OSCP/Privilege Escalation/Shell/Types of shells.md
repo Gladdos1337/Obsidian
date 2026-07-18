@@ -1,5 +1,5 @@
 
-Related: [[Tools]] | [[Socat]] | [[rlwrap]] | [[Python]] | [[Command Injection]] | [[RFI (Remote File Inclusion)]] | [[Telnet ping tracerute..nc]]
+Related: [[OSCP/Privilege Escalation/Shell/Tools]] | [[Socat]] | [[rlwrap]] | [[Python]] | [[Command Injection]] | [[RFI (Remote File Inclusion)]] | [[Telnet ping tracerute..nc]]
 
 At a high level, we are interested in two kinds of shell when it comes to exploiting a target: Reverse shells, and bind shells.
 
