@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Traffic.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Credential Hunting in Network Traffic"
+              "title": "Credential Hunting in Network Shares"
             }
           }
         ],
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -241,8 +240,9 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux/Credential Hunting in Linux.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Traffic.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux/Credential Hunting in Linux.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux/Cracking Linux Credentials.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux/Linux Authentication Process.md",
@@ -271,7 +271,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3306 MySQL/Service Settings.md",
-    "OSCP/01 - Information Gathering/1.2 Active Recon/Active Reconnaissance.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks",
     "zCPTS_CHEATSHEET/3. Exploitation/Cracking",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat",
