@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Credential Hunting in Windows.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux/Cracking Linux Credentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Credential Hunting in Windows"
+              "title": "Cracking Linux Credentials"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mysql",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 349.5
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -240,16 +240,25 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Credential Storage.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM, and SECURITY.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Transferring and Executing Mimikatz on Windows.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows Credential Dumping and Transfer.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux/Linux Authentication Process.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Single crack mode.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux/Cracking Linux Credentials.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Cracking/Cracking encrypted files.md",
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/MSFVenom/MSFvenom crafting payloads.md",
+    "CPTS_THEORY/Information gathering - web edition/info gathering.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Transferring and Executing Mimikatz on Windows.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Credential Storage.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/TOOLS.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Credential Hunting in Windows.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking Active Directory and NTDS.dit.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking Windows Credential Manager.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking LSASS.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Cracking files.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Credential Hunting in Windows.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking SAM, SYSTEM, and SECURITY.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Windows Credential Dumping and Transfer.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking Active Directory and NTDS.dit.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking Windows Credential Manager.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking LSASS.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Possible Attacks.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Service-Commands.md",
@@ -261,21 +270,12 @@
     "OSCP/01 - Information Gathering/1.2 Active Recon/Active Reconnaissance.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Cracking/Cracking protected archives.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Cracking/Searching files to crack.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Cracking/Cracking encrypted files.md",
-    "OSCP/Boxes/HTB/(HTB) Bank.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential stuffing.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Default credentials.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Password Spraying.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/WinRM.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks",
     "zCPTS_CHEATSHEET/3. Exploitation/Cracking",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks",
     "zCPTS_CHEATSHEET/Troubleshooting",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Application Enumeration/Tomcat",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Application Enumeration",
     "CCNA/CCNA - Pics/Pasted image 20260711112014.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111959.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111838.png",
