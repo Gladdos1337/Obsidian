@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - mimikatz.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - Invoke-TheHash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pass the Hash - mimikatz"
+              "title": "Pass the Hash - Invoke-TheHash"
             }
           }
         ],
@@ -240,8 +240,8 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - NetExec.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - mimikatz.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - NetExec.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - Impacket.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - Invoke-TheHash.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - evil-winrm.md",
