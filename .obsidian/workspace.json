@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - RDP.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - mimikatz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pass the Hash - RDP"
+              "title": "Pass the Hash - mimikatz"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mimikatz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -240,24 +240,25 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/UAC limits Pass the Hash for local accounts.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - RDP.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - NetExec.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - mimikatz.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - Impacket.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - Invoke-TheHash.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - evil-winrm.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking LSASS.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking SAM, SYSTEM, and SECURITY.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking Windows Credential Manager.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Credential Hunting in Windows.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Credential Storage.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Transferring and Executing Mimikatz on Windows.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking SAM, SYSTEM, and SECURITY.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking LSASS.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Windows Credential Dumping and Transfer.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking Active Directory and NTDS.dit.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - RDP.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/UAC limits Pass the Hash for local accounts.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Cracking/Searching files to crack.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/1. Pass The Hash PtH.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - NetExec.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - mimikatz.md",
     "CCNA/CCNA - Pics/Pasted image 20260719184238.png",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - Impacket.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - Invoke-TheHash.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)",
     "CCNA/CCNA - Pics/Pasted image 20260719183759.png",
     "CCNA/CCNA - Pics",
@@ -275,7 +276,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux/Credential Hunting in Linux.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux/Cracking Linux Credentials.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux/Linux Authentication Process.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows",
     "CCNA/CCNA - Pics/Pasted image 20260711112014.png",
