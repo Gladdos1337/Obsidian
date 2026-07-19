@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Linux/NetExec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Credential Hunting in Network Shares"
+              "title": "NetExec"
             }
           }
         ],
@@ -240,8 +240,15 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Traffic.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Linux/MANSPIDER.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Linux/NetExec.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Windows/PowerHuntShares.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Windows/Snaffler.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Linux",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Windows",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Traffic.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux/Credential Hunting in Linux.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux/Cracking Linux Credentials.md",
@@ -265,17 +272,10 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking LSASS.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Possible Attacks.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Service-Commands.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Dangerous Settings.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/netexec.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3306 MySQL/Service Settings.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks",
     "zCPTS_CHEATSHEET/3. Exploitation/Cracking",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Hashcat",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks",
     "CCNA/CCNA - Pics/Pasted image 20260711112014.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111959.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111838.png",
