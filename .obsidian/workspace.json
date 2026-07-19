@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Windows/PowerHuntShares.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/UAC limits Pass the Hash for local accounts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PowerHuntShares"
+              "title": "UAC limits Pass the Hash for local accounts"
             }
           }
         ],
@@ -240,8 +240,25 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Windows/Snaffler.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - RDP.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/UAC limits Pass the Hash for local accounts.md",
+    "CCNA/CCNA - Pics/Pasted image 20260719184238.png",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - evil-winrm.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - mimikatz.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - NetExec.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - Impacket.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/1. Pass The Hash PtH.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - Invoke-TheHash.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)",
+    "CCNA/CCNA - Pics/Pasted image 20260719183759.png",
+    "CCNA/CCNA - Pics",
+    "CCNA",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking Windows Credential Manager.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking LSASS.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking SAM, SYSTEM, and SECURITY.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Windows/PowerHuntShares.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Windows/Snaffler.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Linux/NetExec.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Network Traffic/Credential Hunting in Network Shares/Linux/MANSPIDER.md",
@@ -260,22 +277,7 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Transferring and Executing Mimikatz on Windows.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Linux",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Credential Storage.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/TOOLS.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/John the Ripper/Cracking files.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Credential Hunting in Windows.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking SAM, SYSTEM, and SECURITY.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Windows Credential Dumping and Transfer.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking Active Directory and NTDS.dit.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking Windows Credential Manager.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking LSASS.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Possible Attacks.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Attacking SAM, SYSTEM and SECURITY",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage",
-    "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks",
-    "zCPTS_CHEATSHEET/3. Exploitation/Cracking",
     "CCNA/CCNA - Pics/Pasted image 20260711112014.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111959.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111838.png",
@@ -284,8 +286,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "Untitled.canvas",
     "CCNA/CCNA - Pics/Pasted image 20260610222438.png",
-    "CCNA/CCNA - Pics/Pasted image 20260610220814.png",
-    "CCNA/CCNA - Pics/Pasted image 20260610220812.png",
-    "CCNA/CCNA - Pics/Pasted image 20260610220804.png"
+    "CCNA/CCNA - Pics/Pasted image 20260610220814.png"
   ]
 }

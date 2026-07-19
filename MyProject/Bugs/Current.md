@@ -1,1 +1,0 @@
-Camera disspearing from outside and re-appearing on inside

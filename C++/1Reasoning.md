@@ -1,1 +1,0 @@
-Point is to understand underlaying concepts of c++ for **CYBERSEC** , this shit is very difficult so will put it to very **low priority**. But still have some fun.

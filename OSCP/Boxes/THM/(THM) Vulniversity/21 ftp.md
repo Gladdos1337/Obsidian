@@ -1,1 +1,0 @@
-21/tcp   open  ftp         vsftpd 3.0.5
