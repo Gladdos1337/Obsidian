@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Considerations when dealing with Webshells.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Considerations when dealing with Webshells"
+              "title": "TODO"
             }
           }
         ],
@@ -240,6 +240,7 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Considerations when dealing with Webshells.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Antak.md",
     "TODO.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Windows.md",
@@ -271,7 +272,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking Windows Credential Manager.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Credential Hunting in Windows.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Transferring and Executing Mimikatz on Windows.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)",
     "Pictures/pics",
     "Pictures",
