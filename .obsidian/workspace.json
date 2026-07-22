@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Certificate/AD CS NTLM Relay Attack (ESC8).md",
+                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Service Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD CS NTLM Relay Attack (ESC8)"
+              "title": "Service Commands"
             }
           }
         ],
@@ -240,11 +240,15 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Service Commands.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/SMB.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/Remote Desktop Protocol (RDP).md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Certificate/AD CS NTLM Relay Attack (ESC8).md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Certificate/1. Pass the Certificate.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Certificate/No PKINIT.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Certificate/Shadow Credentials (msDS-KeyCredentialLink).md",
     "CCNA/CCNA - Pics/Pasted image 20260722185248.png",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Certificate/AD CS NTLM Relay Attack (ESC8).md",
     "CCNA/CCNA - Pics/Pasted image 20260722185007.png",
     "CCNA/CCNA - Pics",
     "CCNA",
@@ -267,10 +271,6 @@
     "TODO.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Considerations when dealing with Webshells.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Antak.md",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Windows.md",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Infiltrating OS's/Linux.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Credential Storage.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Windows/3.1 PowerShell Remoting - mimikatz.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Windows/Untitled",
     "Pictures/pics/Pasted image 20260719183759.png",

@@ -47,4 +47,6 @@ crackmapexec smb 10.129.14.128 --shares -u '' -p ''
 #Enum4linux
 enum4linux 10.129.14.128 -A
 
+netexec smb 10.129.42.197 -u "user" -p "password" --shares
+
 ```
