@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Service Commands.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Certificate/0.1 Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Service Commands"
+              "title": "0.1 Cheatsheet"
             }
           }
         ],
@@ -240,8 +240,16 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - evil-winrm.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Certificate/0.1 Cheatsheet.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Pass The Ticket.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Windows/1.0 Getting ticket - mimikatz.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass The Hash (PtH)/Pass the Hash - RDP.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP/Service Commands.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Service Commands.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Dangerous Settings.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/SMB.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/Remote Desktop Protocol (RDP).md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Certificate/AD CS NTLM Relay Attack (ESC8).md",
@@ -263,14 +271,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/3.2 obtaining more hashes.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/3.1 keytab exctract.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/3. abusing keytab files.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/2.2 finding ccache files.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/2.1 Finding kerberos tickets.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/2.1 Is machine domain-joined.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/2.1 Finding cache files.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/1. PtT Linux.md",
-    "TODO.md",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Considerations when dealing with Webshells.md",
-    "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Antak.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Windows/Untitled",
     "Pictures/pics/Pasted image 20260719183759.png",
