@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Common Services/The Concept of Attacks.md",
+                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/2. Port Scanning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Concept of Attacks"
+              "title": "2. Port Scanning"
             }
           }
         ],
@@ -240,8 +240,13 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Tools for common services.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/1. Host Discovery.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/21 FTP.md",
+    "CCNA/CCNA - Pics/Pasted image 20260725132802.png",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/The Concept of Attacks.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services",
+    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Tools for common services.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Concept of",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Databases.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Email.md",
@@ -268,16 +273,12 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Attacking Windows Credential Manager.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Credential Hunting in Windows.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Credential Storage.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Windows Credential Dumping and Transfer.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Transferring and Executing Mimikatz on Windows.md",
     "CCNA/CCNA - Pics/Pasted image 20260722185248.png",
     "CCNA/CCNA - Pics/Pasted image 20260722185007.png",
     "CCNA/CCNA - Pics",
     "CCNA",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Certificate",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux",
-    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Windows/Untitled",
     "Pictures/pics/Pasted image 20260719183759.png",
     "Pictures/pics/Pasted image 20260719184238.png",
     "CCNA/CCNA - Pics/Pasted image 20260711112014.png",
@@ -285,7 +286,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260711111838.png",
     "CCNA/CCNA - Pics/Pasted image 20260711100724.png",
     "CCNA/CCNA - Pics/Pasted image 20260711100452.png",
-    "CCNA/CCNA - Pics/Pasted image 20260704204524.png",
     "Untitled.canvas"
   ]
 }
