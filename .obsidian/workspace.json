@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/3389 RDP.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/53 DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3389 RDP"
+              "title": "53 DNS"
             }
           }
         ],
@@ -240,8 +240,9 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/Master cheatsheet/Master Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/3389 RDP.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/53 DNS.md",
+    "zCPTS_CHEATSHEET/Master cheatsheet/Master Cheatsheet.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/findstr cheatsheet.md",
     "TODO.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/MSSQL `sqlcmd` Cheatsheet.md",
@@ -269,7 +270,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Databases.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Email.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Linux.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Windows CMD - DIR.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services",
     "zCPTS_CHEATSHEET/Master cheatsheet",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services",
