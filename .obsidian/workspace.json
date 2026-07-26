@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/110,995 POP3/Service Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Service Commands"
             }
           }
         ],
@@ -240,13 +240,15 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/110,995 POP3/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/25,465,587 SMTP/Service-Commands.md",
+    "TODO.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Web Enumeration/Active/1. Web Server Enumeration/ffuf.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/53 DNS.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlist - cheatsheet.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/Master Cheatsheet.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/MSSQL `sqlcmd` Cheatsheet.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/findstr cheatsheet.md",
-    "TODO.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/3389 RDP.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/MySQL - MSSQL cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/1433 SQL.md",
@@ -267,9 +269,7 @@
     "CCNA/CCNA - Pics/Pasted image 20260725132802.png",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/The Concept of Attacks.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Tools for common services.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Concept of",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Databases.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services",
     "zCPTS_CHEATSHEET/Master cheatsheet",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services",

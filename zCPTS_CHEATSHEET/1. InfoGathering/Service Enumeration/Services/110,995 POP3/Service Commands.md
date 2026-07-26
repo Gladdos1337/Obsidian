@@ -2,6 +2,7 @@ To interact with the IMAP or POP3 server over SSL, we can use `openssl`, as well
 
 ```
 openssl s_client -connect 10.129.14.128:pop3s
+openssl s_client -connect 10.129.14.128:pop3
 ```
 
 
@@ -16,3 +17,11 @@ openssl s_client -connect 10.129.14.128:pop3s
 | `CAPA`          | Requests the server to display the server capabilities.     |
 | `RSET`          | Requests the server to reset the transmitted information.   |
 | `QUIT`          | Closes the connection with the POP3 server.                 |
+
+```
+openssl s_client -connect 10.129.14.128:pop3s
+USER username
+PASS password
+LIST
+RETR id #id that's listed from LIST command
+```
