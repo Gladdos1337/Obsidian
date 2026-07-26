@@ -1,6 +1,9 @@
 
 Reset the service:
+```
 sudo systemctl restart openvpn
+```
+
 
 xfreerdp connect (password):
 
