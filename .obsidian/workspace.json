@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "right": {
     "id": "c9a119cf70dd8da2",
@@ -241,8 +240,10 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "TODO.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/22 SSH/Service commands.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/2. Port Scanning.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Bruteforcing/Bruteforcing - fix later.md",
+    "TODO.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Bruteforcing",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/110,995 POP3/Service Commands.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/110,995 POP3/Cheatsheet.md",
@@ -259,7 +260,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/139,445 SMB.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1. cheatsheet complete module.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/22 SSH/Service commands.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/22 SSH/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/22 SSH/Dangerous Settings.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Service Commands.md",
@@ -267,7 +267,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/2.1 Finding kerberos tickets.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/21 FTP.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential stuffing.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/2. Port Scanning.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/1. Host Discovery.md",
     "CCNA/CCNA - Pics/Pasted image 20260725132802.png",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services",
