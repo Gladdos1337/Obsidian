@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Pivoting - SSH Port Forwarding & SOCKS Tunneling.md",
+                "file": "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Pivoting - Remote Reverse Port Forwarding with SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pivoting - SSH Port Forwarding & SOCKS Tunneling"
+              "title": "Pivoting - Remote Reverse Port Forwarding with SSH"
             }
           }
         ],
@@ -240,9 +240,10 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Pivoting - SSH Port Forwarding & SOCKS Tunneling.md",
+    "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Pivoting - Remote Reverse Port Forwarding with SSH.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum/Laudanum.md",
-    "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Pivoting - SSH Port Forwarding & SOCKS Tunneling.md",
     "Untitled",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum/Cheatsheet.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Webshells.md",
@@ -278,7 +279,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services",
     "CCNA/CCNA - Pics/Pasted image 20260722185248.png",
     "CCNA/CCNA - Pics/Pasted image 20260722185007.png",
-    "CCNA/CCNA - Pics",
     "Pictures/pics/Pasted image 20260719183759.png",
     "Pictures/pics/Pasted image 20260719184238.png",
     "CCNA/CCNA - Pics/Pasted image 20260711112014.png",
