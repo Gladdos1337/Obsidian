@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/0.1 cheatsheet.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Bruteforcing/Bruteforcing - fix later.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.1 cheatsheet"
+              "title": "Bruteforcing - fix later"
             }
           }
         ],
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "smbclient",
+                "query": "username-anarchy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,11 +244,18 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlist - hashcat.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlists - ceWL.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Password Spraying.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Rules.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlist - cheatsheet.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/1. Identifying hash formats.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/netexec.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Default credentials.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Credential stuffing.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/0.1 cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/0.1 cheatsheet",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/;nmap",
-    "zCPTS_CHEATSHEET/3. Exploitation/Credential stuffing.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/rpivot.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/1. checklist.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/sshuttle.md",
@@ -268,13 +276,6 @@
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/MSFVenom/MSFvenom crafting payloads.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/25,465,587 SMTP/Service-Commands.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/25,465,587 SMTP/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Email.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/53 DNS.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/21 FTP.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/MySQL - MSSQL cheatsheet.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/1433 SQL.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/3389 RDP.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Tools for common services.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Bruteforcing",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases",
     "CCNA/CCNA - Pics/Pasted image 20260725132802.png",
