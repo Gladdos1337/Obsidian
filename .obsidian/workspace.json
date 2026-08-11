@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/2.1 Finding kerberos tickets.md",
+                "file": "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/1. checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 Finding kerberos tickets"
+              "title": "1. checklist"
             }
           }
         ]
@@ -76,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,12 +199,14 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/2. HTB cheatsheet.md",
+    "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/1. checklist.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/2.1 Finding kerberos tickets.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Windows CMD - DIR.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/MSSQL `sqlcmd` Cheatsheet.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/Master Cheatsheet.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/findstr cheatsheet.md",
     "TODO.md",
-    "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/1. checklist.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/dns tunneling with dnscat.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Windows Netsh Port Forwarding.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Pivoting - SSH Port Forwarding & SOCKS Tunneling.md",
@@ -226,8 +227,6 @@
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/0.1 cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/0.1 cheatsheet",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/;nmap",
-    "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/rpivot.md",
-    "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/sshuttle.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Windows",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Linux",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting",
