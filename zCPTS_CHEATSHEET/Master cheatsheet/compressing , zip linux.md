@@ -1,4 +1,4 @@
 compress:
-tar -czvf archive_name.tar.gz /path/to/directory
+tar -czvf archive_name.tar.gz .
 decompress:
 tar -xf archive.tar
