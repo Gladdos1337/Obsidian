@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/Master cheatsheet/compressing , zip linux.md",
+                "file": "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/2. HTB cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "compressing , zip linux"
+              "title": "2. HTB cheatsheet"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Pivoting, Tunneling & Port Forwarding.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/compressing , zip linux.md",
+    "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Pivoting, Tunneling & Port Forwarding.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/1. checklist.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/2. HTB cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/2.1 Finding kerberos tickets.md",
