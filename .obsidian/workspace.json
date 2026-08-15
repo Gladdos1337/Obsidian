@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/53 DNS.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/21 FTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "53 DNS"
+              "title": "21 FTP"
             }
           }
         ]
@@ -199,6 +199,10 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Dangerous Settings.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Service-Commands.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/53 DNS.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Possible Attacks.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Dangerous Settings.md",
@@ -221,10 +225,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Username Creation , generation.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/110,995 POP3/Dangerous Settings.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlist - hashcat.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlists - ceWL.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Password Spraying.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Rules.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlist - cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/0.1 cheatsheet",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/;nmap",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Windows",
