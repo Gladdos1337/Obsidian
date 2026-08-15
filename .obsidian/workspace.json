@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1. cheatsheet complete module.md",
+                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. cheatsheet complete module"
+              "title": "Cheatsheet"
             }
           }
         ]
@@ -76,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,10 +199,18 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Service-Commands.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Possible Attacks.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Dangerous Settings.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/1433 SQL.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/139,445 SMB.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1. cheatsheet complete module.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Service-Settings.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Dangerous Settings.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Dangerous Settings.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Service Commands.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/135 WMI/Cheatsheet.md",
@@ -212,20 +219,12 @@
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Service-Commands.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/53 DNS.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Possible Attacks.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Dangerous Settings.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/2. HTB cheatsheet.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/compressing , zip linux.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Pivoting, Tunneling & Port Forwarding.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/1. checklist.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/2.1 Finding kerberos tickets.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Windows CMD - DIR.md",
-    "zCPTS_CHEATSHEET/Master cheatsheet/MSSQL `sqlcmd` Cheatsheet.md",
-    "zCPTS_CHEATSHEET/Master cheatsheet/Master Cheatsheet.md",
-    "zCPTS_CHEATSHEET/Master cheatsheet/findstr cheatsheet.md",
-    "TODO.md",
-    "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/dns tunneling with dnscat.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/0.1 cheatsheet",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/;nmap",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Windows",

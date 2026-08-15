@@ -38,6 +38,8 @@ for i in $(seq 500 1100);do rpcclient -N -U "" 10.129.14.128 -c "queryuser 0x$(p
 
 samrdump.py 10.129.14.128
 
+BE CAREFUL IF ITS DOMAIN OR LOCAL-AUTH USER!!!!!!!!!!!@
+
 #SMBmap
 smbmap -H 10.129.14.128
 
@@ -48,5 +50,5 @@ crackmapexec smb 10.129.14.128 --shares -u '' -p ''
 enum4linux 10.129.14.128 -A
 
 netexec smb 10.129.42.197 -u "user" -p "password" --shares
-
+--local-auth --ignore-pw-decoding
 ```
