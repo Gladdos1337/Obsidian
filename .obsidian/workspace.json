@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/21 FTP.md",
+                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 FTP"
+              "title": "Cheatsheet"
             }
           }
         ]
@@ -199,6 +199,11 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Dangerous Settings.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Service Commands.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/135 WMI/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/21 FTP.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Dangerous Settings.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Service-Commands.md",
@@ -220,11 +225,6 @@
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Windows Netsh Port Forwarding.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Pivoting - SSH Port Forwarding & SOCKS Tunneling.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Pivoting - Remote Reverse Port Forwarding with SSH.md",
-    "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Meterpreter Tunneling & Port Forwarding.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Bruteforcing/Bruteforcing - fix later.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Username Creation , generation.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/110,995 POP3/Dangerous Settings.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Password attacks/Custom Wordlist - hashcat.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/0.1 cheatsheet",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/;nmap",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Windows",

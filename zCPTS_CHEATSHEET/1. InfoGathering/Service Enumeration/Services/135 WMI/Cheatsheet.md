@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=eRnqtXwCZVs&t=585s
+
+Basically what IppSec says is that 999 out of 1000 times you ignore msrpc, there's too much information. Will update later.
+
 
 ```
 #Footprinting the service
