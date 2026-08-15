@@ -3,6 +3,8 @@
 #Connecting to a specific share
 smbclient //10.129.14.128/notes
 
+
+
 #Getting a file
 smb: \> get prep-prod.txt 
 ```
