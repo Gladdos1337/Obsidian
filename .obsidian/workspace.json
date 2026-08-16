@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/1433 SQL.md",
+                "file": "zCPTS_CHEATSHEET/Master cheatsheet/AD TOOLS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1433 SQL"
+              "title": "AD TOOLS"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/1433 SQL.md",
+    "zCPTS_CHEATSHEET/Master cheatsheet/AD TOOLS.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Dangerous Settings.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Service-Settings.md",
@@ -209,7 +211,6 @@
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Possible Attacks.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Dangerous Settings.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/1433 SQL.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/139,445 SMB.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3389 RDP/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1. cheatsheet complete module.md",
@@ -224,7 +225,6 @@
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Pivoting, Tunneling & Port Forwarding.md",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/1. checklist.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Windows Lateral Movement/Pass the Ticket (PtT)/Harvesting Kerberos tickets from Linux/2.1 Finding kerberos tickets.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Interacting with common services/File Share Services/Windows CMD - DIR.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/0.1 cheatsheet",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/;nmap",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Windows",
