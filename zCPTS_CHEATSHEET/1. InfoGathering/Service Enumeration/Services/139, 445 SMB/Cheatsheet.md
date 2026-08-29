@@ -2,7 +2,7 @@
 #Showing open shares
 smbclient -N -L //10.129.14.128
 
-smbclient -U fiona%liverpool //10. 
+smbclient -U fiona%liverpool
 
 #Samba Status
 smbstatus
