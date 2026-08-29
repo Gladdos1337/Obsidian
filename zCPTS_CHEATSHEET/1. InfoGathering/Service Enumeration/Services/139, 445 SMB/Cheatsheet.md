@@ -2,7 +2,17 @@
 #Showing open shares
 smbclient -N -L //10.129.14.128
 
-smbclient -U fiona%liverpool
+#Connecting with known username/password
+smbclient //10.129.42.197/Users -U "fiona%liverpool"
+
+Error: NT_STATUS_IO_TIMEOUT listing \*
+~happens when SMBv1 legacy protocol issues, active transfer mode settings, or connection drops hang the connection during share enumeration.
+
+Force SMBv2 / SMBv3:
+smbclient //10.129.42.197/Users -U "fiona%liverpool" --max-protocol SMB3
+
+Force SMBv1 (if required by legacy server):
+smbclient //10.129.42.197/Users -U "fiona%liverpool" --option="client min protocol=NT1"
 
 #Samba Status
 smbstatus
