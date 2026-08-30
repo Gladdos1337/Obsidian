@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/Entry to SQLi.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/Database enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entry to SQLi"
+              "title": "Database enumeration"
             }
           }
         ]
@@ -202,8 +202,9 @@
     "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/Reading files.md",
     "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/Entry to SQLi.md",
     "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/Union Clause.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/webshell + sqli.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/Database enumeration.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/webshell + sqli.md",
     "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/writing files.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Webshells.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Webshells/Laudanum/Laudanum.md",
@@ -213,7 +214,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260830122929.png",
     "CCNA/CCNA - Pics/Pasted image 20260830122924.png",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3306 MySQL/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Cheatsheet.md",
     "CCNA/CCNA - Pics/Pasted image 20260830115035.png",
     "CCNA/CCNA - Pics/Pasted image 20260830114833.png",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/MySQL - MSSQL cheatsheet.md",
