@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/Entry to SQLi.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/Database enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entry to SQLi"
+              "title": "Database enumeration"
             }
           }
         ]
@@ -199,13 +199,18 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/MySQL - MSSQL cheatsheet.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/Union Clause.md",
     "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/Entry to SQLi.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3306 MySQL/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection/Database enumeration.md",
+    "CCNA/CCNA - Pics/Pasted image 20260830115035.png",
+    "CCNA/CCNA - Pics/Pasted image 20260830114833.png",
+    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/MySQL - MSSQL cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/1433 SQL.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Bruteforcing/Bruteforcing - fix later.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Default credentials.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3306 MySQL/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Dangerous Settings.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/Remote Desktop Protocol (RDP).md",
@@ -216,7 +221,6 @@
     "zCPTS_CHEATSHEET/AD - need to move/Scope AD module.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/AD TOOLS.md",
     "zCPTS_CHEATSHEET/AD - need to move",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Cheatsheet.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Dangerous Settings.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/1433,1434,2433 MSSQL/Service-Settings.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Service-Commands.md",
@@ -225,8 +229,6 @@
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Dangerous Settings.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/139,445 SMB.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1. cheatsheet complete module.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/21 FTP.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/21 FTP/Dangerous Settings.md",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/0.1 cheatsheet",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/;nmap",
     "zCPTS_CHEATSHEET/5. Lateral Movement/Pivoting/Windows",
@@ -243,8 +245,6 @@
     "CCNA/CCNA - Pics/Pasted image 20260711112014.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111959.png",
     "CCNA/CCNA - Pics/Pasted image 20260711111838.png",
-    "CCNA/CCNA - Pics/Pasted image 20260711100724.png",
-    "CCNA/CCNA - Pics/Pasted image 20260711100452.png",
     "Untitled.canvas"
   ]
 }
