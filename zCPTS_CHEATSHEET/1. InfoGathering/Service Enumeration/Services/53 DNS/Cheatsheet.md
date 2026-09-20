@@ -9,8 +9,10 @@ dig any <domain.tld> @<nameserver>
 dig axfr <domain.tld> @<nameserver>
 
 #Subdomain brute forcing.
-dnsenum --dnsserver <nameserver> --enum -p 0 -s 0 -o found_subdomains.txt -f /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-110000.txt <domain.tld>
+dnsenum --dnsserver <IP> --enum -p 0 -s 0 -o found_subdomains.txt -f /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-110000.txt <domain.com>
 ```
+
+IF HTTPS CHECK THE CERT!!!
 
 |**DNS Record**|**Description**|
 |---|---|
