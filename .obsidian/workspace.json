@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/Master cheatsheet/AD TOOLS.md",
+                "file": "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD TOOLS"
+              "title": "Cheatsheet"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "download",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,11 +197,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae85ff2f5eb21a2b",
+  "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
-    "zCPTS_CHEATSHEET/Master cheatsheet/compressing , zip linux.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/53 DNS.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Dangerous Settings.md",
+    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Possible Attacks.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/Master Cheatsheet.md",
     "zCPTS_CHEATSHEET/Master cheatsheet/findstr cheatsheet.md",
+    "zCPTS_CHEATSHEET/Master cheatsheet/AD TOOLS.md",
+    "zCPTS_CHEATSHEET/Master cheatsheet/compressing , zip linux.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Shell upgrade/Cheatsheet.md",
     "zCPTS_CHEATSHEET/2. Pre-Exploitation/Shells/Reverse Shell.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Credential Storage/Windows/Credential Hunting in Windows.md",
@@ -227,11 +231,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/1433 SQL.md",
     "zCPTS_CHEATSHEET/3. Exploitation/Bruteforcing/Bruteforcing - fix later.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Default credentials.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Dangerous Settings.md",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/139, 445 SMB/Cheatsheet.md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/Remote Desktop Protocol (RDP).md",
-    "zCPTS_CHEATSHEET/3. Exploitation/Remote Password Attacks/SMB.md",
     "zCPTS_CHEATSHEET/AD - need to move",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/0.1 cheatsheet",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/;nmap",
