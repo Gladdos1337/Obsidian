@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/XSS/2. Reflected.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/XSS/3. DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Reflected"
+              "title": "3. DOM"
             }
           }
         ]
@@ -199,8 +199,13 @@
   },
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
+    "CCNA/CCNA - Pics/Pasted image 20260921184104.png",
+    "CCNA/CCNA - Pics/Pasted image 20260921183527.png",
     "zCPTS_CHEATSHEET/3. Exploitation/XSS/1. Stored (Persistent).md",
+    "zCPTS_CHEATSHEET/3. Exploitation/XSS/3. DOM.md",
     "zCPTS_CHEATSHEET/3. Exploitation/XSS/2. Reflected.md",
+    "CCNA/CCNA - Pics/Pasted image 20260921183328.png",
+    "CCNA/CCNA - Pics/Pasted image 20260921183256.png",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/53 DNS/Cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/XSS",
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/53 DNS.md",
@@ -227,10 +232,8 @@
     "CCNA/CCNA - Pics/Pasted image 20260830132220.png",
     "CCNA/CCNA - Pics/Pasted image 20260830122929.png",
     "CCNA/CCNA - Pics/Pasted image 20260830122924.png",
-    "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Services/3306 MySQL/Cheatsheet.md",
     "CCNA/CCNA - Pics/Pasted image 20260830115035.png",
     "CCNA/CCNA - Pics/Pasted image 20260830114833.png",
-    "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases/MySQL - MSSQL cheatsheet.md",
     "zCPTS_CHEATSHEET/3. Exploitation/SQL Injection",
     "zCPTS_CHEATSHEET/AD - need to move",
     "zCPTS_CHEATSHEET/1. InfoGathering/Service Enumeration/Tools/Nmap/0.1 cheatsheet",
@@ -242,9 +245,6 @@
     "zCPTS_CHEATSHEET/3. Exploitation/Common Services/Attacking Common Services/1443 Databases",
     "CCNA/CCNA - Pics/Pasted image 20260725132802.png",
     "CCNA/CCNA - Pics/Pasted image 20260722185248.png",
-    "CCNA/CCNA - Pics/Pasted image 20260722185007.png",
-    "Pictures/pics/Pasted image 20260719183759.png",
-    "Pictures/pics/Pasted image 20260719184238.png",
     "Untitled.canvas"
   ]
 }
