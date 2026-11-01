@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zCPTS_CHEATSHEET/3. Exploitation/XSS/XSS Discovery.md",
+                "file": "zCPTS_CHEATSHEET/3. Exploitation/XSS/3. DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XSS Discovery"
+              "title": "3. DOM"
             }
           }
         ]
@@ -200,9 +200,9 @@
   "active": "fdab74005ccd41d7",
   "lastOpenFiles": [
     "zCPTS_CHEATSHEET/3. Exploitation/XSS/1. Stored (Persistent).md",
-    "zCPTS_CHEATSHEET/3. Exploitation/XSS/XSS Discovery.md",
     "zCPTS_CHEATSHEET/3. Exploitation/XSS/2. Reflected.md",
     "zCPTS_CHEATSHEET/3. Exploitation/XSS/3. DOM.md",
+    "zCPTS_CHEATSHEET/3. Exploitation/XSS/XSS Discovery.md",
     "CCNA/CCNA - Pics/Pasted image 20260921184104.png",
     "CCNA/CCNA - Pics/Pasted image 20260921183527.png",
     "CCNA/CCNA - Pics/Pasted image 20260921183328.png",
